@@ -1,0 +1,61 @@
+nama_lokasi,waktu,suhu_c,kode_cuaca,kecepatan_angin_kmh,arah_angin
+President University,2026-01-26T00:00,25.5,3,1.9,202
+President University,2026-01-26T01:00,25.2,80,3.1,201
+President University,2026-01-26T02:00,25.1,95,4.2,200
+President University,2026-01-26T03:00,25.1,95,5.2,214
+President University,2026-01-26T04:00,24.9,95,4.6,219
+President University,2026-01-26T05:00,24.7,80,3.9,248
+President University,2026-01-26T06:00,24.6,80,4.2,250
+President University,2026-01-26T07:00,25.1,3,3.3,257
+President University,2026-01-26T08:00,25.9,3,4.7,266
+President University,2026-01-26T09:00,27.0,3,8.1,291
+President University,2026-01-26T10:00,27.8,80,10.4,304
+President University,2026-01-26T11:00,28.5,80,12.0,309
+Terminal Cikarang,2026-01-26T00:00,25.6,3,1.9,202
+Terminal Cikarang,2026-01-26T01:00,25.3,80,3.1,201
+Terminal Cikarang,2026-01-26T02:00,25.2,95,4.2,200
+Terminal Cikarang,2026-01-26T03:00,25.1,95,5.2,214
+Terminal Cikarang,2026-01-26T04:00,24.9,95,4.6,219
+Terminal Cikarang,2026-01-26T05:00,24.8,80,3.9,248
+Terminal Cikarang,2026-01-26T06:00,24.6,80,4.2,250
+Terminal Cikarang,2026-01-26T07:00,25.1,3,3.3,257
+Terminal Cikarang,2026-01-26T08:00,26.0,3,4.7,266
+Terminal Cikarang,2026-01-26T09:00,27.0,3,8.1,291
+Terminal Cikarang,2026-01-26T10:00,27.8,80,10.4,304
+Terminal Cikarang,2026-01-26T11:00,28.6,80,12.0,309
+Stasiun Cikarang,2026-01-26T00:00,25.6,3,1.9,202
+Stasiun Cikarang,2026-01-26T01:00,25.3,80,3.1,201
+Stasiun Cikarang,2026-01-26T02:00,25.2,95,4.2,200
+Stasiun Cikarang,2026-01-26T03:00,25.1,95,5.2,214
+Stasiun Cikarang,2026-01-26T04:00,24.9,95,4.6,219
+Stasiun Cikarang,2026-01-26T05:00,24.8,80,3.9,248
+Stasiun Cikarang,2026-01-26T06:00,24.6,80,4.2,250
+Stasiun Cikarang,2026-01-26T07:00,25.1,3,3.3,257
+Stasiun Cikarang,2026-01-26T08:00,26.0,3,4.7,266
+Stasiun Cikarang,2026-01-26T09:00,27.0,3,8.1,291
+Stasiun Cikarang,2026-01-26T10:00,27.8,80,10.4,304
+Stasiun Cikarang,2026-01-26T11:00,28.6,80,12.0,309
+Sentra Grosir Cikarang,2026-01-26T00:00,25.5,3,1.9,202
+Sentra Grosir Cikarang,2026-01-26T01:00,25.2,80,3.1,201
+Sentra Grosir Cikarang,2026-01-26T02:00,25.1,95,4.2,200
+Sentra Grosir Cikarang,2026-01-26T03:00,25.0,95,5.2,214
+Sentra Grosir Cikarang,2026-01-26T04:00,24.8,95,4.6,219
+Sentra Grosir Cikarang,2026-01-26T05:00,24.7,80,3.9,248
+Sentra Grosir Cikarang,2026-01-26T06:00,24.5,80,4.2,250
+Sentra Grosir Cikarang,2026-01-26T07:00,25.0,3,3.3,257
+Sentra Grosir Cikarang,2026-01-26T08:00,25.9,3,4.7,266
+Sentra Grosir Cikarang,2026-01-26T09:00,26.9,3,8.1,291
+Sentra Grosir Cikarang,2026-01-26T10:00,27.7,80,10.4,304
+Sentra Grosir Cikarang,2026-01-26T11:00,28.5,80,12.0,309
+Lippo Mall Cikarang,2026-01-26T00:00,25.2,3,2.9,173
+Lippo Mall Cikarang,2026-01-26T01:00,24.9,3,3.0,194
+Lippo Mall Cikarang,2026-01-26T02:00,24.8,80,2.8,220
+Lippo Mall Cikarang,2026-01-26T03:00,24.6,80,2.5,225
+Lippo Mall Cikarang,2026-01-26T04:00,24.5,80,2.6,254
+Lippo Mall Cikarang,2026-01-26T05:00,24.5,80,3.3,283
+Lippo Mall Cikarang,2026-01-26T06:00,24.5,80,2.5,270
+Lippo Mall Cikarang,2026-01-26T07:00,25.0,3,1.8,259
+Lippo Mall Cikarang,2026-01-26T08:00,25.8,3,3.0,256
+Lippo Mall Cikarang,2026-01-26T09:00,27.1,2,6.7,286
+Lippo Mall Cikarang,2026-01-26T10:00,27.9,3,10.3,306
+Lippo Mall Cikarang,2026-01-26T11:00,28.5,3,12.5,309

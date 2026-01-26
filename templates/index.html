@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Routing Cikarang</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div id="sidebar">
+        <h3>🚗 Smart Route Cikarang</h3>
+        
+        <label>Asal:</label>
+        <select id="startLoc">
+            {% for loc in locations %}
+            <option value="{{ loc }}">{{ loc }}</option>
+            {% endfor %}
+        </select>
+        
+        <label>Tujuan:</label>
+        <select id="endLoc">
+            {% for loc in locations %}
+            <option value="{{ loc }}" {% if loop.last %}selected{% endif %}>{{ loc }}</option>
+            {% endfor %}
+        </select>
+
+        <button id="btnCalculate">🔍 Hitung Rute & Analisis</button>
+
+        <div id="resultCard" class="card" style="display:none;">
+            <h4>Analisis Perjalanan</h4>
+            <div class="stat-row"><span>📏 Jarak:</span> <span id="distVal" class="val">-</span></div>
+            <div class="stat-row"><span>⏱️ ETA Normal:</span> <span id="baseEta" class="val">-</span></div>
+            <hr>
+            <div class="stat-row" style="font-size: 16px;">
+                <span>🚀 <b>Estimasi Waktu:</b></span> 
+                <span id="finalEta" class="val" style="color:#28a745">-</span>
+            </div>
+            <div id="weatherAlert" class="alert"></div>
+        </div>
+
+        <div id="conditionCard" class="card" style="display:none;">
+            <h4>Kondisi Lapangan</h4>
+            
+            <small>📍 Lokasi Asal:</small>
+            <div class="stat-row"><span>🚦 Speed:</span> <span id="sSpeed" class="val">-</span></div>
+            <div class="stat-row"><span>🌡️ Suhu:</span> <span id="sTemp" class="val">-</span></div>
+            <div class="stat-row"><span>🌦️ Cuaca:</span> <span id="sWeather" class="val">-</span></div>
+            <div class="stat-row" style="font-size: 12px; color: #666;"><span>💧 Curah Hujan:</span> <span id="sRain">-</span></div>
+            
+            <hr style="margin: 10px 0;">
+        
+            <small>📍 Lokasi Tujuan:</small>
+            <div class="stat-row"><span>🚦 Speed:</span> <span id="eSpeed" class="val">-</span></div>
+            <div class="stat-row"><span>🌡️ Suhu:</span> <span id="eTemp" class="val">-</span></div>
+            <div class="stat-row"><span>🌦️ Cuaca:</span> <span id="eWeather" class="val">-</span></div>
+            <div class="stat-row" style="font-size: 12px; color: #666;"><span>💧 Curah Hujan:</span> <span id="eRain">-</span></div>
+        </div>
+    </div>
+
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

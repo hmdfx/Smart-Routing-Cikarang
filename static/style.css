@@ -1,0 +1,84 @@
+body { 
+    margin: 0; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    display: flex; 
+    height: 100vh; 
+}
+
+#sidebar { 
+    width: 320px; 
+    background: #f8f9fa; 
+    padding: 20px; 
+    box-shadow: 2px 0 10px rgba(0,0,0,0.1); 
+    z-index: 1000; 
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#map { 
+    flex-grow: 1; 
+    height: 100%; 
+}
+
+h3 { margin-top: 0; color: #333; }
+
+select, button { 
+    width: 100%; 
+    padding: 10px; 
+    margin-bottom: 12px; 
+    border-radius: 5px; 
+    border: 1px solid #ccc; 
+    box-sizing: border-box; /* Agar padding tidak merusak width */
+}
+
+button { 
+    background: #007bff; 
+    color: white; 
+    border: none; 
+    font-weight: bold; 
+    cursor: pointer; 
+    transition: background 0.3s;
+}
+
+button:hover { background: #0056b3; }
+
+.card { 
+    background: white; 
+    padding: 15px; 
+    border-radius: 8px; 
+    border: 1px solid #ddd; 
+    margin-top: 15px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.card h4 { 
+    margin-top: 0; 
+    color: #333; 
+    border-bottom: 2px solid #007bff; 
+    display: inline-block; 
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.stat-row { 
+    display: flex; 
+    justify-content: space-between; 
+    margin-bottom: 8px; 
+    font-size: 14px; 
+}
+
+.val { font-weight: bold; color: #007bff; }
+
+.alert { 
+    color: #d9534f; 
+    font-weight: bold; 
+    font-size: 13px; 
+    margin-top: 10px; 
+    background: #fff3cd;
+    padding: 8px;
+    border-radius: 4px;
+    display: none; /* Sembunyikan defaultnya */
+}
+
+hr { border: 0; border-top: 1px solid #eee; margin: 10px 0; }
