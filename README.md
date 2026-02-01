@@ -33,7 +33,6 @@ Sistem ini menerapkan konsep **Data Fusion**, di mana kondisi hujan deras atau j
 
 ## 📂 Struktur Proyek
 
-Pastikan susunan folder kamu terlihat seperti ini:
 
 ```text
 /Smart_Route_Cikarang

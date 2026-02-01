@@ -1,0 +1,4477 @@
+timestamp,location_name,speed_kmh
+2026-01-26 23:44:42,Terminal Cikarang,45
+2026-01-26 23:44:42,Sentra Grosir Cikarang,33
+2026-01-26 23:44:42,Stasiun Cikarang,28
+2026-01-26 23:44:42,Lippo Mall Cikarang,29
+2026-01-26 23:44:42,President University,33
+2026-01-26 23:45:14,Terminal Cikarang,45
+2026-01-26 23:45:14,Sentra Grosir Cikarang,33
+2026-01-26 23:45:14,Stasiun Cikarang,28
+2026-01-26 23:45:14,Lippo Mall Cikarang,29
+2026-01-26 23:45:14,President University,33
+2026-01-26 23:46:20,Terminal Cikarang,45
+2026-01-26 23:46:20,Sentra Grosir Cikarang,33
+2026-01-26 23:46:20,Stasiun Cikarang,28
+2026-01-26 23:46:20,Lippo Mall Cikarang,29
+2026-01-26 23:46:20,President University,33
+2026-01-27 13:37:37,Terminal Cikarang,33
+2026-01-27 13:37:37,Sentra Grosir Cikarang,20
+2026-01-27 13:37:37,Stasiun Cikarang,21
+2026-01-27 13:37:37,Lippo Mall Cikarang,21
+2026-01-27 13:37:37,President University,25
+2026-01-27 13:38:46,Terminal Cikarang,34
+2026-01-27 13:38:46,Sentra Grosir Cikarang,21
+2026-01-27 13:38:46,Stasiun Cikarang,22
+2026-01-27 13:38:46,Lippo Mall Cikarang,21
+2026-01-27 13:38:46,President University,24
+2026-01-27 13:39:54,Terminal Cikarang,34
+2026-01-27 13:39:54,Sentra Grosir Cikarang,21
+2026-01-27 13:39:54,Stasiun Cikarang,22
+2026-01-27 13:39:54,Lippo Mall Cikarang,20
+2026-01-27 13:39:54,President University,24
+2026-01-27 13:40:59,Terminal Cikarang,34
+2026-01-27 13:40:59,Sentra Grosir Cikarang,20
+2026-01-27 13:40:59,Stasiun Cikarang,22
+2026-01-27 13:40:59,Lippo Mall Cikarang,19
+2026-01-27 13:40:59,President University,25
+2026-01-27 13:42:05,Terminal Cikarang,34
+2026-01-27 13:42:05,Sentra Grosir Cikarang,20
+2026-01-27 13:42:05,Stasiun Cikarang,22
+2026-01-27 13:42:05,Lippo Mall Cikarang,19
+2026-01-27 13:42:05,President University,25
+2026-01-27 13:43:10,Terminal Cikarang,33
+2026-01-27 13:43:10,Sentra Grosir Cikarang,20
+2026-01-27 13:43:10,Stasiun Cikarang,19
+2026-01-27 13:43:10,Lippo Mall Cikarang,22
+2026-01-27 13:43:10,President University,25
+2026-01-27 13:44:15,Terminal Cikarang,33
+2026-01-27 13:44:15,Sentra Grosir Cikarang,20
+2026-01-27 13:44:15,Stasiun Cikarang,19
+2026-01-27 13:44:15,Lippo Mall Cikarang,22
+2026-01-27 13:44:15,President University,25
+2026-01-27 13:45:20,Terminal Cikarang,33
+2026-01-27 13:45:20,Sentra Grosir Cikarang,21
+2026-01-27 13:45:20,Stasiun Cikarang,19
+2026-01-27 13:45:20,Lippo Mall Cikarang,22
+2026-01-27 13:45:20,President University,25
+2026-01-27 13:46:25,Terminal Cikarang,34
+2026-01-27 13:46:25,Sentra Grosir Cikarang,22
+2026-01-27 13:46:25,Stasiun Cikarang,19
+2026-01-27 13:46:25,Lippo Mall Cikarang,22
+2026-01-27 13:46:25,President University,26
+2026-01-27 13:47:31,Terminal Cikarang,34
+2026-01-27 13:47:31,Sentra Grosir Cikarang,22
+2026-01-27 13:47:31,Stasiun Cikarang,19
+2026-01-27 13:47:31,Lippo Mall Cikarang,21
+2026-01-27 13:47:31,President University,25
+2026-01-27 13:48:36,Terminal Cikarang,34
+2026-01-27 13:48:36,Sentra Grosir Cikarang,22
+2026-01-27 13:48:36,Stasiun Cikarang,19
+2026-01-27 13:48:36,Lippo Mall Cikarang,21
+2026-01-27 13:48:36,President University,25
+2026-01-27 13:49:42,Terminal Cikarang,34
+2026-01-27 13:49:42,Sentra Grosir Cikarang,20
+2026-01-27 13:49:42,Stasiun Cikarang,19
+2026-01-27 13:49:42,Lippo Mall Cikarang,22
+2026-01-27 13:49:42,President University,25
+2026-01-27 13:50:47,Terminal Cikarang,34
+2026-01-27 13:50:47,Sentra Grosir Cikarang,21
+2026-01-27 13:50:47,Stasiun Cikarang,19
+2026-01-27 13:50:47,Lippo Mall Cikarang,23
+2026-01-27 13:50:47,President University,25
+2026-01-27 13:51:52,Terminal Cikarang,45
+2026-01-27 13:51:52,Sentra Grosir Cikarang,21
+2026-01-27 13:51:52,Stasiun Cikarang,19
+2026-01-27 13:51:52,Lippo Mall Cikarang,23
+2026-01-27 13:51:52,President University,26
+2026-01-27 13:52:57,Terminal Cikarang,45
+2026-01-27 13:52:57,Sentra Grosir Cikarang,20
+2026-01-27 13:52:57,Stasiun Cikarang,19
+2026-01-27 13:52:57,Lippo Mall Cikarang,29
+2026-01-27 13:52:57,President University,26
+2026-01-27 13:54:03,Terminal Cikarang,45
+2026-01-27 13:54:03,Sentra Grosir Cikarang,20
+2026-01-27 13:54:03,Stasiun Cikarang,19
+2026-01-27 13:54:03,Lippo Mall Cikarang,29
+2026-01-27 13:54:03,President University,25
+2026-01-27 13:55:07,Terminal Cikarang,36
+2026-01-27 13:55:07,Sentra Grosir Cikarang,19
+2026-01-27 13:55:07,Stasiun Cikarang,19
+2026-01-27 13:55:07,Lippo Mall Cikarang,29
+2026-01-27 13:55:07,President University,25
+2026-01-27 13:56:12,Terminal Cikarang,36
+2026-01-27 13:56:12,Sentra Grosir Cikarang,19
+2026-01-27 13:56:12,Stasiun Cikarang,19
+2026-01-27 13:56:12,Lippo Mall Cikarang,29
+2026-01-27 13:56:12,President University,24
+2026-01-27 13:57:17,Terminal Cikarang,35
+2026-01-27 13:57:17,Sentra Grosir Cikarang,19
+2026-01-27 13:57:17,Stasiun Cikarang,19
+2026-01-27 13:57:17,Lippo Mall Cikarang,29
+2026-01-27 13:57:17,President University,33
+2026-01-27 13:58:22,Terminal Cikarang,34
+2026-01-27 13:58:22,Sentra Grosir Cikarang,19
+2026-01-27 13:58:22,Stasiun Cikarang,19
+2026-01-27 13:58:22,Lippo Mall Cikarang,29
+2026-01-27 13:58:22,President University,33
+2026-01-27 13:59:26,Terminal Cikarang,34
+2026-01-27 13:59:26,Sentra Grosir Cikarang,19
+2026-01-27 13:59:26,Stasiun Cikarang,19
+2026-01-27 13:59:26,Lippo Mall Cikarang,29
+2026-01-27 13:59:26,President University,33
+2026-01-27 14:00:31,Terminal Cikarang,34
+2026-01-27 14:00:31,Sentra Grosir Cikarang,19
+2026-01-27 14:00:31,Stasiun Cikarang,19
+2026-01-27 14:00:31,Lippo Mall Cikarang,23
+2026-01-27 14:00:31,President University,33
+2026-01-27 14:01:36,Terminal Cikarang,35
+2026-01-27 14:01:36,Sentra Grosir Cikarang,19
+2026-01-27 14:01:36,Stasiun Cikarang,21
+2026-01-27 14:01:36,Lippo Mall Cikarang,24
+2026-01-27 14:01:36,President University,33
+2026-01-27 14:02:41,Terminal Cikarang,35
+2026-01-27 14:02:41,Sentra Grosir Cikarang,19
+2026-01-27 14:02:41,Stasiun Cikarang,21
+2026-01-27 14:02:41,Lippo Mall Cikarang,21
+2026-01-27 14:02:41,President University,33
+2026-01-27 14:03:46,Terminal Cikarang,34
+2026-01-27 14:03:46,Sentra Grosir Cikarang,19
+2026-01-27 14:03:46,Stasiun Cikarang,21
+2026-01-27 14:03:46,Lippo Mall Cikarang,23
+2026-01-27 14:03:46,President University,24
+2026-01-27 14:04:51,Terminal Cikarang,34
+2026-01-27 14:04:51,Sentra Grosir Cikarang,19
+2026-01-27 14:04:51,Stasiun Cikarang,21
+2026-01-27 14:04:51,Lippo Mall Cikarang,22
+2026-01-27 14:04:51,President University,23
+2026-01-27 14:05:56,Terminal Cikarang,34
+2026-01-27 14:05:56,Sentra Grosir Cikarang,19
+2026-01-27 14:05:56,Stasiun Cikarang,21
+2026-01-27 14:05:56,Lippo Mall Cikarang,23
+2026-01-27 14:05:56,President University,23
+2026-01-27 14:07:01,Terminal Cikarang,34
+2026-01-27 14:07:01,Sentra Grosir Cikarang,19
+2026-01-27 14:07:01,Stasiun Cikarang,21
+2026-01-27 14:07:01,Lippo Mall Cikarang,22
+2026-01-27 14:07:01,President University,24
+2026-01-27 14:08:06,Terminal Cikarang,34
+2026-01-27 14:08:06,Sentra Grosir Cikarang,19
+2026-01-27 14:08:06,Stasiun Cikarang,21
+2026-01-27 14:08:06,Lippo Mall Cikarang,22
+2026-01-27 14:08:06,President University,24
+2026-01-27 14:09:10,Terminal Cikarang,34
+2026-01-27 14:09:10,Sentra Grosir Cikarang,20
+2026-01-27 14:09:10,Stasiun Cikarang,20
+2026-01-27 14:09:10,Lippo Mall Cikarang,22
+2026-01-27 14:09:10,President University,24
+2026-01-27 14:10:15,Terminal Cikarang,34
+2026-01-27 14:10:15,Sentra Grosir Cikarang,20
+2026-01-27 14:10:15,Stasiun Cikarang,20
+2026-01-27 14:10:15,Lippo Mall Cikarang,21
+2026-01-27 14:10:15,President University,33
+2026-01-27 14:11:21,Terminal Cikarang,34
+2026-01-27 14:11:21,Sentra Grosir Cikarang,20
+2026-01-27 14:11:21,Stasiun Cikarang,20
+2026-01-27 14:11:21,Lippo Mall Cikarang,21
+2026-01-27 14:11:21,President University,33
+2026-01-27 14:12:25,Terminal Cikarang,33
+2026-01-27 14:12:25,Sentra Grosir Cikarang,19
+2026-01-27 14:12:25,Stasiun Cikarang,16
+2026-01-27 14:12:25,Lippo Mall Cikarang,21
+2026-01-27 14:12:25,President University,33
+2026-01-27 14:13:30,Terminal Cikarang,33
+2026-01-27 14:13:30,Sentra Grosir Cikarang,19
+2026-01-27 14:13:30,Stasiun Cikarang,16
+2026-01-27 14:13:30,Lippo Mall Cikarang,21
+2026-01-27 14:13:30,President University,33
+2026-01-27 14:14:36,Terminal Cikarang,33
+2026-01-27 14:14:36,Sentra Grosir Cikarang,20
+2026-01-27 14:14:36,Stasiun Cikarang,17
+2026-01-27 14:14:36,Lippo Mall Cikarang,21
+2026-01-27 14:14:36,President University,33
+2026-01-27 14:15:40,Terminal Cikarang,32
+2026-01-27 14:15:40,Sentra Grosir Cikarang,20
+2026-01-27 14:15:40,Stasiun Cikarang,17
+2026-01-27 14:15:40,Lippo Mall Cikarang,21
+2026-01-27 14:15:40,President University,33
+2026-01-27 14:16:47,Terminal Cikarang,32
+2026-01-27 14:16:47,Sentra Grosir Cikarang,21
+2026-01-27 14:16:47,Stasiun Cikarang,17
+2026-01-27 14:16:47,Lippo Mall Cikarang,23
+2026-01-27 14:16:47,President University,33
+2026-01-27 14:17:52,Terminal Cikarang,32
+2026-01-27 14:17:52,Sentra Grosir Cikarang,20
+2026-01-27 14:17:52,Stasiun Cikarang,17
+2026-01-27 14:17:52,Lippo Mall Cikarang,23
+2026-01-27 14:17:52,President University,33
+2026-01-27 14:18:57,Terminal Cikarang,30
+2026-01-27 14:18:57,Sentra Grosir Cikarang,19
+2026-01-27 14:18:57,Stasiun Cikarang,17
+2026-01-27 14:18:57,Lippo Mall Cikarang,23
+2026-01-27 14:18:57,President University,33
+2026-01-27 14:20:01,Terminal Cikarang,30
+2026-01-27 14:20:01,Sentra Grosir Cikarang,19
+2026-01-27 14:20:01,Stasiun Cikarang,17
+2026-01-27 14:20:01,Lippo Mall Cikarang,23
+2026-01-27 14:20:01,President University,33
+2026-01-27 14:21:09,Terminal Cikarang,30
+2026-01-27 14:21:09,Sentra Grosir Cikarang,20
+2026-01-27 14:21:09,Stasiun Cikarang,17
+2026-01-27 14:21:09,Lippo Mall Cikarang,23
+2026-01-27 14:21:09,President University,33
+2026-01-27 14:22:14,Terminal Cikarang,30
+2026-01-27 14:22:14,Sentra Grosir Cikarang,17
+2026-01-27 14:22:14,Stasiun Cikarang,17
+2026-01-27 14:22:14,Lippo Mall Cikarang,23
+2026-01-27 14:22:14,President University,33
+2026-01-27 14:23:19,Terminal Cikarang,30
+2026-01-27 14:23:19,Sentra Grosir Cikarang,16
+2026-01-27 14:23:19,Stasiun Cikarang,21
+2026-01-27 14:23:19,Lippo Mall Cikarang,23
+2026-01-27 14:23:19,President University,33
+2026-01-27 14:24:23,Terminal Cikarang,30
+2026-01-27 14:24:23,Sentra Grosir Cikarang,17
+2026-01-27 14:24:23,Stasiun Cikarang,20
+2026-01-27 14:24:23,Lippo Mall Cikarang,23
+2026-01-27 14:24:23,President University,33
+2026-01-27 14:25:28,Terminal Cikarang,29
+2026-01-27 14:25:28,Sentra Grosir Cikarang,18
+2026-01-27 14:25:28,Stasiun Cikarang,21
+2026-01-27 14:25:28,Lippo Mall Cikarang,23
+2026-01-27 14:25:28,President University,33
+2026-01-27 14:26:32,Terminal Cikarang,30
+2026-01-27 14:26:32,Sentra Grosir Cikarang,18
+2026-01-27 14:26:32,Stasiun Cikarang,21
+2026-01-27 14:26:32,Lippo Mall Cikarang,29
+2026-01-27 14:26:32,President University,33
+2026-01-27 14:27:39,Terminal Cikarang,30
+2026-01-27 14:27:39,Sentra Grosir Cikarang,18
+2026-01-27 14:27:39,Stasiun Cikarang,21
+2026-01-27 14:27:39,Lippo Mall Cikarang,29
+2026-01-27 14:27:39,President University,33
+2026-01-27 14:28:44,Terminal Cikarang,32
+2026-01-27 14:28:44,Sentra Grosir Cikarang,18
+2026-01-27 14:28:44,Stasiun Cikarang,21
+2026-01-27 14:28:44,Lippo Mall Cikarang,29
+2026-01-27 14:28:44,President University,33
+2026-01-27 14:29:48,Terminal Cikarang,32
+2026-01-27 14:29:48,Sentra Grosir Cikarang,18
+2026-01-27 14:29:48,Stasiun Cikarang,21
+2026-01-27 14:29:48,Lippo Mall Cikarang,29
+2026-01-27 14:29:48,President University,33
+2026-01-27 14:30:52,Terminal Cikarang,32
+2026-01-27 14:30:52,Sentra Grosir Cikarang,19
+2026-01-27 14:30:52,Stasiun Cikarang,20
+2026-01-27 14:30:52,Lippo Mall Cikarang,29
+2026-01-27 14:30:52,President University,33
+2026-01-27 14:31:57,Terminal Cikarang,30
+2026-01-27 14:31:57,Sentra Grosir Cikarang,19
+2026-01-27 14:31:57,Stasiun Cikarang,19
+2026-01-27 14:31:57,Lippo Mall Cikarang,29
+2026-01-27 14:31:57,President University,33
+2026-01-27 14:33:03,Terminal Cikarang,30
+2026-01-27 14:33:03,Sentra Grosir Cikarang,18
+2026-01-27 14:33:03,Stasiun Cikarang,19
+2026-01-27 14:33:03,Lippo Mall Cikarang,29
+2026-01-27 14:33:03,President University,33
+2026-01-27 14:34:07,Terminal Cikarang,30
+2026-01-27 14:34:07,Sentra Grosir Cikarang,21
+2026-01-27 14:34:07,Stasiun Cikarang,19
+2026-01-27 14:34:07,Lippo Mall Cikarang,29
+2026-01-27 14:34:07,President University,33
+2026-01-27 14:35:12,Terminal Cikarang,30
+2026-01-27 14:35:12,Sentra Grosir Cikarang,20
+2026-01-27 14:35:12,Stasiun Cikarang,20
+2026-01-27 14:35:12,Lippo Mall Cikarang,29
+2026-01-27 14:35:12,President University,33
+2026-01-27 14:36:16,Terminal Cikarang,30
+2026-01-27 14:36:16,Sentra Grosir Cikarang,21
+2026-01-27 14:36:16,Stasiun Cikarang,20
+2026-01-27 14:36:16,Lippo Mall Cikarang,29
+2026-01-27 14:36:16,President University,25
+2026-01-27 14:37:20,Terminal Cikarang,30
+2026-01-27 14:37:20,Sentra Grosir Cikarang,20
+2026-01-27 14:37:20,Stasiun Cikarang,20
+2026-01-27 14:37:20,Lippo Mall Cikarang,29
+2026-01-27 14:37:20,President University,25
+2026-01-27 14:38:25,Terminal Cikarang,29
+2026-01-27 14:38:25,Sentra Grosir Cikarang,19
+2026-01-27 14:38:25,Stasiun Cikarang,20
+2026-01-27 14:38:25,Lippo Mall Cikarang,29
+2026-01-27 14:38:25,President University,25
+2026-01-27 14:39:30,Terminal Cikarang,30
+2026-01-27 14:39:30,Sentra Grosir Cikarang,19
+2026-01-27 14:39:30,Stasiun Cikarang,20
+2026-01-27 14:39:30,Lippo Mall Cikarang,29
+2026-01-27 14:39:30,President University,33
+2026-01-27 14:40:35,Terminal Cikarang,30
+2026-01-27 14:40:35,Sentra Grosir Cikarang,19
+2026-01-27 14:40:35,Stasiun Cikarang,20
+2026-01-27 14:40:35,Lippo Mall Cikarang,29
+2026-01-27 14:40:35,President University,33
+2026-01-27 14:41:46,Terminal Cikarang,30
+2026-01-27 14:41:46,Sentra Grosir Cikarang,18
+2026-01-27 14:41:46,Stasiun Cikarang,20
+2026-01-27 14:41:46,Lippo Mall Cikarang,29
+2026-01-27 14:41:46,President University,33
+2026-01-27 14:42:51,Terminal Cikarang,30
+2026-01-27 14:42:51,Sentra Grosir Cikarang,18
+2026-01-27 14:42:51,Stasiun Cikarang,19
+2026-01-27 14:42:51,Lippo Mall Cikarang,29
+2026-01-27 14:42:51,President University,33
+2026-01-27 14:43:56,Terminal Cikarang,30
+2026-01-27 14:43:56,Sentra Grosir Cikarang,18
+2026-01-27 14:43:56,Stasiun Cikarang,19
+2026-01-27 14:43:56,Lippo Mall Cikarang,29
+2026-01-27 14:43:56,President University,33
+2026-01-27 14:45:01,Terminal Cikarang,30
+2026-01-27 14:45:01,Sentra Grosir Cikarang,18
+2026-01-27 14:45:01,Stasiun Cikarang,16
+2026-01-27 14:45:01,Lippo Mall Cikarang,29
+2026-01-27 14:45:01,President University,26
+2026-01-27 14:46:08,Terminal Cikarang,29
+2026-01-27 14:46:08,Sentra Grosir Cikarang,18
+2026-01-27 14:46:08,Stasiun Cikarang,16
+2026-01-27 14:46:08,Lippo Mall Cikarang,29
+2026-01-27 14:46:08,President University,33
+2026-01-27 14:47:12,Terminal Cikarang,29
+2026-01-27 14:47:12,Sentra Grosir Cikarang,18
+2026-01-27 14:47:12,Stasiun Cikarang,16
+2026-01-27 14:47:12,Lippo Mall Cikarang,29
+2026-01-27 14:47:12,President University,24
+2026-01-27 14:48:17,Terminal Cikarang,29
+2026-01-27 14:48:17,Sentra Grosir Cikarang,18
+2026-01-27 14:48:17,Stasiun Cikarang,16
+2026-01-27 14:48:17,Lippo Mall Cikarang,29
+2026-01-27 14:48:17,President University,24
+2026-01-27 14:49:27,Terminal Cikarang,30
+2026-01-27 14:49:27,Sentra Grosir Cikarang,18
+2026-01-27 14:49:27,Stasiun Cikarang,16
+2026-01-27 14:49:27,Lippo Mall Cikarang,29
+2026-01-27 14:49:27,President University,24
+2026-01-27 14:50:37,Lippo Mall Cikarang,29
+2026-01-27 14:50:37,President University,23
+2026-01-27 14:52:07,Terminal Cikarang,29
+2026-01-27 14:52:07,Sentra Grosir Cikarang,19
+2026-01-27 14:52:07,Stasiun Cikarang,16
+2026-01-27 14:52:07,Lippo Mall Cikarang,29
+2026-01-27 14:52:07,President University,23
+2026-01-27 14:53:11,Terminal Cikarang,29
+2026-01-27 14:53:11,Sentra Grosir Cikarang,19
+2026-01-27 14:53:11,Stasiun Cikarang,16
+2026-01-27 14:53:11,Lippo Mall Cikarang,29
+2026-01-27 14:53:11,President University,23
+2026-01-27 14:54:17,Terminal Cikarang,28
+2026-01-27 14:54:17,Sentra Grosir Cikarang,16
+2026-01-27 14:54:17,Stasiun Cikarang,16
+2026-01-27 14:54:17,Lippo Mall Cikarang,29
+2026-01-27 14:54:17,President University,22
+2026-01-27 14:55:23,Terminal Cikarang,26
+2026-01-27 14:55:23,Sentra Grosir Cikarang,15
+2026-01-27 14:55:23,Stasiun Cikarang,16
+2026-01-27 14:55:23,Lippo Mall Cikarang,29
+2026-01-27 14:55:23,President University,22
+2026-01-27 14:56:28,Terminal Cikarang,26
+2026-01-27 14:56:28,Sentra Grosir Cikarang,15
+2026-01-27 14:56:28,Stasiun Cikarang,16
+2026-01-27 14:56:28,Lippo Mall Cikarang,29
+2026-01-27 14:56:28,President University,21
+2026-01-27 14:57:36,Terminal Cikarang,26
+2026-01-27 14:57:36,Sentra Grosir Cikarang,14
+2026-01-27 14:57:36,Stasiun Cikarang,18
+2026-01-27 14:57:36,Lippo Mall Cikarang,29
+2026-01-27 14:57:36,President University,22
+2026-01-27 14:58:42,Terminal Cikarang,24
+2026-01-27 14:58:42,Sentra Grosir Cikarang,13
+2026-01-27 14:58:42,Stasiun Cikarang,20
+2026-01-27 14:58:42,Lippo Mall Cikarang,29
+2026-01-27 14:58:42,President University,22
+2026-01-27 14:59:47,Terminal Cikarang,24
+2026-01-27 14:59:47,Sentra Grosir Cikarang,13
+2026-01-27 14:59:47,Stasiun Cikarang,20
+2026-01-27 14:59:47,Lippo Mall Cikarang,29
+2026-01-27 14:59:47,President University,23
+2026-01-27 15:00:51,Terminal Cikarang,24
+2026-01-27 15:00:51,Sentra Grosir Cikarang,12
+2026-01-27 15:00:51,Stasiun Cikarang,20
+2026-01-27 15:00:51,Lippo Mall Cikarang,29
+2026-01-27 15:00:51,President University,23
+2026-01-27 15:01:56,Terminal Cikarang,26
+2026-01-27 15:01:56,Sentra Grosir Cikarang,11
+2026-01-27 15:01:56,Stasiun Cikarang,19
+2026-01-27 15:01:56,Lippo Mall Cikarang,29
+2026-01-27 15:01:56,President University,23
+2026-01-27 15:03:01,Terminal Cikarang,26
+2026-01-27 15:03:01,Sentra Grosir Cikarang,11
+2026-01-27 15:03:01,Stasiun Cikarang,19
+2026-01-27 15:03:01,Lippo Mall Cikarang,29
+2026-01-27 15:03:01,President University,24
+2026-01-27 15:04:07,Terminal Cikarang,26
+2026-01-27 15:04:07,Sentra Grosir Cikarang,11
+2026-01-27 15:04:07,Stasiun Cikarang,21
+2026-01-27 15:04:07,Lippo Mall Cikarang,29
+2026-01-27 15:04:07,President University,24
+2026-01-27 15:05:11,Terminal Cikarang,27
+2026-01-27 15:05:11,Sentra Grosir Cikarang,11
+2026-01-27 15:05:11,Stasiun Cikarang,21
+2026-01-27 15:05:11,Lippo Mall Cikarang,29
+2026-01-27 15:05:11,President University,23
+2026-01-27 15:06:17,Terminal Cikarang,27
+2026-01-27 15:06:17,Sentra Grosir Cikarang,11
+2026-01-27 15:06:17,Stasiun Cikarang,19
+2026-01-27 15:06:17,Lippo Mall Cikarang,29
+2026-01-27 15:06:17,President University,23
+2026-01-27 15:07:22,Terminal Cikarang,27
+2026-01-27 15:07:22,Sentra Grosir Cikarang,11
+2026-01-27 15:07:22,Stasiun Cikarang,19
+2026-01-27 15:07:22,Lippo Mall Cikarang,24
+2026-01-27 15:07:22,President University,23
+2026-01-27 15:08:27,Terminal Cikarang,27
+2026-01-27 15:08:27,Sentra Grosir Cikarang,10
+2026-01-27 15:08:27,Stasiun Cikarang,20
+2026-01-27 15:08:27,Lippo Mall Cikarang,24
+2026-01-27 15:08:27,President University,24
+2026-01-27 15:09:32,Terminal Cikarang,27
+2026-01-27 15:09:32,Sentra Grosir Cikarang,10
+2026-01-27 15:09:32,Stasiun Cikarang,19
+2026-01-27 15:09:32,Lippo Mall Cikarang,23
+2026-01-27 15:09:32,President University,23
+2026-01-27 15:10:37,Terminal Cikarang,27
+2026-01-27 15:10:37,Sentra Grosir Cikarang,10
+2026-01-27 15:10:37,Stasiun Cikarang,20
+2026-01-27 15:10:37,Lippo Mall Cikarang,22
+2026-01-27 15:10:37,President University,22
+2026-01-27 15:11:41,Terminal Cikarang,29
+2026-01-27 15:11:41,Sentra Grosir Cikarang,10
+2026-01-27 15:11:41,Stasiun Cikarang,18
+2026-01-27 15:11:41,Lippo Mall Cikarang,22
+2026-01-27 15:11:41,President University,23
+2026-01-27 15:12:46,Terminal Cikarang,33
+2026-01-27 15:12:46,Sentra Grosir Cikarang,10
+2026-01-27 15:12:46,Stasiun Cikarang,17
+2026-01-27 15:12:46,Lippo Mall Cikarang,22
+2026-01-27 15:12:46,President University,23
+2026-01-27 15:13:51,Terminal Cikarang,33
+2026-01-27 15:13:51,Sentra Grosir Cikarang,10
+2026-01-27 15:13:51,Stasiun Cikarang,18
+2026-01-27 15:13:51,Lippo Mall Cikarang,21
+2026-01-27 15:13:51,President University,20
+2026-01-27 15:15:02,Terminal Cikarang,33
+2026-01-27 15:15:02,Sentra Grosir Cikarang,11
+2026-01-27 15:15:02,Stasiun Cikarang,18
+2026-01-27 15:15:02,Lippo Mall Cikarang,22
+2026-01-27 15:15:02,President University,19
+2026-01-27 15:16:11,Terminal Cikarang,33
+2026-01-27 15:16:11,Sentra Grosir Cikarang,11
+2026-01-27 15:16:11,Stasiun Cikarang,17
+2026-01-27 15:16:11,Lippo Mall Cikarang,22
+2026-01-27 15:16:11,President University,19
+2026-01-27 15:17:23,Terminal Cikarang,33
+2026-01-27 15:17:23,Sentra Grosir Cikarang,9
+2026-01-27 15:17:23,Stasiun Cikarang,17
+2026-01-27 15:17:23,Lippo Mall Cikarang,22
+2026-01-27 15:17:23,President University,19
+2026-01-27 15:18:31,Terminal Cikarang,33
+2026-01-27 15:18:31,Sentra Grosir Cikarang,9
+2026-01-27 15:18:31,Stasiun Cikarang,18
+2026-01-27 15:18:31,Lippo Mall Cikarang,22
+2026-01-27 15:18:31,President University,19
+2026-01-27 15:19:38,Terminal Cikarang,33
+2026-01-27 15:19:38,Sentra Grosir Cikarang,9
+2026-01-27 15:19:38,Stasiun Cikarang,18
+2026-01-27 15:19:38,Lippo Mall Cikarang,22
+2026-01-27 15:19:38,President University,20
+2026-01-27 15:20:51,Terminal Cikarang,30
+2026-01-27 15:20:51,Sentra Grosir Cikarang,8
+2026-01-27 15:20:51,Stasiun Cikarang,18
+2026-01-27 15:20:51,Lippo Mall Cikarang,23
+2026-01-27 15:20:51,President University,20
+2026-01-27 15:21:58,Terminal Cikarang,30
+2026-01-27 15:21:58,Sentra Grosir Cikarang,9
+2026-01-27 15:21:58,Stasiun Cikarang,18
+2026-01-27 15:21:58,Lippo Mall Cikarang,23
+2026-01-27 15:21:58,President University,20
+2026-01-27 15:23:09,Terminal Cikarang,30
+2026-01-27 15:23:09,Sentra Grosir Cikarang,9
+2026-01-27 15:23:09,Stasiun Cikarang,18
+2026-01-27 15:23:09,Lippo Mall Cikarang,23
+2026-01-27 15:23:09,President University,20
+2026-01-27 15:24:20,Terminal Cikarang,30
+2026-01-27 15:24:20,Sentra Grosir Cikarang,8
+2026-01-27 15:24:20,Stasiun Cikarang,18
+2026-01-27 15:24:20,Lippo Mall Cikarang,23
+2026-01-27 15:24:20,President University,20
+2026-01-27 15:25:26,Terminal Cikarang,30
+2026-01-27 15:25:26,Sentra Grosir Cikarang,8
+2026-01-27 15:25:26,Stasiun Cikarang,21
+2026-01-27 15:25:26,Lippo Mall Cikarang,23
+2026-01-27 15:25:26,President University,21
+2026-01-27 15:26:31,Terminal Cikarang,30
+2026-01-27 15:26:31,Sentra Grosir Cikarang,9
+2026-01-27 15:26:31,Stasiun Cikarang,21
+2026-01-27 15:26:31,Lippo Mall Cikarang,29
+2026-01-27 15:26:31,President University,21
+2026-01-27 15:27:36,Terminal Cikarang,30
+2026-01-27 15:27:36,Sentra Grosir Cikarang,10
+2026-01-27 15:27:36,Stasiun Cikarang,21
+2026-01-27 15:27:36,Lippo Mall Cikarang,29
+2026-01-27 15:27:36,President University,21
+2026-01-27 15:28:41,Terminal Cikarang,30
+2026-01-27 15:28:41,Sentra Grosir Cikarang,11
+2026-01-27 15:28:41,Stasiun Cikarang,21
+2026-01-27 15:28:41,Lippo Mall Cikarang,29
+2026-01-27 15:28:41,President University,22
+2026-01-27 15:29:46,Terminal Cikarang,30
+2026-01-27 15:29:46,Sentra Grosir Cikarang,11
+2026-01-27 15:29:46,Stasiun Cikarang,20
+2026-01-27 15:29:46,Lippo Mall Cikarang,29
+2026-01-27 15:29:46,President University,22
+2026-01-27 15:30:51,Terminal Cikarang,33
+2026-01-27 15:30:51,Sentra Grosir Cikarang,11
+2026-01-27 15:30:51,Stasiun Cikarang,20
+2026-01-27 15:30:51,Lippo Mall Cikarang,29
+2026-01-27 15:30:51,President University,24
+2026-01-27 15:31:56,Terminal Cikarang,35
+2026-01-27 15:31:56,Sentra Grosir Cikarang,11
+2026-01-27 15:31:56,Stasiun Cikarang,18
+2026-01-27 15:31:56,Lippo Mall Cikarang,29
+2026-01-27 15:31:56,President University,25
+2026-01-27 15:33:02,Terminal Cikarang,34
+2026-01-27 15:33:02,Sentra Grosir Cikarang,11
+2026-01-27 15:33:02,Stasiun Cikarang,18
+2026-01-27 15:33:02,Lippo Mall Cikarang,29
+2026-01-27 15:33:02,President University,33
+2026-01-27 15:34:06,Terminal Cikarang,33
+2026-01-27 15:34:06,Sentra Grosir Cikarang,11
+2026-01-27 15:34:06,Stasiun Cikarang,17
+2026-01-27 15:34:06,Lippo Mall Cikarang,29
+2026-01-27 15:34:06,President University,33
+2026-01-27 15:35:10,Terminal Cikarang,33
+2026-01-27 15:35:10,Sentra Grosir Cikarang,11
+2026-01-27 15:35:10,Stasiun Cikarang,17
+2026-01-27 15:35:10,Lippo Mall Cikarang,29
+2026-01-27 15:35:10,President University,33
+2026-01-27 15:36:15,Terminal Cikarang,33
+2026-01-27 15:36:15,Sentra Grosir Cikarang,11
+2026-01-27 15:36:15,Stasiun Cikarang,16
+2026-01-27 15:36:15,Lippo Mall Cikarang,29
+2026-01-27 15:36:15,President University,33
+2026-01-27 15:37:23,Terminal Cikarang,33
+2026-01-27 15:37:23,Sentra Grosir Cikarang,11
+2026-01-27 15:37:23,Stasiun Cikarang,16
+2026-01-27 15:37:23,Lippo Mall Cikarang,29
+2026-01-27 15:37:23,President University,33
+2026-01-27 15:38:27,Terminal Cikarang,33
+2026-01-27 15:38:27,Sentra Grosir Cikarang,12
+2026-01-27 15:38:27,Stasiun Cikarang,16
+2026-01-27 15:38:27,Lippo Mall Cikarang,29
+2026-01-27 15:38:27,President University,33
+2026-01-27 15:39:32,Terminal Cikarang,33
+2026-01-27 15:39:32,Sentra Grosir Cikarang,12
+2026-01-27 15:39:32,Stasiun Cikarang,16
+2026-01-27 15:39:32,Lippo Mall Cikarang,29
+2026-01-27 15:39:32,President University,33
+2026-01-27 15:40:37,Terminal Cikarang,34
+2026-01-27 15:40:37,Sentra Grosir Cikarang,13
+2026-01-27 15:40:37,Stasiun Cikarang,16
+2026-01-27 15:40:37,Lippo Mall Cikarang,29
+2026-01-27 15:40:37,President University,33
+2026-01-27 15:41:41,Terminal Cikarang,33
+2026-01-27 15:41:41,Sentra Grosir Cikarang,13
+2026-01-27 15:41:41,Stasiun Cikarang,16
+2026-01-27 15:41:41,Lippo Mall Cikarang,29
+2026-01-27 15:41:41,President University,33
+2026-01-27 15:42:46,Terminal Cikarang,33
+2026-01-27 15:42:46,Sentra Grosir Cikarang,13
+2026-01-27 15:42:46,Stasiun Cikarang,17
+2026-01-27 15:42:46,Lippo Mall Cikarang,29
+2026-01-27 15:42:46,President University,33
+2026-01-27 15:43:52,Terminal Cikarang,33
+2026-01-27 15:43:52,Sentra Grosir Cikarang,11
+2026-01-27 15:43:52,Stasiun Cikarang,18
+2026-01-27 15:43:52,Lippo Mall Cikarang,29
+2026-01-27 15:43:52,President University,33
+2026-01-27 15:44:57,Terminal Cikarang,33
+2026-01-27 15:44:57,Sentra Grosir Cikarang,11
+2026-01-27 15:44:57,Stasiun Cikarang,18
+2026-01-27 15:44:57,Lippo Mall Cikarang,29
+2026-01-27 15:44:57,President University,33
+2026-01-27 15:46:01,Terminal Cikarang,33
+2026-01-27 15:46:01,Sentra Grosir Cikarang,10
+2026-01-27 15:46:01,Stasiun Cikarang,18
+2026-01-27 15:46:01,Lippo Mall Cikarang,29
+2026-01-27 15:46:01,President University,24
+2026-01-27 15:47:06,Terminal Cikarang,34
+2026-01-27 15:47:06,Sentra Grosir Cikarang,11
+2026-01-27 15:47:06,Stasiun Cikarang,18
+2026-01-27 15:47:06,Lippo Mall Cikarang,29
+2026-01-27 15:47:06,President University,23
+2026-01-27 15:48:11,Terminal Cikarang,34
+2026-01-27 15:48:11,Sentra Grosir Cikarang,11
+2026-01-27 15:48:11,Stasiun Cikarang,19
+2026-01-27 15:48:11,Lippo Mall Cikarang,29
+2026-01-27 15:48:11,President University,23
+2026-01-27 15:49:15,Terminal Cikarang,33
+2026-01-27 15:49:15,Sentra Grosir Cikarang,11
+2026-01-27 15:49:15,Stasiun Cikarang,19
+2026-01-27 15:49:15,Lippo Mall Cikarang,29
+2026-01-27 15:49:15,President University,24
+2026-01-27 15:50:20,Terminal Cikarang,33
+2026-01-27 15:50:20,Sentra Grosir Cikarang,11
+2026-01-27 15:50:20,Stasiun Cikarang,19
+2026-01-27 15:50:20,Lippo Mall Cikarang,29
+2026-01-27 15:50:20,President University,24
+2026-01-27 15:51:24,Terminal Cikarang,32
+2026-01-27 15:51:24,Sentra Grosir Cikarang,10
+2026-01-27 15:51:24,Stasiun Cikarang,20
+2026-01-27 15:51:24,Lippo Mall Cikarang,29
+2026-01-27 15:51:24,President University,33
+2026-01-27 15:52:28,Terminal Cikarang,32
+2026-01-27 15:52:28,Sentra Grosir Cikarang,10
+2026-01-27 15:52:28,Stasiun Cikarang,20
+2026-01-27 15:52:28,Lippo Mall Cikarang,29
+2026-01-27 15:52:28,President University,33
+2026-01-27 15:53:33,Terminal Cikarang,32
+2026-01-27 15:53:33,Sentra Grosir Cikarang,10
+2026-01-27 15:53:33,Stasiun Cikarang,19
+2026-01-27 15:53:33,Lippo Mall Cikarang,29
+2026-01-27 15:53:33,President University,33
+2026-01-27 15:54:37,Terminal Cikarang,32
+2026-01-27 15:54:37,Sentra Grosir Cikarang,10
+2026-01-27 15:54:37,Stasiun Cikarang,18
+2026-01-27 15:54:37,Lippo Mall Cikarang,29
+2026-01-27 15:54:37,President University,33
+2026-01-27 15:55:42,Terminal Cikarang,32
+2026-01-27 15:55:42,Sentra Grosir Cikarang,10
+2026-01-27 15:55:42,Stasiun Cikarang,20
+2026-01-27 15:55:42,Lippo Mall Cikarang,29
+2026-01-27 15:55:42,President University,33
+2026-01-27 15:56:46,Terminal Cikarang,32
+2026-01-27 15:56:46,Sentra Grosir Cikarang,10
+2026-01-27 15:56:46,Stasiun Cikarang,20
+2026-01-27 15:56:46,Lippo Mall Cikarang,29
+2026-01-27 15:56:46,President University,33
+2026-01-27 15:57:51,Terminal Cikarang,32
+2026-01-27 15:57:51,Sentra Grosir Cikarang,10
+2026-01-27 15:57:51,Stasiun Cikarang,21
+2026-01-27 15:57:51,Lippo Mall Cikarang,29
+2026-01-27 15:57:51,President University,33
+2026-01-27 15:58:57,Terminal Cikarang,32
+2026-01-27 15:58:57,Sentra Grosir Cikarang,10
+2026-01-27 15:58:57,Stasiun Cikarang,21
+2026-01-27 15:58:57,Lippo Mall Cikarang,29
+2026-01-27 15:58:57,President University,33
+2026-01-27 16:00:04,Terminal Cikarang,32
+2026-01-27 16:00:04,Sentra Grosir Cikarang,11
+2026-01-27 16:00:04,Stasiun Cikarang,21
+2026-01-27 16:00:04,Lippo Mall Cikarang,29
+2026-01-27 16:00:04,President University,33
+2026-01-27 16:01:10,Terminal Cikarang,32
+2026-01-27 16:01:10,Sentra Grosir Cikarang,11
+2026-01-27 16:01:10,Stasiun Cikarang,21
+2026-01-27 16:01:10,Lippo Mall Cikarang,29
+2026-01-27 16:01:10,President University,33
+2026-01-27 16:02:14,Terminal Cikarang,33
+2026-01-27 16:02:14,Sentra Grosir Cikarang,12
+2026-01-27 16:02:14,Stasiun Cikarang,21
+2026-01-27 16:02:14,Lippo Mall Cikarang,29
+2026-01-27 16:02:14,President University,33
+2026-01-27 16:03:19,Terminal Cikarang,33
+2026-01-27 16:03:19,Sentra Grosir Cikarang,13
+2026-01-27 16:03:19,Stasiun Cikarang,21
+2026-01-27 16:03:19,Lippo Mall Cikarang,23
+2026-01-27 16:03:19,President University,33
+2026-01-27 16:04:25,Terminal Cikarang,32
+2026-01-27 16:04:25,Sentra Grosir Cikarang,13
+2026-01-27 16:04:25,Stasiun Cikarang,22
+2026-01-27 16:04:25,Lippo Mall Cikarang,23
+2026-01-27 16:04:25,President University,33
+2026-01-27 16:05:33,Terminal Cikarang,32
+2026-01-27 16:05:33,Sentra Grosir Cikarang,13
+2026-01-27 16:05:33,Stasiun Cikarang,21
+2026-01-27 16:05:33,Lippo Mall Cikarang,23
+2026-01-27 16:05:33,President University,33
+2026-01-27 16:06:39,Terminal Cikarang,31
+2026-01-27 16:06:39,Sentra Grosir Cikarang,13
+2026-01-27 16:06:39,Stasiun Cikarang,22
+2026-01-27 16:06:39,Lippo Mall Cikarang,22
+2026-01-27 16:06:39,President University,33
+2026-01-27 16:07:44,Terminal Cikarang,32
+2026-01-27 16:07:44,Sentra Grosir Cikarang,13
+2026-01-27 16:07:44,Stasiun Cikarang,22
+2026-01-27 16:07:44,Lippo Mall Cikarang,29
+2026-01-27 16:07:44,President University,33
+2026-01-27 16:08:49,Terminal Cikarang,32
+2026-01-27 16:08:49,Sentra Grosir Cikarang,13
+2026-01-27 16:08:49,Stasiun Cikarang,22
+2026-01-27 16:08:49,Lippo Mall Cikarang,29
+2026-01-27 16:08:49,President University,33
+2026-01-27 16:09:54,Terminal Cikarang,30
+2026-01-27 16:09:54,Sentra Grosir Cikarang,13
+2026-01-27 16:09:54,Stasiun Cikarang,20
+2026-01-27 16:09:54,Lippo Mall Cikarang,23
+2026-01-27 16:09:54,President University,33
+2026-01-27 16:10:58,Terminal Cikarang,32
+2026-01-27 16:10:58,Sentra Grosir Cikarang,14
+2026-01-27 16:10:58,Stasiun Cikarang,20
+2026-01-27 16:10:58,Lippo Mall Cikarang,22
+2026-01-27 16:10:58,President University,33
+2026-01-27 16:12:03,Terminal Cikarang,30
+2026-01-27 16:12:03,Sentra Grosir Cikarang,20
+2026-01-27 16:12:03,Stasiun Cikarang,19
+2026-01-27 16:12:03,Lippo Mall Cikarang,22
+2026-01-27 16:12:03,President University,33
+2026-01-27 16:13:07,Terminal Cikarang,32
+2026-01-27 16:13:07,Sentra Grosir Cikarang,20
+2026-01-27 16:13:07,Stasiun Cikarang,19
+2026-01-27 16:13:07,Lippo Mall Cikarang,22
+2026-01-27 16:13:07,President University,33
+2026-01-27 16:14:12,Terminal Cikarang,30
+2026-01-27 16:14:12,Sentra Grosir Cikarang,20
+2026-01-27 16:14:12,Stasiun Cikarang,19
+2026-01-27 16:14:12,Lippo Mall Cikarang,22
+2026-01-27 16:14:12,President University,33
+2026-01-27 16:15:16,Terminal Cikarang,29
+2026-01-27 16:15:16,Sentra Grosir Cikarang,17
+2026-01-27 16:15:16,Stasiun Cikarang,23
+2026-01-27 16:15:16,Lippo Mall Cikarang,22
+2026-01-27 16:15:16,President University,33
+2026-01-27 16:16:21,Terminal Cikarang,30
+2026-01-27 16:16:21,Sentra Grosir Cikarang,17
+2026-01-27 16:16:21,Stasiun Cikarang,23
+2026-01-27 16:16:21,Lippo Mall Cikarang,21
+2026-01-27 16:16:21,President University,33
+2026-01-27 16:17:26,Terminal Cikarang,30
+2026-01-27 16:17:26,Sentra Grosir Cikarang,18
+2026-01-27 16:17:26,Stasiun Cikarang,23
+2026-01-27 16:17:26,Lippo Mall Cikarang,21
+2026-01-27 16:17:26,President University,33
+2026-01-27 16:18:31,Terminal Cikarang,30
+2026-01-27 16:18:31,Sentra Grosir Cikarang,17
+2026-01-27 16:18:31,Stasiun Cikarang,23
+2026-01-27 16:18:31,Lippo Mall Cikarang,21
+2026-01-27 16:18:31,President University,33
+2026-01-27 16:19:37,Terminal Cikarang,30
+2026-01-27 16:19:37,Sentra Grosir Cikarang,19
+2026-01-27 16:19:37,Stasiun Cikarang,23
+2026-01-27 16:19:37,Lippo Mall Cikarang,21
+2026-01-27 16:19:37,President University,33
+2026-01-27 16:20:43,Terminal Cikarang,32
+2026-01-27 16:20:43,Sentra Grosir Cikarang,18
+2026-01-27 16:20:43,Stasiun Cikarang,21
+2026-01-27 16:20:43,Lippo Mall Cikarang,23
+2026-01-27 16:20:43,President University,33
+2026-01-27 16:21:49,Terminal Cikarang,32
+2026-01-27 16:21:49,Sentra Grosir Cikarang,16
+2026-01-27 16:21:49,Stasiun Cikarang,21
+2026-01-27 16:21:49,Lippo Mall Cikarang,22
+2026-01-27 16:21:49,President University,33
+2026-01-27 16:22:54,Terminal Cikarang,32
+2026-01-27 16:22:54,Sentra Grosir Cikarang,16
+2026-01-27 16:22:54,Stasiun Cikarang,20
+2026-01-27 16:22:54,Lippo Mall Cikarang,22
+2026-01-27 16:22:54,President University,33
+2026-01-27 16:24:00,Terminal Cikarang,32
+2026-01-27 16:24:00,Sentra Grosir Cikarang,14
+2026-01-27 16:24:00,Stasiun Cikarang,20
+2026-01-27 16:24:00,Lippo Mall Cikarang,22
+2026-01-27 16:24:00,President University,33
+2026-01-27 16:25:05,Terminal Cikarang,32
+2026-01-27 16:25:05,Sentra Grosir Cikarang,14
+2026-01-27 16:25:05,Stasiun Cikarang,20
+2026-01-27 16:25:05,Lippo Mall Cikarang,22
+2026-01-27 16:25:05,President University,33
+2026-01-27 16:26:13,Terminal Cikarang,32
+2026-01-27 16:26:13,Sentra Grosir Cikarang,15
+2026-01-27 16:26:13,Stasiun Cikarang,20
+2026-01-27 16:26:13,Lippo Mall Cikarang,22
+2026-01-27 16:26:13,President University,25
+2026-01-27 16:27:21,Terminal Cikarang,33
+2026-01-27 16:27:21,Sentra Grosir Cikarang,14
+2026-01-27 16:27:21,Stasiun Cikarang,20
+2026-01-27 16:27:21,Lippo Mall Cikarang,22
+2026-01-27 16:27:21,President University,25
+2026-01-27 16:28:26,Terminal Cikarang,34
+2026-01-27 16:28:26,Sentra Grosir Cikarang,15
+2026-01-27 16:28:26,Stasiun Cikarang,20
+2026-01-27 16:28:26,Lippo Mall Cikarang,22
+2026-01-27 16:28:26,President University,25
+2026-01-27 16:29:30,Terminal Cikarang,34
+2026-01-27 16:29:30,Sentra Grosir Cikarang,14
+2026-01-27 16:29:30,Stasiun Cikarang,20
+2026-01-27 16:29:30,Lippo Mall Cikarang,22
+2026-01-27 16:29:30,President University,25
+2026-01-27 16:30:35,Terminal Cikarang,33
+2026-01-27 16:30:35,Sentra Grosir Cikarang,15
+2026-01-27 16:30:35,Stasiun Cikarang,20
+2026-01-27 16:30:35,Lippo Mall Cikarang,22
+2026-01-27 16:30:35,President University,25
+2026-01-27 16:31:40,Terminal Cikarang,32
+2026-01-27 16:31:40,Sentra Grosir Cikarang,14
+2026-01-27 16:31:40,Stasiun Cikarang,20
+2026-01-27 16:31:40,Lippo Mall Cikarang,22
+2026-01-27 16:31:40,President University,25
+2026-01-27 16:32:45,Terminal Cikarang,32
+2026-01-27 16:32:45,Sentra Grosir Cikarang,13
+2026-01-27 16:32:45,Stasiun Cikarang,20
+2026-01-27 16:32:45,Lippo Mall Cikarang,23
+2026-01-27 16:32:45,President University,25
+2026-01-27 16:33:50,Terminal Cikarang,30
+2026-01-27 16:33:50,Sentra Grosir Cikarang,13
+2026-01-27 16:33:50,Stasiun Cikarang,20
+2026-01-27 16:33:50,Lippo Mall Cikarang,24
+2026-01-27 16:33:50,President University,22
+2026-01-27 16:34:54,Terminal Cikarang,30
+2026-01-27 16:34:54,Sentra Grosir Cikarang,13
+2026-01-27 16:34:54,Stasiun Cikarang,20
+2026-01-27 16:34:54,Lippo Mall Cikarang,23
+2026-01-27 16:34:54,President University,22
+2026-01-27 16:35:59,Terminal Cikarang,29
+2026-01-27 16:35:59,Sentra Grosir Cikarang,13
+2026-01-27 16:35:59,Stasiun Cikarang,19
+2026-01-27 16:35:59,Lippo Mall Cikarang,22
+2026-01-27 16:35:59,President University,23
+2026-01-27 16:37:07,Terminal Cikarang,30
+2026-01-27 16:37:07,Sentra Grosir Cikarang,13
+2026-01-27 16:37:07,Stasiun Cikarang,19
+2026-01-27 16:37:07,Lippo Mall Cikarang,23
+2026-01-27 16:37:07,President University,23
+2026-01-27 16:38:12,Sentra Grosir Cikarang,12
+2026-01-27 16:45:23,Terminal Cikarang,33
+2026-01-27 16:45:23,Sentra Grosir Cikarang,13
+2026-01-27 16:45:23,Stasiun Cikarang,21
+2026-01-27 16:45:23,Lippo Mall Cikarang,19
+2026-01-27 16:45:23,President University,23
+2026-01-27 16:46:28,Terminal Cikarang,33
+2026-01-27 16:46:28,Sentra Grosir Cikarang,14
+2026-01-27 16:46:28,Stasiun Cikarang,21
+2026-01-27 16:46:28,Lippo Mall Cikarang,20
+2026-01-27 16:46:28,President University,23
+2026-01-27 16:47:32,Terminal Cikarang,32
+2026-01-27 16:47:32,Sentra Grosir Cikarang,15
+2026-01-27 16:47:32,Stasiun Cikarang,21
+2026-01-27 16:47:32,Lippo Mall Cikarang,20
+2026-01-27 16:47:32,President University,23
+2026-01-27 16:48:37,Terminal Cikarang,32
+2026-01-27 16:48:37,Sentra Grosir Cikarang,15
+2026-01-27 16:48:37,Stasiun Cikarang,21
+2026-01-27 16:48:37,Lippo Mall Cikarang,20
+2026-01-27 16:48:37,President University,23
+2026-01-27 16:49:43,Terminal Cikarang,33
+2026-01-27 16:49:43,Sentra Grosir Cikarang,16
+2026-01-27 16:49:43,Stasiun Cikarang,21
+2026-01-27 16:49:43,Lippo Mall Cikarang,20
+2026-01-27 16:49:43,President University,22
+2026-01-27 16:50:47,Terminal Cikarang,33
+2026-01-27 16:50:47,Sentra Grosir Cikarang,16
+2026-01-27 16:50:47,Stasiun Cikarang,21
+2026-01-27 16:50:47,Lippo Mall Cikarang,23
+2026-01-27 16:50:47,President University,22
+2026-01-27 16:51:51,Terminal Cikarang,35
+2026-01-27 16:51:51,Sentra Grosir Cikarang,15
+2026-01-27 16:51:51,Stasiun Cikarang,21
+2026-01-27 16:51:51,Lippo Mall Cikarang,23
+2026-01-27 16:51:51,President University,25
+2026-01-27 16:52:56,Terminal Cikarang,35
+2026-01-27 16:52:56,Sentra Grosir Cikarang,15
+2026-01-27 16:52:56,Stasiun Cikarang,21
+2026-01-27 16:52:56,Lippo Mall Cikarang,29
+2026-01-27 16:52:56,President University,25
+2026-01-27 16:54:04,Terminal Cikarang,34
+2026-01-27 16:54:04,Sentra Grosir Cikarang,15
+2026-01-27 16:54:04,Stasiun Cikarang,18
+2026-01-27 16:54:04,Lippo Mall Cikarang,29
+2026-01-27 16:54:04,President University,25
+2026-01-27 16:55:09,Terminal Cikarang,32
+2026-01-27 16:55:09,Sentra Grosir Cikarang,14
+2026-01-27 16:55:09,Stasiun Cikarang,18
+2026-01-27 16:55:09,Lippo Mall Cikarang,29
+2026-01-27 16:55:09,President University,25
+2026-01-27 16:56:14,Terminal Cikarang,32
+2026-01-27 16:56:14,Sentra Grosir Cikarang,14
+2026-01-27 16:56:14,Stasiun Cikarang,19
+2026-01-27 16:56:14,Lippo Mall Cikarang,29
+2026-01-27 16:56:14,President University,25
+2026-01-27 16:57:18,Terminal Cikarang,32
+2026-01-27 16:57:18,Sentra Grosir Cikarang,14
+2026-01-27 16:57:18,Stasiun Cikarang,19
+2026-01-27 16:57:18,Lippo Mall Cikarang,29
+2026-01-27 16:57:18,President University,25
+2026-01-27 16:58:22,Terminal Cikarang,33
+2026-01-27 16:58:22,Sentra Grosir Cikarang,14
+2026-01-27 16:58:22,Stasiun Cikarang,19
+2026-01-27 16:58:22,Lippo Mall Cikarang,29
+2026-01-27 16:58:22,President University,24
+2026-01-27 16:59:27,Terminal Cikarang,35
+2026-01-27 16:59:27,Sentra Grosir Cikarang,13
+2026-01-27 16:59:27,Stasiun Cikarang,19
+2026-01-27 16:59:27,Lippo Mall Cikarang,29
+2026-01-27 16:59:27,President University,25
+2026-01-27 17:00:31,Terminal Cikarang,45
+2026-01-27 17:00:31,Sentra Grosir Cikarang,14
+2026-01-27 17:00:31,Stasiun Cikarang,19
+2026-01-27 17:00:31,Lippo Mall Cikarang,29
+2026-01-27 17:00:31,President University,25
+2026-01-27 17:01:36,Terminal Cikarang,45
+2026-01-27 17:01:36,Sentra Grosir Cikarang,14
+2026-01-27 17:01:36,Stasiun Cikarang,18
+2026-01-27 17:01:36,Lippo Mall Cikarang,29
+2026-01-27 17:01:36,President University,25
+2026-01-27 17:02:41,Terminal Cikarang,45
+2026-01-27 17:02:41,Sentra Grosir Cikarang,12
+2026-01-27 17:02:41,Stasiun Cikarang,18
+2026-01-27 17:02:41,Lippo Mall Cikarang,29
+2026-01-27 17:02:41,President University,25
+2026-01-27 17:03:47,Terminal Cikarang,45
+2026-01-27 17:03:47,Sentra Grosir Cikarang,11
+2026-01-27 17:03:47,Stasiun Cikarang,19
+2026-01-27 17:03:47,Lippo Mall Cikarang,29
+2026-01-27 17:03:47,President University,26
+2026-01-27 17:04:55,Terminal Cikarang,35
+2026-01-27 17:04:55,Sentra Grosir Cikarang,11
+2026-01-27 17:04:55,Stasiun Cikarang,16
+2026-01-27 17:04:55,Lippo Mall Cikarang,29
+2026-01-27 17:04:55,President University,25
+2026-01-27 17:05:59,Terminal Cikarang,34
+2026-01-27 17:05:59,Sentra Grosir Cikarang,11
+2026-01-27 17:05:59,Stasiun Cikarang,16
+2026-01-27 17:05:59,Lippo Mall Cikarang,29
+2026-01-27 17:05:59,President University,33
+2026-01-27 17:07:04,Terminal Cikarang,45
+2026-01-27 17:07:04,Sentra Grosir Cikarang,10
+2026-01-27 17:07:04,Stasiun Cikarang,20
+2026-01-27 17:07:04,Lippo Mall Cikarang,29
+2026-01-27 17:07:04,President University,33
+2026-01-27 17:08:09,Terminal Cikarang,35
+2026-01-27 17:08:09,Sentra Grosir Cikarang,11
+2026-01-27 17:08:09,Stasiun Cikarang,20
+2026-01-27 17:08:09,Lippo Mall Cikarang,29
+2026-01-27 17:08:09,President University,33
+2026-01-27 17:09:14,Terminal Cikarang,45
+2026-01-27 17:09:14,Sentra Grosir Cikarang,11
+2026-01-27 17:09:14,Stasiun Cikarang,22
+2026-01-27 17:09:14,Lippo Mall Cikarang,29
+2026-01-27 17:09:14,President University,33
+2026-01-27 17:10:20,Terminal Cikarang,36
+2026-01-27 17:10:20,Sentra Grosir Cikarang,11
+2026-01-27 17:10:20,Stasiun Cikarang,22
+2026-01-27 17:10:20,Lippo Mall Cikarang,29
+2026-01-27 17:10:20,President University,33
+2026-01-27 17:11:25,Terminal Cikarang,36
+2026-01-27 17:11:25,Sentra Grosir Cikarang,11
+2026-01-27 17:11:25,Stasiun Cikarang,22
+2026-01-27 17:11:25,Lippo Mall Cikarang,29
+2026-01-27 17:11:25,President University,33
+2026-01-27 17:12:29,Terminal Cikarang,36
+2026-01-27 17:12:29,Sentra Grosir Cikarang,11
+2026-01-27 17:12:29,Stasiun Cikarang,21
+2026-01-27 17:12:29,Lippo Mall Cikarang,29
+2026-01-27 17:12:29,President University,33
+2026-01-27 17:13:34,Terminal Cikarang,45
+2026-01-27 17:13:34,Sentra Grosir Cikarang,11
+2026-01-27 17:13:34,Stasiun Cikarang,21
+2026-01-27 17:13:34,Lippo Mall Cikarang,23
+2026-01-27 17:13:34,President University,33
+2026-01-27 17:14:39,Terminal Cikarang,36
+2026-01-27 17:14:39,Sentra Grosir Cikarang,10
+2026-01-27 17:14:39,Stasiun Cikarang,21
+2026-01-27 17:14:39,Lippo Mall Cikarang,23
+2026-01-27 17:14:39,President University,33
+2026-01-27 17:15:43,Terminal Cikarang,35
+2026-01-27 17:15:43,Sentra Grosir Cikarang,13
+2026-01-27 17:15:43,Stasiun Cikarang,22
+2026-01-27 17:15:43,Lippo Mall Cikarang,22
+2026-01-27 17:15:43,President University,33
+2026-01-27 17:16:49,Terminal Cikarang,35
+2026-01-27 17:16:49,Sentra Grosir Cikarang,13
+2026-01-27 17:16:49,Stasiun Cikarang,23
+2026-01-27 17:16:49,Lippo Mall Cikarang,22
+2026-01-27 17:16:49,President University,33
+2026-01-27 17:17:56,Terminal Cikarang,34
+2026-01-27 17:17:56,Sentra Grosir Cikarang,12
+2026-01-27 17:17:56,Stasiun Cikarang,23
+2026-01-27 17:17:56,Lippo Mall Cikarang,22
+2026-01-27 17:17:56,President University,33
+2026-01-27 17:19:01,Terminal Cikarang,33
+2026-01-27 17:19:01,Sentra Grosir Cikarang,12
+2026-01-27 17:19:01,Stasiun Cikarang,22
+2026-01-27 17:19:01,Lippo Mall Cikarang,22
+2026-01-27 17:19:01,President University,33
+2026-01-27 17:20:06,Terminal Cikarang,34
+2026-01-27 17:20:06,Sentra Grosir Cikarang,13
+2026-01-27 17:20:06,Stasiun Cikarang,22
+2026-01-27 17:20:06,Lippo Mall Cikarang,23
+2026-01-27 17:20:06,President University,33
+2026-01-27 17:21:11,Terminal Cikarang,33
+2026-01-27 17:21:11,Sentra Grosir Cikarang,11
+2026-01-27 17:21:11,Stasiun Cikarang,22
+2026-01-27 17:21:11,Lippo Mall Cikarang,22
+2026-01-27 17:21:11,President University,33
+2026-01-27 17:22:15,Terminal Cikarang,33
+2026-01-27 17:22:15,Sentra Grosir Cikarang,11
+2026-01-27 17:22:15,Stasiun Cikarang,21
+2026-01-27 17:22:15,Lippo Mall Cikarang,23
+2026-01-27 17:22:15,President University,33
+2026-01-27 17:23:21,Terminal Cikarang,34
+2026-01-27 17:23:21,Sentra Grosir Cikarang,11
+2026-01-27 17:23:21,Stasiun Cikarang,18
+2026-01-27 17:23:21,Lippo Mall Cikarang,29
+2026-01-27 17:23:21,President University,33
+2026-01-27 17:24:26,Terminal Cikarang,34
+2026-01-27 17:24:26,Sentra Grosir Cikarang,11
+2026-01-27 17:24:26,Stasiun Cikarang,18
+2026-01-27 17:24:26,Lippo Mall Cikarang,29
+2026-01-27 17:24:26,President University,33
+2026-01-27 17:25:31,Terminal Cikarang,34
+2026-01-27 17:25:31,Sentra Grosir Cikarang,11
+2026-01-27 17:25:31,Stasiun Cikarang,16
+2026-01-27 17:25:31,Lippo Mall Cikarang,29
+2026-01-27 17:25:31,President University,33
+2026-01-27 17:26:35,Terminal Cikarang,34
+2026-01-27 17:26:35,Sentra Grosir Cikarang,11
+2026-01-27 17:26:35,Stasiun Cikarang,16
+2026-01-27 17:26:35,Lippo Mall Cikarang,29
+2026-01-27 17:26:35,President University,33
+2026-01-27 17:27:40,Terminal Cikarang,34
+2026-01-27 17:27:40,Sentra Grosir Cikarang,11
+2026-01-27 17:27:40,Stasiun Cikarang,16
+2026-01-27 17:27:40,Lippo Mall Cikarang,23
+2026-01-27 17:27:40,President University,33
+2026-01-27 17:28:46,Terminal Cikarang,35
+2026-01-27 17:28:46,Sentra Grosir Cikarang,11
+2026-01-27 17:28:46,Stasiun Cikarang,16
+2026-01-27 17:28:46,Lippo Mall Cikarang,22
+2026-01-27 17:28:46,President University,26
+2026-01-27 17:29:51,Terminal Cikarang,35
+2026-01-27 17:29:51,Sentra Grosir Cikarang,11
+2026-01-27 17:29:51,Stasiun Cikarang,16
+2026-01-27 17:29:51,Lippo Mall Cikarang,22
+2026-01-27 17:29:51,President University,26
+2026-01-27 17:30:57,Terminal Cikarang,45
+2026-01-27 17:30:57,Sentra Grosir Cikarang,11
+2026-01-27 17:30:57,Stasiun Cikarang,16
+2026-01-27 17:30:57,Lippo Mall Cikarang,22
+2026-01-27 17:30:57,President University,33
+2026-01-27 17:32:01,Terminal Cikarang,45
+2026-01-27 17:32:01,Sentra Grosir Cikarang,11
+2026-01-27 17:32:01,Stasiun Cikarang,16
+2026-01-27 17:32:01,Lippo Mall Cikarang,22
+2026-01-27 17:32:01,President University,33
+2026-01-27 17:33:06,Terminal Cikarang,34
+2026-01-27 17:33:06,Sentra Grosir Cikarang,11
+2026-01-27 17:33:06,Stasiun Cikarang,15
+2026-01-27 17:33:06,Lippo Mall Cikarang,23
+2026-01-27 17:33:06,President University,26
+2026-01-27 17:34:11,Terminal Cikarang,36
+2026-01-27 17:34:11,Sentra Grosir Cikarang,10
+2026-01-27 17:34:11,Stasiun Cikarang,15
+2026-01-27 17:34:11,Lippo Mall Cikarang,29
+2026-01-27 17:34:11,President University,26
+2026-01-27 17:35:16,Terminal Cikarang,45
+2026-01-27 17:35:16,Sentra Grosir Cikarang,11
+2026-01-27 17:35:16,Stasiun Cikarang,15
+2026-01-27 17:35:16,Lippo Mall Cikarang,29
+2026-01-27 17:35:16,President University,25
+2026-01-27 17:36:21,Terminal Cikarang,45
+2026-01-27 17:36:21,Sentra Grosir Cikarang,11
+2026-01-27 17:36:21,Stasiun Cikarang,15
+2026-01-27 17:36:21,Lippo Mall Cikarang,29
+2026-01-27 17:36:21,President University,25
+2026-01-27 17:37:26,Terminal Cikarang,45
+2026-01-27 17:37:26,Sentra Grosir Cikarang,11
+2026-01-27 17:37:26,Stasiun Cikarang,16
+2026-01-27 17:37:26,Lippo Mall Cikarang,29
+2026-01-27 17:37:26,President University,33
+2026-01-27 17:38:30,Terminal Cikarang,45
+2026-01-27 17:38:30,Sentra Grosir Cikarang,11
+2026-01-27 17:38:30,Stasiun Cikarang,18
+2026-01-27 17:38:30,Lippo Mall Cikarang,29
+2026-01-27 17:38:30,President University,33
+2026-01-27 17:39:35,Terminal Cikarang,45
+2026-01-27 17:39:35,Sentra Grosir Cikarang,11
+2026-01-27 17:39:35,Stasiun Cikarang,18
+2026-01-27 17:39:35,Lippo Mall Cikarang,29
+2026-01-27 17:39:35,President University,33
+2026-01-27 17:40:40,Terminal Cikarang,45
+2026-01-27 17:40:40,Sentra Grosir Cikarang,11
+2026-01-27 17:40:40,Stasiun Cikarang,18
+2026-01-27 17:40:40,Lippo Mall Cikarang,29
+2026-01-27 17:40:40,President University,25
+2026-01-27 17:41:45,Terminal Cikarang,34
+2026-01-27 17:41:45,Sentra Grosir Cikarang,11
+2026-01-27 17:41:45,Stasiun Cikarang,18
+2026-01-27 17:41:45,Lippo Mall Cikarang,29
+2026-01-27 17:41:45,President University,33
+2026-01-27 17:42:50,Terminal Cikarang,34
+2026-01-27 17:42:50,Sentra Grosir Cikarang,11
+2026-01-27 17:42:50,Stasiun Cikarang,18
+2026-01-27 17:42:50,Lippo Mall Cikarang,29
+2026-01-27 17:42:50,President University,25
+2026-01-27 17:43:54,Terminal Cikarang,34
+2026-01-27 17:43:54,Sentra Grosir Cikarang,12
+2026-01-27 17:43:54,Stasiun Cikarang,19
+2026-01-27 17:43:54,Lippo Mall Cikarang,29
+2026-01-27 17:43:54,President University,24
+2026-01-27 17:44:59,Terminal Cikarang,30
+2026-01-27 17:44:59,Sentra Grosir Cikarang,13
+2026-01-27 17:44:59,Stasiun Cikarang,19
+2026-01-27 17:44:59,Lippo Mall Cikarang,29
+2026-01-27 17:44:59,President University,24
+2026-01-27 17:52:01,Terminal Cikarang,31
+2026-01-27 17:52:01,Sentra Grosir Cikarang,13
+2026-01-27 17:52:01,Stasiun Cikarang,17
+2026-01-27 17:52:01,Lippo Mall Cikarang,23
+2026-01-27 17:52:01,President University,25
+2026-01-27 17:53:06,Terminal Cikarang,31
+2026-01-27 17:53:06,Sentra Grosir Cikarang,12
+2026-01-27 17:53:06,Stasiun Cikarang,17
+2026-01-27 17:53:06,Lippo Mall Cikarang,23
+2026-01-27 17:53:06,President University,33
+2026-01-27 17:54:10,Terminal Cikarang,31
+2026-01-27 17:54:10,Sentra Grosir Cikarang,12
+2026-01-27 17:54:10,Stasiun Cikarang,20
+2026-01-27 17:54:10,Lippo Mall Cikarang,23
+2026-01-27 17:54:10,President University,33
+2026-01-27 17:55:16,Terminal Cikarang,30
+2026-01-27 17:55:16,Sentra Grosir Cikarang,12
+2026-01-27 17:55:16,Stasiun Cikarang,20
+2026-01-27 17:55:16,Lippo Mall Cikarang,23
+2026-01-27 17:55:16,President University,25
+2026-01-27 17:56:21,Terminal Cikarang,32
+2026-01-27 17:56:21,Sentra Grosir Cikarang,11
+2026-01-27 17:56:21,Stasiun Cikarang,19
+2026-01-27 17:56:21,Lippo Mall Cikarang,23
+2026-01-27 17:56:21,President University,24
+2026-01-27 17:57:25,Terminal Cikarang,35
+2026-01-27 17:57:25,Sentra Grosir Cikarang,11
+2026-01-27 17:57:25,Stasiun Cikarang,20
+2026-01-27 17:57:25,Lippo Mall Cikarang,24
+2026-01-27 17:57:25,President University,33
+2026-01-27 17:58:31,Terminal Cikarang,35
+2026-01-27 17:58:31,Sentra Grosir Cikarang,11
+2026-01-27 17:58:31,Stasiun Cikarang,20
+2026-01-27 17:58:31,Lippo Mall Cikarang,29
+2026-01-27 17:58:31,President University,33
+2026-01-27 17:59:35,Terminal Cikarang,35
+2026-01-27 17:59:35,Sentra Grosir Cikarang,12
+2026-01-27 17:59:35,Stasiun Cikarang,19
+2026-01-27 17:59:35,Lippo Mall Cikarang,29
+2026-01-27 17:59:35,President University,33
+2026-01-27 18:00:39,Terminal Cikarang,34
+2026-01-27 18:00:39,Sentra Grosir Cikarang,11
+2026-01-27 18:00:39,Stasiun Cikarang,18
+2026-01-27 18:00:39,Lippo Mall Cikarang,29
+2026-01-27 18:00:39,President University,33
+2026-01-27 18:01:45,Terminal Cikarang,34
+2026-01-27 18:01:45,Sentra Grosir Cikarang,12
+2026-01-27 18:01:45,Stasiun Cikarang,18
+2026-01-27 18:01:45,Lippo Mall Cikarang,29
+2026-01-27 18:01:45,President University,33
+2026-01-27 18:02:49,Terminal Cikarang,36
+2026-01-27 18:02:49,Sentra Grosir Cikarang,11
+2026-01-27 18:02:49,Stasiun Cikarang,18
+2026-01-27 18:02:49,Lippo Mall Cikarang,29
+2026-01-27 18:02:49,President University,33
+2026-01-27 18:04:01,Terminal Cikarang,36
+2026-01-27 18:04:01,Sentra Grosir Cikarang,12
+2026-01-27 18:04:01,Stasiun Cikarang,19
+2026-01-27 18:04:01,Lippo Mall Cikarang,29
+2026-01-27 18:04:01,President University,33
+2026-01-27 18:05:05,Terminal Cikarang,45
+2026-01-27 18:05:05,Sentra Grosir Cikarang,12
+2026-01-27 18:05:05,Stasiun Cikarang,25
+2026-01-27 18:05:05,Lippo Mall Cikarang,29
+2026-01-27 18:05:05,President University,33
+2026-01-27 18:06:12,Terminal Cikarang,45
+2026-01-27 18:06:12,Sentra Grosir Cikarang,12
+2026-01-27 18:06:12,Stasiun Cikarang,20
+2026-01-27 18:06:12,Lippo Mall Cikarang,29
+2026-01-27 18:06:12,President University,33
+2026-01-27 18:07:17,Terminal Cikarang,45
+2026-01-27 18:07:17,Sentra Grosir Cikarang,12
+2026-01-27 18:07:17,Stasiun Cikarang,19
+2026-01-27 18:07:17,Lippo Mall Cikarang,29
+2026-01-27 18:07:17,President University,33
+2026-01-27 18:08:22,Terminal Cikarang,45
+2026-01-27 18:08:22,Sentra Grosir Cikarang,13
+2026-01-27 18:08:22,Stasiun Cikarang,18
+2026-01-27 18:08:22,Lippo Mall Cikarang,29
+2026-01-27 18:08:22,President University,33
+2026-01-27 18:09:26,Terminal Cikarang,45
+2026-01-27 18:09:26,Sentra Grosir Cikarang,14
+2026-01-27 18:09:26,Stasiun Cikarang,18
+2026-01-27 18:09:26,Lippo Mall Cikarang,29
+2026-01-27 18:09:26,President University,33
+2026-01-27 18:10:31,Terminal Cikarang,45
+2026-01-27 18:10:31,Sentra Grosir Cikarang,14
+2026-01-27 18:10:31,Stasiun Cikarang,18
+2026-01-27 18:10:31,Lippo Mall Cikarang,29
+2026-01-27 18:10:31,President University,33
+2026-01-27 18:11:36,Terminal Cikarang,45
+2026-01-27 18:11:36,Sentra Grosir Cikarang,14
+2026-01-27 18:11:36,Stasiun Cikarang,17
+2026-01-27 18:11:36,Lippo Mall Cikarang,29
+2026-01-27 18:11:36,President University,33
+2026-01-27 18:12:41,Terminal Cikarang,45
+2026-01-27 18:12:41,Sentra Grosir Cikarang,14
+2026-01-27 18:12:41,Stasiun Cikarang,17
+2026-01-27 18:12:41,Lippo Mall Cikarang,29
+2026-01-27 18:12:41,President University,33
+2026-01-27 18:13:46,Terminal Cikarang,45
+2026-01-27 18:13:46,Sentra Grosir Cikarang,14
+2026-01-27 18:13:46,Stasiun Cikarang,18
+2026-01-27 18:13:46,Lippo Mall Cikarang,29
+2026-01-27 18:13:46,President University,33
+2026-01-27 18:14:51,Terminal Cikarang,45
+2026-01-27 18:14:51,Sentra Grosir Cikarang,14
+2026-01-27 18:14:51,Stasiun Cikarang,16
+2026-01-27 18:14:51,Lippo Mall Cikarang,29
+2026-01-27 18:14:51,President University,33
+2026-01-27 18:15:55,Terminal Cikarang,32
+2026-01-27 18:15:55,Sentra Grosir Cikarang,14
+2026-01-27 18:15:55,Stasiun Cikarang,17
+2026-01-27 18:15:55,Lippo Mall Cikarang,29
+2026-01-27 18:15:55,President University,33
+2026-01-27 18:17:02,Terminal Cikarang,32
+2026-01-27 18:17:02,Sentra Grosir Cikarang,13
+2026-01-27 18:17:02,Stasiun Cikarang,17
+2026-01-27 18:17:02,Lippo Mall Cikarang,29
+2026-01-27 18:17:02,President University,33
+2026-01-27 18:18:11,Terminal Cikarang,31
+2026-01-27 18:18:11,Sentra Grosir Cikarang,15
+2026-01-27 18:18:11,Stasiun Cikarang,17
+2026-01-27 18:18:11,Lippo Mall Cikarang,29
+2026-01-27 18:18:11,President University,33
+2026-01-27 18:19:15,Terminal Cikarang,31
+2026-01-27 18:19:15,Sentra Grosir Cikarang,16
+2026-01-27 18:19:15,Stasiun Cikarang,17
+2026-01-27 18:19:15,Lippo Mall Cikarang,29
+2026-01-27 18:19:15,President University,33
+2026-01-27 18:20:20,Terminal Cikarang,30
+2026-01-27 18:20:20,Sentra Grosir Cikarang,15
+2026-01-27 18:20:20,Stasiun Cikarang,17
+2026-01-27 18:20:20,Lippo Mall Cikarang,29
+2026-01-27 18:20:20,President University,33
+2026-01-27 18:21:28,Terminal Cikarang,30
+2026-01-27 18:21:28,Sentra Grosir Cikarang,15
+2026-01-27 18:21:28,Stasiun Cikarang,17
+2026-01-27 18:21:28,Lippo Mall Cikarang,29
+2026-01-27 18:21:28,President University,33
+2026-01-27 18:22:33,Terminal Cikarang,30
+2026-01-27 18:22:33,Sentra Grosir Cikarang,16
+2026-01-27 18:22:33,Stasiun Cikarang,17
+2026-01-27 18:22:33,Lippo Mall Cikarang,29
+2026-01-27 18:22:33,President University,33
+2026-01-27 18:23:38,Terminal Cikarang,30
+2026-01-27 18:23:38,Sentra Grosir Cikarang,16
+2026-01-27 18:23:38,Stasiun Cikarang,21
+2026-01-27 18:23:38,Lippo Mall Cikarang,29
+2026-01-27 18:23:38,President University,33
+2026-01-27 18:24:43,Terminal Cikarang,33
+2026-01-27 18:24:43,Sentra Grosir Cikarang,16
+2026-01-27 18:24:43,Stasiun Cikarang,21
+2026-01-27 18:24:43,Lippo Mall Cikarang,29
+2026-01-27 18:24:43,President University,33
+2026-01-27 18:25:48,Terminal Cikarang,33
+2026-01-27 18:25:48,Sentra Grosir Cikarang,18
+2026-01-27 18:25:48,Stasiun Cikarang,20
+2026-01-27 18:25:48,Lippo Mall Cikarang,29
+2026-01-27 18:25:48,President University,33
+2026-01-27 18:26:54,Terminal Cikarang,35
+2026-01-27 18:26:54,Sentra Grosir Cikarang,19
+2026-01-27 18:26:54,Stasiun Cikarang,20
+2026-01-27 18:26:54,Lippo Mall Cikarang,29
+2026-01-27 18:26:54,President University,33
+2026-01-27 18:27:59,Terminal Cikarang,35
+2026-01-27 18:27:59,Sentra Grosir Cikarang,19
+2026-01-27 18:27:59,Stasiun Cikarang,19
+2026-01-27 18:29:07,Terminal Cikarang,35
+2026-01-27 18:29:07,Sentra Grosir Cikarang,19
+2026-01-27 18:29:07,Stasiun Cikarang,19
+2026-01-27 18:29:07,Lippo Mall Cikarang,29
+2026-01-27 18:29:07,President University,33
+2026-01-27 18:30:12,Terminal Cikarang,45
+2026-01-27 18:30:12,Sentra Grosir Cikarang,20
+2026-01-27 18:30:12,Stasiun Cikarang,19
+2026-01-27 18:30:12,Lippo Mall Cikarang,29
+2026-01-27 18:30:12,President University,33
+2026-01-27 18:31:19,Terminal Cikarang,35
+2026-01-27 18:31:19,Sentra Grosir Cikarang,19
+2026-01-27 18:31:19,Stasiun Cikarang,17
+2026-01-27 18:31:19,Lippo Mall Cikarang,29
+2026-01-27 18:31:19,President University,33
+2026-01-27 18:32:26,Terminal Cikarang,33
+2026-01-27 18:32:26,Sentra Grosir Cikarang,23
+2026-01-27 18:32:26,Stasiun Cikarang,17
+2026-01-27 18:32:26,Lippo Mall Cikarang,29
+2026-01-27 18:32:26,President University,33
+2026-01-27 18:33:30,Terminal Cikarang,32
+2026-01-27 18:33:30,Sentra Grosir Cikarang,23
+2026-01-27 18:33:30,Stasiun Cikarang,18
+2026-01-27 18:33:30,Lippo Mall Cikarang,22
+2026-01-27 18:33:30,President University,33
+2026-01-27 18:34:44,Terminal Cikarang,32
+2026-01-27 18:34:44,Sentra Grosir Cikarang,24
+2026-01-27 18:34:44,Stasiun Cikarang,19
+2026-01-27 18:34:44,Lippo Mall Cikarang,22
+2026-01-27 18:34:44,President University,33
+2026-01-27 18:35:54,Terminal Cikarang,30
+2026-01-27 18:35:54,Sentra Grosir Cikarang,23
+2026-01-27 18:35:54,Stasiun Cikarang,19
+2026-01-27 18:35:54,Lippo Mall Cikarang,22
+2026-01-27 18:35:54,President University,33
+2026-01-27 18:37:01,Terminal Cikarang,32
+2026-01-27 18:37:01,Sentra Grosir Cikarang,21
+2026-01-27 18:37:01,Stasiun Cikarang,19
+2026-01-27 18:37:01,Lippo Mall Cikarang,22
+2026-01-27 18:37:01,President University,33
+2026-01-27 18:38:06,Terminal Cikarang,32
+2026-01-27 18:38:06,Sentra Grosir Cikarang,21
+2026-01-27 18:38:06,Stasiun Cikarang,19
+2026-01-27 18:38:06,Lippo Mall Cikarang,22
+2026-01-27 18:38:06,President University,33
+2026-01-27 18:39:15,Terminal Cikarang,30
+2026-01-27 18:39:15,Sentra Grosir Cikarang,20
+2026-01-27 18:39:15,Stasiun Cikarang,19
+2026-01-27 18:39:15,Lippo Mall Cikarang,21
+2026-01-27 18:39:15,President University,33
+2026-01-27 18:40:21,Terminal Cikarang,32
+2026-01-27 18:40:21,Sentra Grosir Cikarang,20
+2026-01-27 18:40:21,Stasiun Cikarang,19
+2026-01-27 18:40:21,Lippo Mall Cikarang,20
+2026-01-27 18:40:21,President University,33
+2026-01-27 18:41:30,Terminal Cikarang,32
+2026-01-27 18:41:30,Sentra Grosir Cikarang,20
+2026-01-27 18:41:30,Stasiun Cikarang,19
+2026-01-27 18:41:30,Lippo Mall Cikarang,21
+2026-01-27 18:41:30,President University,33
+2026-01-27 18:42:36,Terminal Cikarang,34
+2026-01-27 18:42:36,Sentra Grosir Cikarang,20
+2026-01-27 18:42:36,Stasiun Cikarang,19
+2026-01-27 18:42:36,Lippo Mall Cikarang,21
+2026-01-27 18:42:36,President University,33
+2026-01-27 18:43:41,Terminal Cikarang,34
+2026-01-27 18:43:41,Sentra Grosir Cikarang,20
+2026-01-27 18:43:41,Stasiun Cikarang,19
+2026-01-27 18:43:41,Lippo Mall Cikarang,23
+2026-01-27 18:43:41,President University,26
+2026-01-27 18:44:47,Terminal Cikarang,30
+2026-01-27 18:44:47,Sentra Grosir Cikarang,20
+2026-01-27 18:44:47,Stasiun Cikarang,20
+2026-01-27 18:44:47,Lippo Mall Cikarang,23
+2026-01-27 18:44:47,President University,25
+2026-01-27 18:45:58,Terminal Cikarang,30
+2026-01-27 18:45:58,Sentra Grosir Cikarang,20
+2026-01-27 18:45:58,Stasiun Cikarang,20
+2026-01-27 18:45:58,Lippo Mall Cikarang,23
+2026-01-27 18:45:58,President University,25
+2026-01-27 18:47:02,Terminal Cikarang,30
+2026-01-27 18:47:02,Sentra Grosir Cikarang,20
+2026-01-27 18:47:02,Stasiun Cikarang,19
+2026-01-27 18:47:02,Lippo Mall Cikarang,23
+2026-01-27 18:47:02,President University,24
+2026-01-27 18:48:13,Terminal Cikarang,30
+2026-01-27 18:48:13,Sentra Grosir Cikarang,20
+2026-01-27 18:48:13,Stasiun Cikarang,19
+2026-01-27 18:48:13,Lippo Mall Cikarang,23
+2026-01-27 18:48:13,President University,24
+2026-01-27 18:49:17,Terminal Cikarang,30
+2026-01-27 18:49:17,Sentra Grosir Cikarang,20
+2026-01-27 18:49:17,Stasiun Cikarang,19
+2026-01-27 18:49:17,Lippo Mall Cikarang,23
+2026-01-27 18:49:17,President University,33
+2026-01-27 18:50:31,Terminal Cikarang,30
+2026-01-27 18:50:31,Sentra Grosir Cikarang,20
+2026-01-27 18:50:31,Stasiun Cikarang,18
+2026-01-27 18:50:31,Lippo Mall Cikarang,23
+2026-01-27 18:50:31,President University,33
+2026-01-27 18:51:40,Terminal Cikarang,28
+2026-01-27 18:51:40,Sentra Grosir Cikarang,20
+2026-01-27 18:51:40,Stasiun Cikarang,18
+2026-01-27 18:51:40,Lippo Mall Cikarang,23
+2026-01-27 18:51:40,President University,33
+2026-01-27 18:52:46,Terminal Cikarang,26
+2026-01-27 18:52:46,Sentra Grosir Cikarang,20
+2026-01-27 18:52:46,Stasiun Cikarang,18
+2026-01-27 18:52:46,Lippo Mall Cikarang,29
+2026-01-27 18:52:46,President University,33
+2026-01-27 18:53:50,Terminal Cikarang,28
+2026-01-27 18:53:50,Sentra Grosir Cikarang,20
+2026-01-27 18:53:50,Stasiun Cikarang,18
+2026-01-27 18:53:50,Lippo Mall Cikarang,29
+2026-01-27 18:53:50,President University,33
+2026-01-27 18:54:55,Terminal Cikarang,29
+2026-01-27 18:54:55,Sentra Grosir Cikarang,19
+2026-01-27 18:54:55,Stasiun Cikarang,18
+2026-01-27 18:54:55,Lippo Mall Cikarang,29
+2026-01-27 18:54:55,President University,33
+2026-01-27 18:55:59,Terminal Cikarang,33
+2026-01-27 18:55:59,Sentra Grosir Cikarang,19
+2026-01-27 18:55:59,Stasiun Cikarang,18
+2026-01-27 18:55:59,Lippo Mall Cikarang,29
+2026-01-27 18:55:59,President University,33
+2026-01-27 18:57:05,Terminal Cikarang,33
+2026-01-27 18:57:05,Stasiun Cikarang,20
+2026-01-27 18:57:05,Lippo Mall Cikarang,29
+2026-01-27 18:57:05,President University,33
+2026-01-27 18:58:20,Terminal Cikarang,34
+2026-01-27 18:58:20,Sentra Grosir Cikarang,19
+2026-01-27 18:58:20,Stasiun Cikarang,20
+2026-01-27 18:58:20,Lippo Mall Cikarang,29
+2026-01-27 18:58:20,President University,33
+2026-01-27 18:59:25,Terminal Cikarang,35
+2026-01-27 18:59:25,Sentra Grosir Cikarang,19
+2026-01-27 18:59:25,Stasiun Cikarang,21
+2026-01-27 18:59:25,Lippo Mall Cikarang,29
+2026-01-27 18:59:25,President University,33
+2026-01-27 19:00:31,Terminal Cikarang,35
+2026-01-27 19:00:31,Sentra Grosir Cikarang,19
+2026-01-27 19:00:31,Stasiun Cikarang,21
+2026-01-27 19:00:31,Lippo Mall Cikarang,29
+2026-01-27 19:00:31,President University,33
+2026-01-27 19:01:39,Terminal Cikarang,36
+2026-01-27 19:01:39,Sentra Grosir Cikarang,19
+2026-01-27 19:01:39,Stasiun Cikarang,22
+2026-01-27 19:01:39,Lippo Mall Cikarang,29
+2026-01-27 19:01:39,President University,33
+2026-01-27 19:02:52,Terminal Cikarang,45
+2026-01-27 19:02:52,Sentra Grosir Cikarang,19
+2026-01-27 19:02:52,Stasiun Cikarang,22
+2026-01-27 19:02:52,Lippo Mall Cikarang,29
+2026-01-27 19:02:52,President University,33
+2026-01-27 19:04:16,Terminal Cikarang,45
+2026-01-27 19:04:16,Sentra Grosir Cikarang,20
+2026-01-27 19:04:16,Stasiun Cikarang,22
+2026-01-27 19:04:16,Lippo Mall Cikarang,29
+2026-01-27 19:04:16,President University,33
+2026-01-27 19:05:25,Terminal Cikarang,36
+2026-01-27 19:05:25,Sentra Grosir Cikarang,22
+2026-01-27 19:05:25,Stasiun Cikarang,22
+2026-01-27 19:05:25,Lippo Mall Cikarang,29
+2026-01-27 19:05:25,President University,33
+2026-01-27 19:06:33,Terminal Cikarang,35
+2026-01-27 19:06:33,Sentra Grosir Cikarang,22
+2026-01-27 19:06:33,Stasiun Cikarang,18
+2026-01-27 19:06:33,Lippo Mall Cikarang,29
+2026-01-27 19:06:33,President University,33
+2026-01-27 19:07:39,Terminal Cikarang,35
+2026-01-27 19:07:39,Sentra Grosir Cikarang,22
+2026-01-27 19:07:39,Stasiun Cikarang,18
+2026-01-27 19:07:39,Lippo Mall Cikarang,29
+2026-01-27 19:07:39,President University,33
+2026-01-27 19:08:48,Terminal Cikarang,33
+2026-01-27 19:08:48,Sentra Grosir Cikarang,22
+2026-01-27 19:08:48,Stasiun Cikarang,18
+2026-01-27 19:08:48,Lippo Mall Cikarang,29
+2026-01-27 19:08:48,President University,33
+2026-01-27 19:10:01,Terminal Cikarang,33
+2026-01-27 19:10:01,Sentra Grosir Cikarang,22
+2026-01-27 19:10:01,Stasiun Cikarang,18
+2026-01-27 19:10:01,Lippo Mall Cikarang,29
+2026-01-27 19:10:01,President University,33
+2026-01-27 19:11:09,Terminal Cikarang,33
+2026-01-27 19:11:09,Sentra Grosir Cikarang,21
+2026-01-27 19:11:09,Stasiun Cikarang,18
+2026-01-27 19:11:09,Lippo Mall Cikarang,24
+2026-01-27 19:11:09,President University,33
+2026-01-27 19:12:17,Terminal Cikarang,33
+2026-01-27 19:12:17,Sentra Grosir Cikarang,21
+2026-01-27 19:12:17,Stasiun Cikarang,18
+2026-01-27 19:12:17,Lippo Mall Cikarang,29
+2026-01-27 19:12:17,President University,33
+2026-01-27 19:13:24,Terminal Cikarang,29
+2026-01-27 19:13:24,Sentra Grosir Cikarang,21
+2026-01-27 19:13:24,Stasiun Cikarang,18
+2026-01-27 19:13:24,Lippo Mall Cikarang,29
+2026-01-27 19:13:24,President University,33
+2026-01-27 19:14:36,Terminal Cikarang,30
+2026-01-27 19:14:36,Sentra Grosir Cikarang,21
+2026-01-27 19:14:36,Stasiun Cikarang,18
+2026-01-27 19:14:36,Lippo Mall Cikarang,24
+2026-01-27 19:14:36,President University,33
+2026-01-27 19:15:42,Terminal Cikarang,29
+2026-01-27 19:15:42,Sentra Grosir Cikarang,20
+2026-01-27 19:15:42,Stasiun Cikarang,18
+2026-01-27 19:15:42,Lippo Mall Cikarang,29
+2026-01-27 19:15:42,President University,25
+2026-01-27 19:16:50,Terminal Cikarang,28
+2026-01-27 19:16:50,Sentra Grosir Cikarang,21
+2026-01-27 19:16:50,Stasiun Cikarang,17
+2026-01-27 19:16:50,Lippo Mall Cikarang,24
+2026-01-27 19:16:50,President University,25
+2026-01-27 19:18:00,Terminal Cikarang,28
+2026-01-27 19:18:00,Sentra Grosir Cikarang,21
+2026-01-27 19:18:00,Stasiun Cikarang,17
+2026-01-27 19:18:00,Lippo Mall Cikarang,25
+2026-01-27 19:18:00,President University,26
+2026-01-27 19:19:06,Terminal Cikarang,27
+2026-01-27 19:19:06,Sentra Grosir Cikarang,22
+2026-01-27 19:19:06,Stasiun Cikarang,16
+2026-01-27 19:19:06,Lippo Mall Cikarang,29
+2026-01-27 19:19:06,President University,26
+2026-01-27 19:20:18,Terminal Cikarang,27
+2026-01-27 19:20:18,Sentra Grosir Cikarang,22
+2026-01-27 19:20:18,Stasiun Cikarang,16
+2026-01-27 19:20:18,Lippo Mall Cikarang,29
+2026-01-27 19:20:18,President University,26
+2026-01-27 19:21:28,Sentra Grosir Cikarang,21
+2026-01-27 19:21:28,Stasiun Cikarang,17
+2026-01-27 19:21:28,Lippo Mall Cikarang,29
+2026-01-27 19:21:28,President University,33
+2026-01-27 19:22:51,Terminal Cikarang,27
+2026-01-27 19:22:51,Sentra Grosir Cikarang,21
+2026-01-27 19:22:51,Stasiun Cikarang,16
+2026-01-27 19:22:51,Lippo Mall Cikarang,29
+2026-01-27 19:22:51,President University,33
+2026-01-27 19:23:58,Terminal Cikarang,30
+2026-01-27 19:23:58,Sentra Grosir Cikarang,21
+2026-01-27 19:23:58,Stasiun Cikarang,17
+2026-01-27 19:23:58,Lippo Mall Cikarang,23
+2026-01-27 19:23:58,President University,33
+2026-01-27 19:25:05,Terminal Cikarang,30
+2026-01-27 19:25:05,Sentra Grosir Cikarang,21
+2026-01-27 19:25:05,Stasiun Cikarang,17
+2026-01-27 19:25:05,Lippo Mall Cikarang,29
+2026-01-27 19:25:05,President University,33
+2026-01-27 19:26:13,Terminal Cikarang,30
+2026-01-27 19:26:13,Sentra Grosir Cikarang,21
+2026-01-27 19:26:13,Stasiun Cikarang,18
+2026-01-27 19:26:13,Lippo Mall Cikarang,29
+2026-01-27 19:26:13,President University,33
+2026-01-27 19:27:26,Stasiun Cikarang,17
+2026-01-27 19:27:26,Lippo Mall Cikarang,29
+2026-01-27 19:28:54,Terminal Cikarang,33
+2026-01-27 19:28:54,Sentra Grosir Cikarang,22
+2026-01-27 19:28:54,Stasiun Cikarang,17
+2026-01-27 19:28:54,Lippo Mall Cikarang,29
+2026-01-27 19:28:54,President University,33
+2026-01-27 19:30:08,Terminal Cikarang,45
+2026-01-27 19:30:08,Sentra Grosir Cikarang,22
+2026-01-27 19:30:08,Stasiun Cikarang,17
+2026-01-27 19:30:08,Lippo Mall Cikarang,29
+2026-01-27 19:30:08,President University,33
+2026-01-27 19:31:20,Terminal Cikarang,45
+2026-01-27 19:31:20,Sentra Grosir Cikarang,22
+2026-01-27 19:31:20,Lippo Mall Cikarang,29
+2026-01-27 19:31:20,President University,33
+2026-01-27 19:32:35,Terminal Cikarang,45
+2026-01-27 19:32:35,Sentra Grosir Cikarang,24
+2026-01-27 19:32:35,Stasiun Cikarang,19
+2026-01-27 19:32:35,Lippo Mall Cikarang,29
+2026-01-27 19:32:35,President University,33
+2026-01-27 19:33:45,Terminal Cikarang,45
+2026-01-27 19:33:45,Sentra Grosir Cikarang,23
+2026-01-27 19:33:45,Stasiun Cikarang,19
+2026-01-27 19:33:45,Lippo Mall Cikarang,29
+2026-01-27 19:33:45,President University,33
+2026-01-27 19:34:53,Terminal Cikarang,45
+2026-01-27 19:34:53,Sentra Grosir Cikarang,23
+2026-01-27 19:34:53,Stasiun Cikarang,19
+2026-01-27 19:34:53,Lippo Mall Cikarang,29
+2026-01-27 19:34:53,President University,25
+2026-01-27 19:36:00,Terminal Cikarang,45
+2026-01-27 19:36:00,Sentra Grosir Cikarang,23
+2026-01-27 19:36:00,Stasiun Cikarang,19
+2026-01-27 19:36:00,Lippo Mall Cikarang,29
+2026-01-27 19:36:00,President University,26
+2026-01-27 19:37:09,Terminal Cikarang,45
+2026-01-27 19:37:09,Sentra Grosir Cikarang,23
+2026-01-27 19:37:09,Stasiun Cikarang,19
+2026-01-27 19:37:09,Lippo Mall Cikarang,29
+2026-01-27 19:37:09,President University,26
+2026-01-27 19:38:21,Terminal Cikarang,45
+2026-01-27 19:38:21,Sentra Grosir Cikarang,23
+2026-01-27 19:38:21,Stasiun Cikarang,19
+2026-01-27 19:38:21,Lippo Mall Cikarang,29
+2026-01-27 19:38:21,President University,33
+2026-01-27 19:39:30,Terminal Cikarang,36
+2026-01-27 19:39:30,Sentra Grosir Cikarang,23
+2026-01-27 19:39:30,Stasiun Cikarang,19
+2026-01-27 19:39:30,Lippo Mall Cikarang,29
+2026-01-27 19:39:30,President University,33
+2026-01-27 19:40:45,Terminal Cikarang,36
+2026-01-27 19:40:45,Sentra Grosir Cikarang,22
+2026-01-27 19:40:45,Stasiun Cikarang,19
+2026-01-27 19:40:45,Lippo Mall Cikarang,29
+2026-01-27 19:40:45,President University,33
+2026-01-27 19:42:01,Terminal Cikarang,36
+2026-01-27 19:42:01,Sentra Grosir Cikarang,22
+2026-01-27 19:42:01,Stasiun Cikarang,19
+2026-01-27 19:42:01,Lippo Mall Cikarang,29
+2026-01-27 19:42:01,President University,33
+2026-01-27 19:43:11,Terminal Cikarang,34
+2026-01-27 19:43:11,Sentra Grosir Cikarang,22
+2026-01-27 19:43:11,Stasiun Cikarang,19
+2026-01-27 19:43:11,Lippo Mall Cikarang,29
+2026-01-27 19:43:11,President University,33
+2026-01-27 19:44:22,Terminal Cikarang,33
+2026-01-27 19:44:22,Sentra Grosir Cikarang,22
+2026-01-27 19:44:22,Stasiun Cikarang,18
+2026-01-27 19:44:22,Lippo Mall Cikarang,29
+2026-01-27 19:44:22,President University,33
+2026-01-27 19:45:30,Terminal Cikarang,33
+2026-01-27 19:45:30,Sentra Grosir Cikarang,22
+2026-01-27 19:45:30,Stasiun Cikarang,18
+2026-01-27 19:45:30,Lippo Mall Cikarang,29
+2026-01-27 19:45:30,President University,33
+2026-01-27 19:46:43,Terminal Cikarang,32
+2026-01-27 19:46:43,Sentra Grosir Cikarang,22
+2026-01-27 19:46:43,Stasiun Cikarang,18
+2026-01-27 19:46:43,Lippo Mall Cikarang,29
+2026-01-27 19:46:43,President University,33
+2026-01-27 19:47:50,Terminal Cikarang,30
+2026-01-27 19:47:50,Sentra Grosir Cikarang,22
+2026-01-27 19:47:50,Stasiun Cikarang,19
+2026-01-27 19:47:50,Lippo Mall Cikarang,29
+2026-01-27 19:47:50,President University,33
+2026-01-27 19:48:57,Terminal Cikarang,29
+2026-01-27 19:48:57,Sentra Grosir Cikarang,21
+2026-01-27 19:48:57,Stasiun Cikarang,19
+2026-01-27 19:48:57,Lippo Mall Cikarang,29
+2026-01-27 19:48:57,President University,33
+2026-01-27 19:50:12,Terminal Cikarang,29
+2026-01-27 19:50:12,Sentra Grosir Cikarang,21
+2026-01-27 19:50:12,Stasiun Cikarang,19
+2026-01-27 19:50:12,Lippo Mall Cikarang,29
+2026-01-27 19:50:12,President University,33
+2026-01-27 19:51:20,Terminal Cikarang,29
+2026-01-27 19:51:20,Sentra Grosir Cikarang,21
+2026-01-27 19:51:20,Stasiun Cikarang,19
+2026-01-27 19:51:20,Lippo Mall Cikarang,29
+2026-01-27 19:51:20,President University,33
+2026-01-27 19:52:38,Terminal Cikarang,34
+2026-01-27 19:52:38,Sentra Grosir Cikarang,21
+2026-01-27 19:52:38,Stasiun Cikarang,20
+2026-01-27 19:52:38,Lippo Mall Cikarang,29
+2026-01-27 19:52:38,President University,33
+2026-01-27 19:53:48,Terminal Cikarang,34
+2026-01-27 19:53:48,Sentra Grosir Cikarang,21
+2026-01-27 19:53:48,Stasiun Cikarang,20
+2026-01-27 19:53:48,Lippo Mall Cikarang,29
+2026-01-27 19:53:48,President University,33
+2026-01-27 19:54:58,Terminal Cikarang,33
+2026-01-27 19:54:58,Lippo Mall Cikarang,29
+2026-01-27 19:54:58,President University,33
+2026-01-27 19:56:27,Terminal Cikarang,33
+2026-01-27 19:56:27,Sentra Grosir Cikarang,21
+2026-01-27 19:56:27,Stasiun Cikarang,22
+2026-01-27 19:56:27,Lippo Mall Cikarang,29
+2026-01-27 19:56:27,President University,33
+2026-01-27 19:57:42,Terminal Cikarang,34
+2026-01-27 19:57:42,Sentra Grosir Cikarang,21
+2026-01-27 19:57:42,Stasiun Cikarang,22
+2026-01-27 19:57:42,Lippo Mall Cikarang,29
+2026-01-27 19:58:57,Terminal Cikarang,33
+2026-01-27 19:58:57,Sentra Grosir Cikarang,22
+2026-01-27 19:58:57,Stasiun Cikarang,21
+2026-01-27 19:58:57,Lippo Mall Cikarang,29
+2026-01-27 19:58:57,President University,33
+2026-01-27 20:00:09,Sentra Grosir Cikarang,22
+2026-01-27 20:00:09,Stasiun Cikarang,19
+2026-01-27 20:00:09,Lippo Mall Cikarang,29
+2026-01-27 20:00:09,President University,33
+2026-01-27 20:01:24,Terminal Cikarang,33
+2026-01-27 20:01:24,Sentra Grosir Cikarang,23
+2026-01-27 20:01:24,Stasiun Cikarang,19
+2026-01-27 20:01:24,Lippo Mall Cikarang,29
+2026-01-27 20:01:24,President University,33
+2026-01-27 20:02:39,Terminal Cikarang,34
+2026-01-27 20:02:39,Sentra Grosir Cikarang,25
+2026-01-27 20:02:39,Stasiun Cikarang,19
+2026-01-27 20:02:39,Lippo Mall Cikarang,29
+2026-01-27 20:02:39,President University,33
+2026-01-27 20:03:57,Terminal Cikarang,32
+2026-01-27 20:03:57,Sentra Grosir Cikarang,24
+2026-01-27 20:03:57,Stasiun Cikarang,19
+2026-01-27 20:03:57,Lippo Mall Cikarang,29
+2026-01-27 20:03:57,President University,33
+2026-01-27 20:05:07,Terminal Cikarang,33
+2026-01-27 20:05:07,Sentra Grosir Cikarang,26
+2026-01-27 20:05:07,Stasiun Cikarang,19
+2026-01-27 20:06:54,Lippo Mall Cikarang,29
+2026-01-27 20:08:37,Sentra Grosir Cikarang,26
+2026-01-27 20:08:37,Stasiun Cikarang,17
+2026-01-27 20:08:37,Lippo Mall Cikarang,29
+2026-01-27 20:08:37,President University,33
+2026-01-27 20:09:54,Terminal Cikarang,33
+2026-01-27 20:09:54,Sentra Grosir Cikarang,26
+2026-01-27 20:09:54,Stasiun Cikarang,17
+2026-01-27 20:09:54,Lippo Mall Cikarang,29
+2026-01-27 20:09:54,President University,33
+2026-01-27 20:11:07,Terminal Cikarang,35
+2026-01-27 20:11:07,Sentra Grosir Cikarang,26
+2026-01-27 20:11:07,Lippo Mall Cikarang,29
+2026-01-27 20:11:07,President University,33
+2026-01-27 20:12:28,Sentra Grosir Cikarang,26
+2026-01-27 20:12:28,Lippo Mall Cikarang,29
+2026-01-27 20:12:28,President University,33
+2026-01-27 20:13:56,Terminal Cikarang,35
+2026-01-27 20:13:56,Sentra Grosir Cikarang,26
+2026-01-27 20:13:56,Lippo Mall Cikarang,29
+2026-01-27 20:15:31,Terminal Cikarang,45
+2026-01-27 20:15:31,Sentra Grosir Cikarang,27
+2026-01-27 20:15:31,Stasiun Cikarang,18
+2026-01-27 20:15:31,Lippo Mall Cikarang,29
+2026-01-27 20:15:31,President University,33
+2026-01-27 20:16:39,Terminal Cikarang,45
+2026-01-27 20:16:39,Sentra Grosir Cikarang,26
+2026-01-27 20:16:39,Stasiun Cikarang,19
+2026-01-27 20:16:39,Lippo Mall Cikarang,29
+2026-01-27 20:16:39,President University,24
+2026-01-27 20:17:56,Terminal Cikarang,35
+2026-01-27 20:17:56,Sentra Grosir Cikarang,26
+2026-01-27 20:17:56,Lippo Mall Cikarang,29
+2026-01-27 20:17:56,President University,24
+2026-01-27 20:19:12,Terminal Cikarang,32
+2026-01-27 20:19:12,Sentra Grosir Cikarang,26
+2026-01-27 20:19:12,Stasiun Cikarang,22
+2026-01-27 20:19:12,Lippo Mall Cikarang,24
+2026-01-27 20:19:12,President University,25
+2026-01-27 20:20:22,Terminal Cikarang,34
+2026-01-27 20:20:22,Sentra Grosir Cikarang,25
+2026-01-27 20:20:22,Stasiun Cikarang,22
+2026-01-27 20:20:22,Lippo Mall Cikarang,23
+2026-01-27 20:20:22,President University,24
+2026-01-27 20:31:38,Terminal Cikarang,35
+2026-01-27 20:41:36,Terminal Cikarang,34
+2026-01-27 20:41:36,Sentra Grosir Cikarang,22
+2026-01-27 20:41:36,Stasiun Cikarang,19
+2026-01-27 20:47:21,Sentra Grosir Cikarang,24
+2026-01-27 20:47:21,Stasiun Cikarang,21
+2026-01-27 20:47:21,Lippo Mall Cikarang,23
+2026-01-27 20:47:21,President University,25
+2026-01-27 20:49:37,Terminal Cikarang,32
+2026-01-27 20:49:37,Sentra Grosir Cikarang,23
+2026-01-27 20:49:37,Stasiun Cikarang,21
+2026-01-27 20:49:37,Lippo Mall Cikarang,22
+2026-01-27 20:49:37,President University,23
+2026-01-27 20:50:42,Terminal Cikarang,32
+2026-01-27 20:50:42,Sentra Grosir Cikarang,23
+2026-01-27 20:50:42,Stasiun Cikarang,21
+2026-01-27 20:50:42,Lippo Mall Cikarang,22
+2026-01-27 20:50:42,President University,23
+2026-01-27 20:51:47,Terminal Cikarang,32
+2026-01-27 20:51:47,Sentra Grosir Cikarang,23
+2026-01-27 20:51:47,Stasiun Cikarang,21
+2026-01-27 20:51:47,Lippo Mall Cikarang,22
+2026-01-27 20:51:47,President University,26
+2026-01-27 20:52:52,Terminal Cikarang,30
+2026-01-27 20:52:52,Sentra Grosir Cikarang,24
+2026-01-27 20:52:52,Stasiun Cikarang,21
+2026-01-27 20:52:52,Lippo Mall Cikarang,21
+2026-01-27 20:52:52,President University,24
+2026-01-27 20:53:59,Terminal Cikarang,32
+2026-01-27 20:53:59,Sentra Grosir Cikarang,24
+2026-01-27 20:53:59,Stasiun Cikarang,21
+2026-01-27 20:53:59,Lippo Mall Cikarang,21
+2026-01-27 20:53:59,President University,26
+2026-01-27 20:55:08,Terminal Cikarang,32
+2026-01-27 20:55:08,Sentra Grosir Cikarang,24
+2026-01-27 20:55:08,Stasiun Cikarang,21
+2026-01-27 20:55:08,Lippo Mall Cikarang,21
+2026-01-27 20:55:08,President University,26
+2026-01-27 20:56:14,Sentra Grosir Cikarang,24
+2026-01-27 20:56:14,Stasiun Cikarang,21
+2026-01-27 20:56:14,Lippo Mall Cikarang,23
+2026-01-27 20:56:14,President University,33
+2026-01-27 20:57:32,Terminal Cikarang,30
+2026-01-27 20:57:32,Sentra Grosir Cikarang,24
+2026-01-27 20:57:32,Stasiun Cikarang,21
+2026-01-27 20:57:32,Lippo Mall Cikarang,23
+2026-01-27 20:57:32,President University,33
+2026-01-27 20:58:37,Terminal Cikarang,30
+2026-01-27 20:58:37,Sentra Grosir Cikarang,24
+2026-01-27 20:58:37,Stasiun Cikarang,20
+2026-01-27 20:58:37,Lippo Mall Cikarang,25
+2026-01-27 20:58:37,President University,33
+2026-01-27 20:59:43,Terminal Cikarang,30
+2026-01-27 20:59:43,Sentra Grosir Cikarang,23
+2026-01-27 20:59:43,Stasiun Cikarang,20
+2026-01-27 20:59:43,Lippo Mall Cikarang,25
+2026-01-27 20:59:43,President University,33
+2026-01-27 21:00:52,Terminal Cikarang,30
+2026-01-27 21:00:52,Sentra Grosir Cikarang,23
+2026-01-27 21:00:52,Stasiun Cikarang,20
+2026-01-27 21:00:52,Lippo Mall Cikarang,25
+2026-01-27 21:00:52,President University,33
+2026-01-27 21:01:58,Terminal Cikarang,32
+2026-01-27 21:01:58,Sentra Grosir Cikarang,23
+2026-01-27 21:01:58,Stasiun Cikarang,21
+2026-01-27 21:01:58,Lippo Mall Cikarang,25
+2026-01-27 21:01:58,President University,33
+2026-01-27 21:03:04,Terminal Cikarang,30
+2026-01-27 21:03:04,Sentra Grosir Cikarang,23
+2026-01-27 21:03:04,Stasiun Cikarang,21
+2026-01-27 21:03:04,Lippo Mall Cikarang,25
+2026-01-27 21:03:04,President University,33
+2026-01-27 21:04:13,Terminal Cikarang,32
+2026-01-27 21:04:13,Sentra Grosir Cikarang,23
+2026-01-27 21:04:13,Stasiun Cikarang,21
+2026-01-27 21:04:13,Lippo Mall Cikarang,25
+2026-01-27 21:04:13,President University,33
+2026-01-27 21:05:26,Terminal Cikarang,30
+2026-01-27 21:05:26,Sentra Grosir Cikarang,23
+2026-01-27 21:05:26,Stasiun Cikarang,21
+2026-01-27 21:05:26,Lippo Mall Cikarang,25
+2026-01-27 21:05:26,President University,33
+2026-01-27 21:06:41,Sentra Grosir Cikarang,23
+2026-01-27 21:06:41,Stasiun Cikarang,21
+2026-01-27 21:06:41,President University,33
+2026-01-27 21:08:23,Terminal Cikarang,34
+2026-01-27 21:08:23,Sentra Grosir Cikarang,23
+2026-01-27 21:08:23,Stasiun Cikarang,21
+2026-01-27 21:08:23,Lippo Mall Cikarang,23
+2026-01-27 21:08:23,President University,33
+2026-01-27 21:09:42,Terminal Cikarang,34
+2026-01-27 21:09:42,Stasiun Cikarang,21
+2026-01-27 21:09:42,Lippo Mall Cikarang,29
+2026-01-27 21:09:42,President University,33
+2026-01-27 21:11:15,Lippo Mall Cikarang,29
+2026-01-27 21:11:15,President University,33
+2026-01-27 21:12:54,Terminal Cikarang,35
+2026-01-27 21:12:54,Sentra Grosir Cikarang,23
+2026-01-27 21:12:54,Stasiun Cikarang,21
+2026-01-27 21:12:54,Lippo Mall Cikarang,29
+2026-01-27 21:12:54,President University,33
+2026-01-27 21:14:13,Terminal Cikarang,35
+2026-01-27 21:14:13,Sentra Grosir Cikarang,23
+2026-01-27 21:14:13,Stasiun Cikarang,22
+2026-01-27 21:14:13,Lippo Mall Cikarang,29
+2026-01-27 21:14:13,President University,33
+2026-01-27 21:15:20,Terminal Cikarang,36
+2026-01-27 21:15:20,Sentra Grosir Cikarang,23
+2026-01-27 21:15:20,Stasiun Cikarang,22
+2026-01-27 21:15:20,Lippo Mall Cikarang,29
+2026-01-27 21:15:20,President University,33
+2026-01-27 21:16:28,Terminal Cikarang,45
+2026-01-27 21:16:28,Sentra Grosir Cikarang,23
+2026-01-27 21:16:28,Stasiun Cikarang,21
+2026-01-27 21:16:28,Lippo Mall Cikarang,29
+2026-01-27 21:16:28,President University,33
+2026-01-27 21:17:38,Terminal Cikarang,45
+2026-01-27 21:17:38,Sentra Grosir Cikarang,24
+2026-01-27 21:17:38,Stasiun Cikarang,21
+2026-01-27 21:17:38,Lippo Mall Cikarang,29
+2026-01-27 21:17:38,President University,33
+2026-01-27 21:18:46,Terminal Cikarang,45
+2026-01-27 21:18:46,Sentra Grosir Cikarang,25
+2026-01-27 21:18:46,Stasiun Cikarang,19
+2026-01-27 21:18:46,Lippo Mall Cikarang,29
+2026-01-27 21:18:46,President University,33
+2026-01-27 21:19:54,Terminal Cikarang,45
+2026-01-27 21:19:54,Sentra Grosir Cikarang,25
+2026-01-27 21:19:54,Stasiun Cikarang,20
+2026-01-27 21:19:54,Lippo Mall Cikarang,29
+2026-01-27 21:19:54,President University,33
+2026-01-27 21:21:03,Terminal Cikarang,45
+2026-01-27 21:21:03,Sentra Grosir Cikarang,25
+2026-01-27 21:21:03,Stasiun Cikarang,20
+2026-01-27 21:21:03,Lippo Mall Cikarang,29
+2026-01-27 21:21:03,President University,33
+2026-01-27 21:22:20,Terminal Cikarang,45
+2026-01-27 21:22:20,Sentra Grosir Cikarang,26
+2026-01-27 21:22:20,Stasiun Cikarang,21
+2026-01-27 21:22:20,Lippo Mall Cikarang,29
+2026-01-27 21:22:20,President University,33
+2026-01-27 21:23:35,Terminal Cikarang,45
+2026-01-27 21:23:35,Sentra Grosir Cikarang,26
+2026-01-27 21:23:35,Stasiun Cikarang,21
+2026-01-27 21:23:35,President University,33
+2026-01-27 21:25:15,Terminal Cikarang,45
+2026-01-27 21:25:15,Sentra Grosir Cikarang,26
+2026-01-27 21:25:15,Stasiun Cikarang,22
+2026-01-27 21:25:15,Lippo Mall Cikarang,29
+2026-01-27 21:25:15,President University,33
+2026-01-27 21:28:37,Terminal Cikarang,45
+2026-01-27 21:28:37,Sentra Grosir Cikarang,24
+2026-01-27 21:28:37,Stasiun Cikarang,22
+2026-01-27 21:28:37,President University,33
+2026-01-27 21:30:11,Terminal Cikarang,45
+2026-01-27 21:30:11,Sentra Grosir Cikarang,24
+2026-01-27 21:30:11,Stasiun Cikarang,22
+2026-01-27 21:30:11,Lippo Mall Cikarang,29
+2026-01-27 21:30:11,President University,33
+2026-01-27 21:31:20,Terminal Cikarang,45
+2026-01-27 21:31:20,Sentra Grosir Cikarang,25
+2026-01-27 21:31:20,Stasiun Cikarang,28
+2026-01-27 21:31:20,Lippo Mall Cikarang,29
+2026-01-27 21:31:20,President University,33
+2026-01-27 21:32:24,Terminal Cikarang,45
+2026-01-27 21:32:24,Sentra Grosir Cikarang,25
+2026-01-27 21:32:24,Stasiun Cikarang,28
+2026-01-27 21:32:24,Lippo Mall Cikarang,29
+2026-01-27 21:32:24,President University,33
+2026-01-27 21:33:33,Stasiun Cikarang,28
+2026-01-27 21:33:33,Lippo Mall Cikarang,29
+2026-01-27 21:33:33,President University,33
+2026-01-27 21:35:15,Terminal Cikarang,45
+2026-01-27 21:35:15,Sentra Grosir Cikarang,24
+2026-01-27 21:35:15,Stasiun Cikarang,28
+2026-01-27 21:35:15,Lippo Mall Cikarang,29
+2026-01-27 21:35:15,President University,33
+2026-01-27 21:36:32,Terminal Cikarang,45
+2026-01-27 21:36:32,Sentra Grosir Cikarang,24
+2026-01-27 21:36:32,Stasiun Cikarang,28
+2026-01-27 21:36:32,Lippo Mall Cikarang,29
+2026-01-27 21:36:32,President University,26
+2026-01-27 21:37:41,Terminal Cikarang,45
+2026-01-27 21:37:41,Sentra Grosir Cikarang,24
+2026-01-27 21:37:41,Stasiun Cikarang,28
+2026-01-27 21:37:41,Lippo Mall Cikarang,29
+2026-01-27 21:37:41,President University,26
+2026-01-27 21:38:46,Terminal Cikarang,45
+2026-01-27 21:38:46,Sentra Grosir Cikarang,23
+2026-01-27 21:38:46,Stasiun Cikarang,28
+2026-01-27 21:38:46,Lippo Mall Cikarang,29
+2026-01-27 21:38:46,President University,33
+2026-01-27 21:39:51,Terminal Cikarang,45
+2026-01-27 21:39:51,Sentra Grosir Cikarang,23
+2026-01-27 21:39:51,Stasiun Cikarang,28
+2026-01-27 21:39:51,Lippo Mall Cikarang,29
+2026-01-27 21:39:51,President University,33
+2026-01-27 21:40:55,Terminal Cikarang,45
+2026-01-27 21:40:55,Sentra Grosir Cikarang,23
+2026-01-27 21:40:55,Stasiun Cikarang,28
+2026-01-27 21:40:55,Lippo Mall Cikarang,29
+2026-01-27 21:40:55,President University,33
+2026-01-27 21:42:01,Terminal Cikarang,45
+2026-01-27 21:42:01,Sentra Grosir Cikarang,24
+2026-01-27 21:42:01,Stasiun Cikarang,28
+2026-01-27 21:42:01,Lippo Mall Cikarang,29
+2026-01-27 21:42:01,President University,33
+2026-01-27 21:43:06,Terminal Cikarang,45
+2026-01-27 21:43:06,Sentra Grosir Cikarang,24
+2026-01-27 21:43:06,Stasiun Cikarang,28
+2026-01-27 21:43:06,Lippo Mall Cikarang,29
+2026-01-27 21:43:06,President University,33
+2026-01-27 21:44:11,Terminal Cikarang,45
+2026-01-27 21:44:11,Sentra Grosir Cikarang,23
+2026-01-27 21:44:11,Stasiun Cikarang,28
+2026-01-27 21:44:11,Lippo Mall Cikarang,29
+2026-01-27 21:44:11,President University,33
+2026-01-27 21:45:15,Terminal Cikarang,45
+2026-01-27 21:45:15,Sentra Grosir Cikarang,23
+2026-01-27 21:45:15,Stasiun Cikarang,28
+2026-01-27 21:45:15,Lippo Mall Cikarang,29
+2026-01-27 21:45:15,President University,33
+2026-01-27 21:46:20,Terminal Cikarang,45
+2026-01-27 21:46:20,Sentra Grosir Cikarang,25
+2026-01-27 21:46:20,Stasiun Cikarang,28
+2026-01-27 21:46:20,Lippo Mall Cikarang,29
+2026-01-27 21:46:20,President University,33
+2026-01-27 21:47:27,Terminal Cikarang,45
+2026-01-27 21:47:27,Sentra Grosir Cikarang,25
+2026-01-27 21:47:27,Stasiun Cikarang,28
+2026-01-27 21:47:27,Lippo Mall Cikarang,29
+2026-01-27 21:47:27,President University,33
+2026-01-27 21:48:32,Terminal Cikarang,45
+2026-01-27 21:48:32,Sentra Grosir Cikarang,25
+2026-01-27 21:48:32,Stasiun Cikarang,28
+2026-01-27 21:48:32,Lippo Mall Cikarang,29
+2026-01-27 21:48:32,President University,33
+2026-01-27 21:49:37,Terminal Cikarang,45
+2026-01-27 21:49:37,Sentra Grosir Cikarang,26
+2026-01-27 21:49:37,Stasiun Cikarang,28
+2026-01-27 21:49:37,Lippo Mall Cikarang,29
+2026-01-27 21:49:37,President University,33
+2026-01-27 21:50:42,Terminal Cikarang,45
+2026-01-27 21:50:42,Sentra Grosir Cikarang,25
+2026-01-27 21:50:42,Stasiun Cikarang,28
+2026-01-27 21:50:42,Lippo Mall Cikarang,29
+2026-01-27 21:50:42,President University,33
+2026-01-27 21:51:47,Terminal Cikarang,45
+2026-01-27 21:51:47,Sentra Grosir Cikarang,25
+2026-01-27 21:51:47,Stasiun Cikarang,28
+2026-01-27 21:51:47,Lippo Mall Cikarang,29
+2026-01-27 21:51:47,President University,33
+2026-01-27 21:52:51,Terminal Cikarang,45
+2026-01-27 21:52:51,Sentra Grosir Cikarang,23
+2026-01-27 21:52:51,Stasiun Cikarang,28
+2026-01-27 21:52:51,Lippo Mall Cikarang,29
+2026-01-27 21:52:51,President University,33
+2026-01-27 21:53:56,Terminal Cikarang,45
+2026-01-27 21:53:56,Sentra Grosir Cikarang,23
+2026-01-27 21:53:56,Stasiun Cikarang,28
+2026-01-27 21:53:56,Lippo Mall Cikarang,29
+2026-01-27 21:53:56,President University,33
+2026-01-27 21:55:01,Terminal Cikarang,45
+2026-01-27 21:55:01,Sentra Grosir Cikarang,23
+2026-01-27 21:55:01,Stasiun Cikarang,28
+2026-01-27 21:55:01,Lippo Mall Cikarang,29
+2026-01-27 21:55:01,President University,33
+2026-01-27 21:56:05,Terminal Cikarang,45
+2026-01-27 21:56:05,Sentra Grosir Cikarang,23
+2026-01-27 21:56:05,Stasiun Cikarang,28
+2026-01-27 21:56:05,Lippo Mall Cikarang,29
+2026-01-27 21:56:05,President University,33
+2026-01-27 21:57:10,Terminal Cikarang,32
+2026-01-27 21:57:10,Sentra Grosir Cikarang,25
+2026-01-27 21:57:10,Stasiun Cikarang,28
+2026-01-27 21:57:10,Lippo Mall Cikarang,29
+2026-01-27 21:57:10,President University,33
+2026-01-27 21:58:15,Terminal Cikarang,32
+2026-01-27 21:58:15,Sentra Grosir Cikarang,33
+2026-01-27 21:58:15,Stasiun Cikarang,28
+2026-01-27 21:58:15,Lippo Mall Cikarang,29
+2026-01-27 21:58:15,President University,33
+2026-01-27 21:59:19,Terminal Cikarang,32
+2026-01-27 21:59:19,Sentra Grosir Cikarang,33
+2026-01-27 21:59:19,Stasiun Cikarang,28
+2026-01-27 21:59:19,Lippo Mall Cikarang,29
+2026-01-27 21:59:19,President University,33
+2026-01-27 22:00:24,Terminal Cikarang,32
+2026-01-27 22:00:24,Sentra Grosir Cikarang,33
+2026-01-27 22:00:24,Stasiun Cikarang,28
+2026-01-27 22:00:24,Lippo Mall Cikarang,29
+2026-01-27 22:00:24,President University,33
+2026-01-27 22:01:30,Terminal Cikarang,32
+2026-01-27 22:01:30,Sentra Grosir Cikarang,33
+2026-01-27 22:01:30,Stasiun Cikarang,28
+2026-01-27 22:01:30,Lippo Mall Cikarang,29
+2026-01-27 22:01:30,President University,33
+2026-01-27 22:02:35,Terminal Cikarang,32
+2026-01-27 22:02:35,Sentra Grosir Cikarang,33
+2026-01-27 22:02:35,Stasiun Cikarang,28
+2026-01-27 22:02:35,Lippo Mall Cikarang,29
+2026-01-27 22:02:35,President University,33
+2026-01-27 22:03:40,Terminal Cikarang,32
+2026-01-27 22:03:40,Sentra Grosir Cikarang,33
+2026-01-27 22:03:40,Stasiun Cikarang,28
+2026-01-27 22:03:40,Lippo Mall Cikarang,29
+2026-01-27 22:03:40,President University,33
+2026-01-27 22:04:44,Terminal Cikarang,30
+2026-01-27 22:04:44,Sentra Grosir Cikarang,33
+2026-01-27 22:04:44,Stasiun Cikarang,28
+2026-01-27 22:04:44,Lippo Mall Cikarang,29
+2026-01-27 22:04:44,President University,33
+2026-01-27 22:05:49,Terminal Cikarang,30
+2026-01-27 22:05:49,Sentra Grosir Cikarang,33
+2026-01-27 22:05:49,Stasiun Cikarang,28
+2026-01-27 22:05:49,Lippo Mall Cikarang,29
+2026-01-27 22:05:49,President University,33
+2026-01-27 22:06:55,Terminal Cikarang,30
+2026-01-27 22:06:55,Sentra Grosir Cikarang,33
+2026-01-27 22:06:55,Stasiun Cikarang,28
+2026-01-27 22:06:55,Lippo Mall Cikarang,29
+2026-01-27 22:06:55,President University,33
+2026-01-27 22:08:00,Terminal Cikarang,30
+2026-01-27 22:08:00,Sentra Grosir Cikarang,33
+2026-01-27 22:08:00,Stasiun Cikarang,28
+2026-01-27 22:08:00,Lippo Mall Cikarang,29
+2026-01-27 22:08:00,President University,33
+2026-01-27 22:09:05,Terminal Cikarang,30
+2026-01-27 22:09:05,Sentra Grosir Cikarang,33
+2026-01-27 22:09:05,Stasiun Cikarang,28
+2026-01-27 22:09:05,Lippo Mall Cikarang,29
+2026-01-27 22:09:05,President University,33
+2026-01-27 22:10:10,Terminal Cikarang,30
+2026-01-27 22:10:10,Sentra Grosir Cikarang,33
+2026-01-27 22:10:10,Stasiun Cikarang,28
+2026-01-27 22:10:10,Lippo Mall Cikarang,29
+2026-01-27 22:10:10,President University,33
+2026-01-27 22:11:15,Terminal Cikarang,30
+2026-01-27 22:11:15,Sentra Grosir Cikarang,33
+2026-01-27 22:11:15,Stasiun Cikarang,28
+2026-01-27 22:11:15,Lippo Mall Cikarang,29
+2026-01-27 22:11:15,President University,33
+2026-01-27 22:12:21,Terminal Cikarang,30
+2026-01-27 22:12:21,Sentra Grosir Cikarang,33
+2026-01-27 22:12:21,Stasiun Cikarang,28
+2026-01-27 22:12:21,Lippo Mall Cikarang,29
+2026-01-27 22:12:21,President University,33
+2026-01-27 22:13:27,Terminal Cikarang,27
+2026-01-27 22:13:27,Sentra Grosir Cikarang,33
+2026-01-27 22:13:27,Stasiun Cikarang,28
+2026-01-27 22:13:27,Lippo Mall Cikarang,29
+2026-01-27 22:13:27,President University,33
+2026-01-27 22:14:32,Terminal Cikarang,29
+2026-01-27 22:14:32,Sentra Grosir Cikarang,33
+2026-01-27 22:14:32,Stasiun Cikarang,28
+2026-01-27 22:14:32,Lippo Mall Cikarang,29
+2026-01-27 22:14:32,President University,33
+2026-01-27 22:15:37,Terminal Cikarang,27
+2026-01-27 22:15:37,Sentra Grosir Cikarang,33
+2026-01-27 22:15:37,Stasiun Cikarang,28
+2026-01-27 22:15:37,Lippo Mall Cikarang,29
+2026-01-27 22:15:37,President University,33
+2026-01-27 22:16:43,Terminal Cikarang,27
+2026-01-27 22:16:43,Sentra Grosir Cikarang,33
+2026-01-27 22:16:43,Stasiun Cikarang,28
+2026-01-27 22:16:43,Lippo Mall Cikarang,29
+2026-01-27 22:16:43,President University,33
+2026-01-27 22:17:47,Terminal Cikarang,27
+2026-01-27 22:17:47,Sentra Grosir Cikarang,33
+2026-01-27 22:17:47,Stasiun Cikarang,28
+2026-01-27 22:17:47,Lippo Mall Cikarang,29
+2026-01-27 22:17:47,President University,33
+2026-01-27 22:18:53,Terminal Cikarang,27
+2026-01-27 22:18:53,Sentra Grosir Cikarang,33
+2026-01-27 22:18:53,Stasiun Cikarang,28
+2026-01-27 22:18:53,Lippo Mall Cikarang,29
+2026-01-27 22:18:53,President University,33
+2026-01-27 22:20:00,Terminal Cikarang,29
+2026-01-27 22:20:00,Sentra Grosir Cikarang,33
+2026-01-27 22:20:00,Stasiun Cikarang,28
+2026-01-27 22:20:00,Lippo Mall Cikarang,29
+2026-01-27 22:20:00,President University,33
+2026-01-27 22:21:05,Terminal Cikarang,29
+2026-01-27 22:21:05,Sentra Grosir Cikarang,33
+2026-01-27 22:21:05,Stasiun Cikarang,28
+2026-01-27 22:21:05,Lippo Mall Cikarang,29
+2026-01-27 22:21:05,President University,33
+2026-01-27 22:22:11,Terminal Cikarang,36
+2026-01-27 22:22:11,Sentra Grosir Cikarang,33
+2026-01-27 22:22:11,Stasiun Cikarang,28
+2026-01-27 22:22:11,Lippo Mall Cikarang,29
+2026-01-27 22:22:11,President University,33
+2026-01-27 22:23:16,Terminal Cikarang,33
+2026-01-27 22:23:16,Sentra Grosir Cikarang,33
+2026-01-27 22:23:16,Stasiun Cikarang,28
+2026-01-27 22:23:16,Lippo Mall Cikarang,29
+2026-01-27 22:23:16,President University,33
+2026-01-27 22:24:38,Terminal Cikarang,33
+2026-01-27 22:24:38,Sentra Grosir Cikarang,33
+2026-01-27 22:24:38,Stasiun Cikarang,28
+2026-01-27 22:24:38,Lippo Mall Cikarang,29
+2026-01-27 22:24:38,President University,33
+2026-01-27 22:25:45,Terminal Cikarang,33
+2026-01-27 22:25:45,Sentra Grosir Cikarang,33
+2026-01-27 22:25:45,Stasiun Cikarang,28
+2026-01-27 22:25:45,Lippo Mall Cikarang,29
+2026-01-27 22:25:45,President University,33
+2026-01-27 22:26:51,Terminal Cikarang,33
+2026-01-27 22:26:51,Sentra Grosir Cikarang,33
+2026-01-27 22:26:51,Stasiun Cikarang,28
+2026-01-27 22:26:51,Lippo Mall Cikarang,29
+2026-01-27 22:26:51,President University,33
+2026-01-27 22:27:56,Stasiun Cikarang,28
+2026-01-27 22:27:56,Lippo Mall Cikarang,29
+2026-01-27 22:29:19,Terminal Cikarang,34
+2026-01-27 22:29:19,Sentra Grosir Cikarang,33
+2026-01-27 22:29:19,Stasiun Cikarang,28
+2026-01-27 22:29:19,Lippo Mall Cikarang,29
+2026-01-27 22:30:33,Terminal Cikarang,34
+2026-01-27 22:30:33,Sentra Grosir Cikarang,33
+2026-01-27 22:30:33,Stasiun Cikarang,28
+2026-01-27 22:30:33,Lippo Mall Cikarang,29
+2026-01-27 22:30:33,President University,33
+2026-01-27 22:31:38,Terminal Cikarang,33
+2026-01-27 22:31:38,Sentra Grosir Cikarang,33
+2026-01-27 22:31:38,Stasiun Cikarang,28
+2026-01-27 22:31:38,Lippo Mall Cikarang,29
+2026-01-27 22:31:38,President University,33
+2026-01-27 22:32:43,Terminal Cikarang,45
+2026-01-27 22:32:43,Sentra Grosir Cikarang,33
+2026-01-27 22:32:43,Stasiun Cikarang,28
+2026-01-27 22:32:43,Lippo Mall Cikarang,29
+2026-01-27 22:32:43,President University,33
+2026-01-27 22:33:48,Terminal Cikarang,45
+2026-01-27 22:33:48,Sentra Grosir Cikarang,33
+2026-01-27 22:33:48,Stasiun Cikarang,28
+2026-01-27 22:33:48,Lippo Mall Cikarang,29
+2026-01-27 22:33:48,President University,33
+2026-01-27 22:34:53,Terminal Cikarang,36
+2026-01-27 22:34:53,Sentra Grosir Cikarang,33
+2026-01-27 22:34:53,Stasiun Cikarang,28
+2026-01-27 22:34:53,Lippo Mall Cikarang,29
+2026-01-27 22:34:53,President University,33
+2026-01-27 22:35:59,Terminal Cikarang,45
+2026-01-27 22:35:59,Sentra Grosir Cikarang,33
+2026-01-27 22:35:59,Stasiun Cikarang,28
+2026-01-27 22:35:59,Lippo Mall Cikarang,29
+2026-01-27 22:35:59,President University,33
+2026-01-27 22:37:08,Terminal Cikarang,45
+2026-01-27 22:37:08,Sentra Grosir Cikarang,33
+2026-01-27 22:37:08,Stasiun Cikarang,28
+2026-01-27 22:37:08,Lippo Mall Cikarang,29
+2026-01-27 22:37:08,President University,33
+2026-01-27 22:38:14,Sentra Grosir Cikarang,33
+2026-01-27 22:38:14,Stasiun Cikarang,28
+2026-01-27 22:38:14,Lippo Mall Cikarang,29
+2026-01-27 22:38:14,President University,33
+2026-01-27 22:39:25,Terminal Cikarang,45
+2026-01-27 22:39:25,Sentra Grosir Cikarang,33
+2026-01-27 22:39:25,Stasiun Cikarang,28
+2026-01-27 22:39:25,Lippo Mall Cikarang,29
+2026-01-27 22:39:25,President University,33
+2026-01-27 22:40:30,Terminal Cikarang,45
+2026-01-27 22:40:30,Sentra Grosir Cikarang,33
+2026-01-27 22:40:30,Stasiun Cikarang,28
+2026-01-27 22:40:30,Lippo Mall Cikarang,29
+2026-01-27 22:40:30,President University,33
+2026-01-27 22:41:36,Terminal Cikarang,45
+2026-01-27 22:41:36,Sentra Grosir Cikarang,33
+2026-01-27 22:41:36,Stasiun Cikarang,28
+2026-01-27 22:41:36,Lippo Mall Cikarang,29
+2026-01-27 22:41:36,President University,33
+2026-01-27 22:42:41,Terminal Cikarang,45
+2026-01-27 22:42:41,Sentra Grosir Cikarang,33
+2026-01-27 22:42:41,Stasiun Cikarang,28
+2026-01-27 22:42:41,Lippo Mall Cikarang,29
+2026-01-27 22:42:41,President University,33
+2026-01-27 22:43:47,Terminal Cikarang,45
+2026-01-27 22:43:47,Sentra Grosir Cikarang,33
+2026-01-27 22:43:47,Stasiun Cikarang,28
+2026-01-27 22:43:47,Lippo Mall Cikarang,29
+2026-01-27 22:43:47,President University,33
+2026-01-27 22:44:52,Terminal Cikarang,45
+2026-01-27 22:44:52,Sentra Grosir Cikarang,33
+2026-01-27 22:44:52,Stasiun Cikarang,28
+2026-01-27 22:44:52,Lippo Mall Cikarang,29
+2026-01-27 22:44:52,President University,33
+2026-01-27 22:45:57,Terminal Cikarang,45
+2026-01-27 22:45:57,Sentra Grosir Cikarang,22
+2026-01-27 22:45:57,Stasiun Cikarang,28
+2026-01-27 22:45:57,Lippo Mall Cikarang,29
+2026-01-27 22:45:57,President University,33
+2026-01-27 22:47:03,Terminal Cikarang,45
+2026-01-27 22:47:03,Sentra Grosir Cikarang,22
+2026-01-27 22:47:03,Stasiun Cikarang,28
+2026-01-27 22:47:03,Lippo Mall Cikarang,29
+2026-01-27 22:47:03,President University,33
+2026-01-27 22:48:08,Terminal Cikarang,45
+2026-01-27 22:48:08,Sentra Grosir Cikarang,22
+2026-01-27 22:48:08,Stasiun Cikarang,28
+2026-01-27 22:48:08,Lippo Mall Cikarang,23
+2026-01-27 22:48:08,President University,33
+2026-01-27 22:49:14,Terminal Cikarang,35
+2026-01-27 22:49:14,Sentra Grosir Cikarang,22
+2026-01-27 22:49:14,Stasiun Cikarang,28
+2026-01-27 22:49:14,Lippo Mall Cikarang,22
+2026-01-27 22:49:14,President University,33
+2026-01-27 22:50:20,Terminal Cikarang,34
+2026-01-27 22:50:20,Sentra Grosir Cikarang,23
+2026-01-27 22:50:20,Stasiun Cikarang,28
+2026-01-27 22:50:20,Lippo Mall Cikarang,22
+2026-01-27 22:50:20,President University,33
+2026-01-27 22:51:25,Terminal Cikarang,32
+2026-01-27 22:51:25,Sentra Grosir Cikarang,22
+2026-01-27 22:51:25,Stasiun Cikarang,28
+2026-01-27 22:51:25,Lippo Mall Cikarang,22
+2026-01-27 22:51:25,President University,33
+2026-01-27 22:52:31,Terminal Cikarang,30
+2026-01-27 22:52:31,Sentra Grosir Cikarang,22
+2026-01-27 22:52:31,Stasiun Cikarang,28
+2026-01-27 22:52:31,Lippo Mall Cikarang,21
+2026-01-27 22:52:31,President University,33
+2026-01-27 22:53:36,Terminal Cikarang,30
+2026-01-27 22:53:36,Sentra Grosir Cikarang,23
+2026-01-27 22:53:36,Stasiun Cikarang,28
+2026-01-27 22:53:36,Lippo Mall Cikarang,21
+2026-01-27 22:53:36,President University,33
+2026-01-27 22:54:41,Terminal Cikarang,30
+2026-01-27 22:54:41,Sentra Grosir Cikarang,24
+2026-01-27 22:54:41,Stasiun Cikarang,28
+2026-01-27 22:54:41,Lippo Mall Cikarang,21
+2026-01-27 22:54:41,President University,33
+2026-01-27 22:55:46,Terminal Cikarang,30
+2026-01-27 22:55:46,Sentra Grosir Cikarang,24
+2026-01-27 22:55:46,Stasiun Cikarang,28
+2026-01-27 22:55:46,Lippo Mall Cikarang,22
+2026-01-27 22:55:46,President University,33
+2026-01-27 22:56:51,Terminal Cikarang,32
+2026-01-27 22:56:51,Sentra Grosir Cikarang,24
+2026-01-27 22:56:51,Stasiun Cikarang,28
+2026-01-27 22:56:51,Lippo Mall Cikarang,23
+2026-01-27 22:56:51,President University,33
+2026-01-27 22:57:56,Terminal Cikarang,32
+2026-01-27 22:57:56,Sentra Grosir Cikarang,24
+2026-01-27 22:57:56,Stasiun Cikarang,28
+2026-01-27 22:57:56,Lippo Mall Cikarang,23
+2026-01-27 22:57:56,President University,33
+2026-01-27 22:59:00,Terminal Cikarang,32
+2026-01-27 22:59:00,Sentra Grosir Cikarang,24
+2026-01-27 22:59:00,Stasiun Cikarang,28
+2026-01-27 22:59:00,Lippo Mall Cikarang,29
+2026-01-27 22:59:00,President University,33
+2026-01-27 23:00:05,Terminal Cikarang,32
+2026-01-27 23:00:05,Sentra Grosir Cikarang,24
+2026-01-27 23:00:05,Stasiun Cikarang,28
+2026-01-27 23:00:05,Lippo Mall Cikarang,29
+2026-01-27 23:00:05,President University,33
+2026-01-27 23:01:11,Terminal Cikarang,33
+2026-01-27 23:01:11,Sentra Grosir Cikarang,24
+2026-01-27 23:01:11,Stasiun Cikarang,28
+2026-01-27 23:01:11,Lippo Mall Cikarang,29
+2026-01-27 23:01:11,President University,33
+2026-01-27 23:02:17,Terminal Cikarang,33
+2026-01-27 23:02:17,Sentra Grosir Cikarang,24
+2026-01-27 23:02:17,Stasiun Cikarang,28
+2026-01-27 23:02:17,Lippo Mall Cikarang,29
+2026-01-27 23:02:17,President University,33
+2026-01-27 23:03:22,Terminal Cikarang,45
+2026-01-27 23:03:22,Sentra Grosir Cikarang,26
+2026-01-27 23:03:22,Stasiun Cikarang,28
+2026-01-27 23:03:22,Lippo Mall Cikarang,29
+2026-01-27 23:03:22,President University,33
+2026-01-27 23:04:27,Terminal Cikarang,45
+2026-01-27 23:04:27,Sentra Grosir Cikarang,26
+2026-01-27 23:04:27,Stasiun Cikarang,28
+2026-01-27 23:04:27,Lippo Mall Cikarang,29
+2026-01-27 23:04:27,President University,33
+2026-01-27 23:05:33,Terminal Cikarang,45
+2026-01-27 23:05:33,Sentra Grosir Cikarang,33
+2026-01-27 23:05:33,Stasiun Cikarang,28
+2026-01-27 23:05:33,Lippo Mall Cikarang,29
+2026-01-27 23:05:33,President University,33
+2026-01-27 23:06:38,Terminal Cikarang,45
+2026-01-27 23:06:38,Sentra Grosir Cikarang,33
+2026-01-27 23:06:38,Stasiun Cikarang,28
+2026-01-27 23:06:38,Lippo Mall Cikarang,23
+2026-01-27 23:06:38,President University,33
+2026-01-27 23:08:43,Terminal Cikarang,45
+2026-01-27 23:08:43,Sentra Grosir Cikarang,33
+2026-01-27 23:08:43,Stasiun Cikarang,28
+2026-01-27 23:08:43,Lippo Mall Cikarang,29
+2026-01-27 23:08:43,President University,33
+2026-01-27 23:09:49,Terminal Cikarang,45
+2026-01-27 23:09:49,Sentra Grosir Cikarang,33
+2026-01-27 23:09:49,Stasiun Cikarang,28
+2026-01-27 23:09:49,Lippo Mall Cikarang,29
+2026-01-27 23:09:49,President University,33
+2026-01-27 23:10:54,Terminal Cikarang,45
+2026-01-27 23:10:54,Sentra Grosir Cikarang,33
+2026-01-27 23:10:54,Stasiun Cikarang,28
+2026-01-27 23:10:54,Lippo Mall Cikarang,29
+2026-01-27 23:10:54,President University,33
+2026-01-27 23:11:59,Terminal Cikarang,45
+2026-01-27 23:11:59,Sentra Grosir Cikarang,33
+2026-01-27 23:11:59,Stasiun Cikarang,28
+2026-01-27 23:11:59,Lippo Mall Cikarang,29
+2026-01-27 23:11:59,President University,33
+2026-01-27 23:13:04,Terminal Cikarang,45
+2026-01-27 23:13:04,Sentra Grosir Cikarang,33
+2026-01-27 23:13:04,Stasiun Cikarang,28
+2026-01-27 23:13:04,Lippo Mall Cikarang,29
+2026-01-27 23:13:04,President University,33
+2026-01-27 23:14:08,Terminal Cikarang,45
+2026-01-27 23:14:08,Sentra Grosir Cikarang,33
+2026-01-27 23:14:08,Stasiun Cikarang,28
+2026-01-27 23:14:08,Lippo Mall Cikarang,29
+2026-01-27 23:14:08,President University,33
+2026-01-27 23:15:13,Terminal Cikarang,45
+2026-01-27 23:15:13,Sentra Grosir Cikarang,33
+2026-01-27 23:15:13,Stasiun Cikarang,28
+2026-01-27 23:15:13,Lippo Mall Cikarang,29
+2026-01-27 23:15:13,President University,33
+2026-01-27 23:16:23,Terminal Cikarang,45
+2026-01-27 23:16:23,Sentra Grosir Cikarang,33
+2026-01-27 23:16:23,Stasiun Cikarang,28
+2026-01-27 23:16:23,Lippo Mall Cikarang,29
+2026-01-27 23:16:23,President University,33
+2026-01-27 23:17:27,Terminal Cikarang,35
+2026-01-27 23:17:27,Sentra Grosir Cikarang,33
+2026-01-27 23:17:27,Stasiun Cikarang,28
+2026-01-27 23:17:27,Lippo Mall Cikarang,29
+2026-01-27 23:17:27,President University,33
+2026-01-27 23:18:32,Terminal Cikarang,34
+2026-01-27 23:18:32,Sentra Grosir Cikarang,33
+2026-01-27 23:18:32,Stasiun Cikarang,22
+2026-01-27 23:18:32,Lippo Mall Cikarang,29
+2026-01-27 23:18:32,President University,33
+2026-01-27 23:19:37,Terminal Cikarang,35
+2026-01-27 23:19:37,Sentra Grosir Cikarang,33
+2026-01-27 23:19:37,Stasiun Cikarang,22
+2026-01-27 23:19:37,Lippo Mall Cikarang,29
+2026-01-27 23:19:37,President University,33
+2026-01-27 23:20:42,Terminal Cikarang,35
+2026-01-27 23:20:42,Sentra Grosir Cikarang,33
+2026-01-27 23:20:42,Stasiun Cikarang,28
+2026-01-27 23:20:42,Lippo Mall Cikarang,29
+2026-01-27 23:20:42,President University,33
+2026-01-27 23:21:46,Terminal Cikarang,35
+2026-01-27 23:21:46,Sentra Grosir Cikarang,33
+2026-01-27 23:21:46,Stasiun Cikarang,28
+2026-01-27 23:21:46,Lippo Mall Cikarang,29
+2026-01-27 23:21:46,President University,33
+2026-01-27 23:22:51,Terminal Cikarang,35
+2026-01-27 23:22:51,Sentra Grosir Cikarang,33
+2026-01-27 23:22:51,Stasiun Cikarang,28
+2026-01-27 23:22:51,Lippo Mall Cikarang,29
+2026-01-27 23:22:51,President University,33
+2026-01-27 23:23:56,Terminal Cikarang,35
+2026-01-27 23:23:56,Sentra Grosir Cikarang,33
+2026-01-27 23:23:56,Stasiun Cikarang,28
+2026-01-27 23:23:56,Lippo Mall Cikarang,29
+2026-01-27 23:23:56,President University,33
+2026-01-27 23:24:57,Terminal Cikarang,35
+2026-01-27 23:24:57,Sentra Grosir Cikarang,33
+2026-01-27 23:24:57,Stasiun Cikarang,28
+2026-01-27 23:24:57,Lippo Mall Cikarang,29
+2026-01-27 23:24:57,President University,33
+2026-01-27 23:26:03,Terminal Cikarang,35
+2026-01-27 23:26:03,Sentra Grosir Cikarang,33
+2026-01-27 23:26:03,Stasiun Cikarang,28
+2026-01-27 23:26:03,Lippo Mall Cikarang,29
+2026-01-27 23:26:03,President University,33
+2026-01-27 23:27:07,Terminal Cikarang,35
+2026-01-27 23:27:07,Sentra Grosir Cikarang,33
+2026-01-27 23:27:07,Stasiun Cikarang,28
+2026-01-27 23:27:07,Lippo Mall Cikarang,29
+2026-01-27 23:27:07,President University,33
+2026-01-27 23:28:12,Terminal Cikarang,34
+2026-01-27 23:28:12,Sentra Grosir Cikarang,33
+2026-01-27 23:28:12,Stasiun Cikarang,28
+2026-01-27 23:28:12,Lippo Mall Cikarang,29
+2026-01-27 23:28:12,President University,33
+2026-01-27 23:29:16,Terminal Cikarang,34
+2026-01-27 23:29:16,Sentra Grosir Cikarang,33
+2026-01-27 23:29:16,Stasiun Cikarang,28
+2026-01-27 23:29:16,Lippo Mall Cikarang,29
+2026-01-27 23:29:16,President University,33
+2026-01-27 23:30:21,Terminal Cikarang,34
+2026-01-27 23:30:21,Sentra Grosir Cikarang,33
+2026-01-27 23:30:21,Stasiun Cikarang,28
+2026-01-27 23:30:21,Lippo Mall Cikarang,29
+2026-01-27 23:30:21,President University,33
+2026-01-27 23:31:25,Terminal Cikarang,34
+2026-01-27 23:31:25,Sentra Grosir Cikarang,33
+2026-01-27 23:31:25,Stasiun Cikarang,28
+2026-01-27 23:31:25,Lippo Mall Cikarang,29
+2026-01-27 23:31:25,President University,33
+2026-01-27 23:32:30,Terminal Cikarang,34
+2026-01-27 23:32:30,Sentra Grosir Cikarang,33
+2026-01-27 23:32:30,Stasiun Cikarang,28
+2026-01-27 23:32:30,Lippo Mall Cikarang,29
+2026-01-27 23:32:30,President University,33
+2026-01-27 23:33:35,Terminal Cikarang,34
+2026-01-27 23:33:35,Sentra Grosir Cikarang,33
+2026-01-27 23:33:35,Stasiun Cikarang,28
+2026-01-27 23:33:35,Lippo Mall Cikarang,29
+2026-01-27 23:33:35,President University,33
+2026-01-27 23:34:40,Terminal Cikarang,36
+2026-01-27 23:34:40,Sentra Grosir Cikarang,33
+2026-01-27 23:34:40,Stasiun Cikarang,28
+2026-01-27 23:34:40,Lippo Mall Cikarang,29
+2026-01-27 23:34:40,President University,33
+2026-01-27 23:35:45,Terminal Cikarang,36
+2026-01-27 23:35:45,Sentra Grosir Cikarang,33
+2026-01-27 23:35:45,Stasiun Cikarang,28
+2026-01-27 23:35:45,Lippo Mall Cikarang,29
+2026-01-27 23:35:45,President University,33
+2026-01-27 23:36:49,Terminal Cikarang,36
+2026-01-27 23:36:49,Sentra Grosir Cikarang,33
+2026-01-27 23:36:49,Stasiun Cikarang,28
+2026-01-27 23:36:49,Lippo Mall Cikarang,29
+2026-01-27 23:36:49,President University,33
+2026-01-27 23:37:54,Terminal Cikarang,36
+2026-01-27 23:37:54,Sentra Grosir Cikarang,33
+2026-01-27 23:37:54,Stasiun Cikarang,28
+2026-01-27 23:37:54,Lippo Mall Cikarang,29
+2026-01-27 23:37:54,President University,33
+2026-01-27 23:38:58,Terminal Cikarang,36
+2026-01-27 23:38:58,Sentra Grosir Cikarang,33
+2026-01-27 23:38:58,Stasiun Cikarang,28
+2026-01-27 23:38:58,Lippo Mall Cikarang,29
+2026-01-27 23:38:58,President University,33
+2026-01-27 23:40:04,Terminal Cikarang,36
+2026-01-27 23:40:04,Sentra Grosir Cikarang,33
+2026-01-27 23:40:04,Stasiun Cikarang,28
+2026-01-27 23:40:04,Lippo Mall Cikarang,29
+2026-01-27 23:40:04,President University,33
+2026-01-27 23:41:08,Terminal Cikarang,45
+2026-01-27 23:41:08,Sentra Grosir Cikarang,33
+2026-01-27 23:41:08,Stasiun Cikarang,28
+2026-01-27 23:41:08,Lippo Mall Cikarang,29
+2026-01-27 23:41:08,President University,33
+2026-01-27 23:42:13,Terminal Cikarang,35
+2026-01-27 23:42:13,Sentra Grosir Cikarang,33
+2026-01-27 23:42:13,Stasiun Cikarang,28
+2026-01-27 23:42:13,Lippo Mall Cikarang,29
+2026-01-27 23:42:13,President University,33
+2026-01-27 23:43:18,Terminal Cikarang,35
+2026-01-27 23:43:18,Sentra Grosir Cikarang,33
+2026-01-27 23:43:18,Stasiun Cikarang,28
+2026-01-27 23:43:18,Lippo Mall Cikarang,29
+2026-01-27 23:43:18,President University,33
+2026-01-27 23:44:23,Terminal Cikarang,34
+2026-01-27 23:44:23,Sentra Grosir Cikarang,33
+2026-01-27 23:44:23,Stasiun Cikarang,28
+2026-01-27 23:44:23,Lippo Mall Cikarang,29
+2026-01-27 23:44:23,President University,33
+2026-01-27 23:45:28,Terminal Cikarang,33
+2026-01-27 23:45:28,Sentra Grosir Cikarang,33
+2026-01-27 23:45:28,Stasiun Cikarang,28
+2026-01-27 23:45:28,Lippo Mall Cikarang,29
+2026-01-27 23:45:28,President University,33
+2026-01-27 23:46:32,Terminal Cikarang,32
+2026-01-27 23:46:32,Sentra Grosir Cikarang,33
+2026-01-27 23:46:32,Stasiun Cikarang,28
+2026-01-27 23:46:32,Lippo Mall Cikarang,29
+2026-01-27 23:46:32,President University,33
+2026-01-27 23:47:37,Terminal Cikarang,33
+2026-01-27 23:47:37,Sentra Grosir Cikarang,33
+2026-01-27 23:47:37,Stasiun Cikarang,28
+2026-01-27 23:47:37,Lippo Mall Cikarang,29
+2026-01-27 23:47:37,President University,33
+2026-01-27 23:48:41,Terminal Cikarang,33
+2026-01-27 23:48:41,Sentra Grosir Cikarang,33
+2026-01-27 23:48:41,Stasiun Cikarang,28
+2026-01-27 23:48:41,Lippo Mall Cikarang,29
+2026-01-27 23:48:41,President University,33
+2026-01-27 23:49:46,Terminal Cikarang,32
+2026-01-27 23:49:46,Sentra Grosir Cikarang,33
+2026-01-27 23:49:46,Stasiun Cikarang,28
+2026-01-27 23:49:46,Lippo Mall Cikarang,29
+2026-01-27 23:49:46,President University,33
+2026-01-27 23:50:50,Terminal Cikarang,30
+2026-01-27 23:50:50,Sentra Grosir Cikarang,33
+2026-01-27 23:50:50,Stasiun Cikarang,28
+2026-01-27 23:50:50,Lippo Mall Cikarang,29
+2026-01-27 23:50:50,President University,33
+2026-01-27 23:51:56,Terminal Cikarang,30
+2026-01-27 23:51:56,Sentra Grosir Cikarang,33
+2026-01-27 23:51:56,Stasiun Cikarang,28
+2026-01-27 23:51:56,Lippo Mall Cikarang,29
+2026-01-27 23:51:56,President University,33
+2026-01-27 23:53:01,Terminal Cikarang,32
+2026-01-27 23:53:01,Sentra Grosir Cikarang,33
+2026-01-27 23:53:01,Stasiun Cikarang,28
+2026-01-27 23:53:01,Lippo Mall Cikarang,29
+2026-01-27 23:53:01,President University,33
+2026-01-27 23:54:06,Terminal Cikarang,33
+2026-01-27 23:54:06,Sentra Grosir Cikarang,33
+2026-01-27 23:54:06,Stasiun Cikarang,28
+2026-01-27 23:54:06,Lippo Mall Cikarang,29
+2026-01-27 23:54:06,President University,33
+2026-01-27 23:55:10,Terminal Cikarang,34
+2026-01-27 23:55:10,Sentra Grosir Cikarang,28
+2026-01-27 23:55:10,Stasiun Cikarang,28
+2026-01-27 23:55:10,Lippo Mall Cikarang,29
+2026-01-27 23:55:10,President University,33
+2026-01-27 23:56:15,Terminal Cikarang,34
+2026-01-27 23:56:15,Sentra Grosir Cikarang,22
+2026-01-27 23:56:15,Stasiun Cikarang,28
+2026-01-27 23:56:15,Lippo Mall Cikarang,29
+2026-01-27 23:56:15,President University,33
+2026-01-27 23:57:20,Terminal Cikarang,34
+2026-01-27 23:57:20,Sentra Grosir Cikarang,20
+2026-01-27 23:57:20,Stasiun Cikarang,28
+2026-01-27 23:57:20,Lippo Mall Cikarang,29
+2026-01-27 23:57:20,President University,33
+2026-01-27 23:58:24,Terminal Cikarang,34
+2026-01-27 23:58:24,Sentra Grosir Cikarang,21
+2026-01-27 23:58:24,Stasiun Cikarang,28
+2026-01-27 23:58:24,Lippo Mall Cikarang,29
+2026-01-27 23:58:24,President University,33
+2026-01-27 23:59:29,Terminal Cikarang,34
+2026-01-27 23:59:29,Sentra Grosir Cikarang,21
+2026-01-27 23:59:29,Stasiun Cikarang,28
+2026-01-27 23:59:29,Lippo Mall Cikarang,29
+2026-01-27 23:59:29,President University,33
+2026-01-28 00:00:34,Terminal Cikarang,34
+2026-01-28 00:00:34,Sentra Grosir Cikarang,21
+2026-01-28 00:00:34,Stasiun Cikarang,28
+2026-01-28 00:00:34,Lippo Mall Cikarang,29
+2026-01-28 00:00:34,President University,33
+2026-01-28 00:01:40,Terminal Cikarang,45
+2026-01-28 00:01:40,Sentra Grosir Cikarang,21
+2026-01-28 00:01:40,Stasiun Cikarang,28
+2026-01-28 00:01:40,Lippo Mall Cikarang,29
+2026-01-28 00:01:40,President University,33
+2026-01-28 00:02:47,Terminal Cikarang,45
+2026-01-28 00:02:47,Sentra Grosir Cikarang,20
+2026-01-28 00:02:47,Stasiun Cikarang,28
+2026-01-28 00:02:47,Lippo Mall Cikarang,29
+2026-01-28 00:02:47,President University,33
+2026-01-28 00:03:52,Terminal Cikarang,45
+2026-01-28 00:03:52,Sentra Grosir Cikarang,19
+2026-01-28 00:03:52,Stasiun Cikarang,22
+2026-01-28 00:03:52,Lippo Mall Cikarang,29
+2026-01-28 00:03:52,President University,33
+2026-01-28 00:04:57,Terminal Cikarang,45
+2026-01-28 00:04:57,Sentra Grosir Cikarang,19
+2026-01-28 00:04:57,Stasiun Cikarang,22
+2026-01-28 00:04:57,Lippo Mall Cikarang,29
+2026-01-28 00:04:57,President University,33
+2026-01-28 00:06:02,Terminal Cikarang,45
+2026-01-28 00:06:02,Sentra Grosir Cikarang,19
+2026-01-28 00:06:02,Stasiun Cikarang,22
+2026-01-28 00:06:02,Lippo Mall Cikarang,29
+2026-01-28 00:06:02,President University,33
+2026-01-28 00:07:07,Terminal Cikarang,45
+2026-01-28 00:07:07,Sentra Grosir Cikarang,20
+2026-01-28 00:07:07,Stasiun Cikarang,22
+2026-01-28 00:07:07,Lippo Mall Cikarang,29
+2026-01-28 00:07:07,President University,33
+2026-01-28 00:08:12,Terminal Cikarang,45
+2026-01-28 00:08:12,Sentra Grosir Cikarang,22
+2026-01-28 00:08:12,Stasiun Cikarang,22
+2026-01-28 00:08:12,Lippo Mall Cikarang,29
+2026-01-28 00:08:12,President University,33
+2026-01-28 00:09:17,Terminal Cikarang,45
+2026-01-28 00:09:17,Sentra Grosir Cikarang,22
+2026-01-28 00:09:17,Stasiun Cikarang,28
+2026-01-28 00:09:17,Lippo Mall Cikarang,29
+2026-01-28 00:09:17,President University,33
+2026-01-28 00:11:33,Terminal Cikarang,45
+2026-01-28 00:11:33,Sentra Grosir Cikarang,22
+2026-01-28 00:11:33,Stasiun Cikarang,21
+2026-01-28 00:11:33,Lippo Mall Cikarang,29
+2026-01-28 00:11:33,President University,33
+2026-01-28 00:12:40,Terminal Cikarang,45
+2026-01-28 00:12:40,Sentra Grosir Cikarang,22
+2026-01-28 00:12:40,Stasiun Cikarang,21
+2026-01-28 00:12:40,Lippo Mall Cikarang,29
+2026-01-28 00:12:40,President University,33
+2026-01-28 00:13:44,Terminal Cikarang,45
+2026-01-28 00:13:44,Sentra Grosir Cikarang,22
+2026-01-28 00:13:44,Stasiun Cikarang,21
+2026-01-28 00:13:44,Lippo Mall Cikarang,29
+2026-01-28 00:13:44,President University,33
+2026-01-28 00:14:49,Terminal Cikarang,45
+2026-01-28 00:14:49,Sentra Grosir Cikarang,22
+2026-01-28 00:14:49,Stasiun Cikarang,22
+2026-01-28 00:14:49,Lippo Mall Cikarang,29
+2026-01-28 00:14:49,President University,33
+2026-01-28 00:15:55,Terminal Cikarang,45
+2026-01-28 00:15:55,Sentra Grosir Cikarang,22
+2026-01-28 00:15:55,Stasiun Cikarang,22
+2026-01-28 00:15:55,Lippo Mall Cikarang,29
+2026-01-28 00:15:55,President University,33
+2026-01-28 00:17:00,Terminal Cikarang,45
+2026-01-28 00:17:00,Sentra Grosir Cikarang,23
+2026-01-28 00:17:00,Stasiun Cikarang,22
+2026-01-28 00:17:00,Lippo Mall Cikarang,29
+2026-01-28 00:17:00,President University,33
+2026-01-28 00:18:05,Terminal Cikarang,45
+2026-01-28 00:18:05,Sentra Grosir Cikarang,23
+2026-01-28 00:18:05,Stasiun Cikarang,22
+2026-01-28 00:18:05,Lippo Mall Cikarang,29
+2026-01-28 00:18:05,President University,33
+2026-01-28 00:19:10,Terminal Cikarang,45
+2026-01-28 00:19:10,Sentra Grosir Cikarang,22
+2026-01-28 00:19:10,Stasiun Cikarang,22
+2026-01-28 00:19:10,Lippo Mall Cikarang,29
+2026-01-28 00:19:10,President University,33
+2026-01-28 00:20:14,Terminal Cikarang,45
+2026-01-28 00:20:14,Sentra Grosir Cikarang,22
+2026-01-28 00:20:14,Stasiun Cikarang,28
+2026-01-28 00:20:14,Lippo Mall Cikarang,29
+2026-01-28 00:20:14,President University,33
+2026-01-28 00:21:19,Terminal Cikarang,45
+2026-01-28 00:21:19,Sentra Grosir Cikarang,21
+2026-01-28 00:21:19,Stasiun Cikarang,28
+2026-01-28 00:21:19,Lippo Mall Cikarang,29
+2026-01-28 00:21:19,President University,33
+2026-01-28 00:22:24,Terminal Cikarang,45
+2026-01-28 00:22:24,Sentra Grosir Cikarang,21
+2026-01-28 00:22:24,Stasiun Cikarang,28
+2026-01-28 00:22:24,Lippo Mall Cikarang,29
+2026-01-28 00:22:24,President University,33
+2026-01-28 00:23:28,Terminal Cikarang,45
+2026-01-28 00:23:28,Sentra Grosir Cikarang,21
+2026-01-28 00:23:28,Stasiun Cikarang,28
+2026-01-28 00:23:28,Lippo Mall Cikarang,29
+2026-01-28 00:23:28,President University,33
+2026-01-28 00:24:33,Terminal Cikarang,45
+2026-01-28 00:24:33,Sentra Grosir Cikarang,21
+2026-01-28 00:24:33,Stasiun Cikarang,28
+2026-01-28 00:24:33,Lippo Mall Cikarang,29
+2026-01-28 00:24:33,President University,33
+2026-01-28 00:25:38,Terminal Cikarang,45
+2026-01-28 00:25:38,Sentra Grosir Cikarang,21
+2026-01-28 00:25:38,Stasiun Cikarang,28
+2026-01-28 00:25:38,Lippo Mall Cikarang,29
+2026-01-28 00:25:38,President University,33
+2026-01-28 00:26:45,Terminal Cikarang,45
+2026-01-28 00:26:45,Sentra Grosir Cikarang,22
+2026-01-28 00:26:45,Stasiun Cikarang,28
+2026-01-28 00:26:45,Lippo Mall Cikarang,29
+2026-01-28 00:26:45,President University,33
+2026-01-28 00:27:50,Terminal Cikarang,45
+2026-01-28 00:27:50,Sentra Grosir Cikarang,23
+2026-01-28 00:27:50,Stasiun Cikarang,28
+2026-01-28 00:27:50,Lippo Mall Cikarang,29
+2026-01-28 00:27:50,President University,33
+2026-01-28 00:28:56,Terminal Cikarang,45
+2026-01-28 00:28:56,Sentra Grosir Cikarang,23
+2026-01-28 00:28:56,Stasiun Cikarang,28
+2026-01-28 00:28:56,Lippo Mall Cikarang,29
+2026-01-28 00:28:56,President University,33
+2026-01-28 00:30:01,Terminal Cikarang,45
+2026-01-28 00:30:01,Sentra Grosir Cikarang,23
+2026-01-28 00:30:01,Stasiun Cikarang,28
+2026-01-28 00:30:01,Lippo Mall Cikarang,29
+2026-01-28 00:30:01,President University,33
+2026-01-28 00:31:06,Terminal Cikarang,45
+2026-01-28 00:34:58,Terminal Cikarang,45
+2026-01-28 00:34:58,Sentra Grosir Cikarang,21
+2026-01-28 00:34:58,Stasiun Cikarang,28
+2026-01-28 00:34:58,Lippo Mall Cikarang,29
+2026-01-28 00:34:58,President University,33
+2026-01-29 03:31:31,Terminal Cikarang,45
+2026-01-29 03:31:31,Sentra Grosir Cikarang,33
+2026-01-29 03:31:31,Stasiun Cikarang,23
+2026-01-29 03:31:31,Lippo Mall Cikarang,29
+2026-01-29 03:31:31,President University,33
+2026-01-29 03:32:36,Terminal Cikarang,45
+2026-01-29 03:32:36,Sentra Grosir Cikarang,33
+2026-01-29 03:32:36,Stasiun Cikarang,23
+2026-01-29 03:32:36,Lippo Mall Cikarang,29
+2026-01-29 03:32:36,President University,33
+2026-01-29 03:33:41,Terminal Cikarang,45
+2026-01-29 03:33:41,Sentra Grosir Cikarang,33
+2026-01-29 03:33:41,Stasiun Cikarang,28
+2026-01-29 03:33:41,Lippo Mall Cikarang,29
+2026-01-29 03:33:41,President University,33
+2026-01-29 03:34:46,Terminal Cikarang,45
+2026-01-29 03:34:46,Sentra Grosir Cikarang,33
+2026-01-29 03:34:46,Stasiun Cikarang,28
+2026-01-29 03:34:46,Lippo Mall Cikarang,29
+2026-01-29 03:34:46,President University,33
+2026-01-29 03:35:51,Terminal Cikarang,45
+2026-01-29 03:35:51,Sentra Grosir Cikarang,33
+2026-01-29 03:35:51,Stasiun Cikarang,28
+2026-01-29 03:35:51,Lippo Mall Cikarang,29
+2026-01-29 03:35:51,President University,33
+2026-01-29 03:36:57,Terminal Cikarang,45
+2026-01-29 03:36:57,Sentra Grosir Cikarang,33
+2026-01-29 03:36:57,Stasiun Cikarang,28
+2026-01-29 03:36:57,Lippo Mall Cikarang,29
+2026-01-29 03:36:57,President University,33
+2026-01-29 03:38:02,Terminal Cikarang,45
+2026-01-29 03:38:02,Sentra Grosir Cikarang,33
+2026-01-29 03:38:02,Stasiun Cikarang,28
+2026-01-29 03:38:02,Lippo Mall Cikarang,29
+2026-01-29 03:38:02,President University,33
+2026-01-29 03:39:07,Terminal Cikarang,45
+2026-01-29 03:39:07,Sentra Grosir Cikarang,33
+2026-01-29 03:39:07,Stasiun Cikarang,28
+2026-01-29 03:39:07,Lippo Mall Cikarang,29
+2026-01-29 03:39:07,President University,33
+2026-01-29 03:40:12,Terminal Cikarang,45
+2026-01-29 03:40:12,Sentra Grosir Cikarang,33
+2026-01-29 03:40:12,Stasiun Cikarang,28
+2026-01-29 03:40:12,Lippo Mall Cikarang,29
+2026-01-29 03:40:12,President University,33
+2026-01-29 03:41:18,Terminal Cikarang,45
+2026-01-29 03:41:18,Sentra Grosir Cikarang,33
+2026-01-29 03:41:18,Stasiun Cikarang,28
+2026-01-29 03:41:18,Lippo Mall Cikarang,29
+2026-01-29 03:41:18,President University,33
+2026-01-29 03:42:23,Terminal Cikarang,45
+2026-01-29 03:42:23,Sentra Grosir Cikarang,33
+2026-01-29 03:42:23,Stasiun Cikarang,28
+2026-01-29 03:42:23,Lippo Mall Cikarang,29
+2026-01-29 03:42:23,President University,33
+2026-01-29 03:43:29,Terminal Cikarang,45
+2026-01-29 03:43:29,Sentra Grosir Cikarang,33
+2026-01-29 03:43:29,Stasiun Cikarang,28
+2026-01-29 03:43:29,Lippo Mall Cikarang,29
+2026-01-29 03:43:29,President University,33
+2026-01-29 03:44:34,Terminal Cikarang,45
+2026-01-29 03:44:34,Sentra Grosir Cikarang,33
+2026-01-29 03:44:34,Stasiun Cikarang,28
+2026-01-29 03:44:34,Lippo Mall Cikarang,29
+2026-01-29 03:44:34,President University,33
+2026-01-29 03:45:38,Terminal Cikarang,45
+2026-01-29 03:45:38,Sentra Grosir Cikarang,33
+2026-01-29 03:45:38,Stasiun Cikarang,28
+2026-01-29 03:45:38,Lippo Mall Cikarang,29
+2026-01-29 03:45:38,President University,33
+2026-01-29 03:46:43,Terminal Cikarang,45
+2026-01-29 03:46:43,Sentra Grosir Cikarang,33
+2026-01-29 03:46:43,Stasiun Cikarang,28
+2026-01-29 03:46:43,Lippo Mall Cikarang,29
+2026-01-29 03:46:43,President University,33
+2026-01-29 03:47:48,Terminal Cikarang,45
+2026-01-29 03:47:48,Sentra Grosir Cikarang,33
+2026-01-29 03:47:48,Stasiun Cikarang,28
+2026-01-29 03:47:48,Lippo Mall Cikarang,29
+2026-01-29 03:47:48,President University,33
+2026-01-29 03:48:53,Terminal Cikarang,45
+2026-01-29 03:48:53,Sentra Grosir Cikarang,33
+2026-01-29 03:48:53,Stasiun Cikarang,28
+2026-01-29 03:48:53,Lippo Mall Cikarang,29
+2026-01-29 03:48:53,President University,33
+2026-01-29 03:49:59,Terminal Cikarang,45
+2026-01-29 03:49:59,Sentra Grosir Cikarang,33
+2026-01-29 03:49:59,Stasiun Cikarang,28
+2026-01-29 03:49:59,Lippo Mall Cikarang,29
+2026-01-29 03:49:59,President University,33
+2026-01-29 03:51:05,Terminal Cikarang,45
+2026-01-29 03:51:05,Sentra Grosir Cikarang,33
+2026-01-29 03:51:05,Stasiun Cikarang,28
+2026-01-29 03:51:05,Lippo Mall Cikarang,29
+2026-01-29 03:51:05,President University,33
+2026-01-29 03:52:10,Terminal Cikarang,45
+2026-01-29 03:52:10,Sentra Grosir Cikarang,33
+2026-01-29 03:52:10,Stasiun Cikarang,28
+2026-01-29 03:52:10,Lippo Mall Cikarang,29
+2026-01-29 03:52:10,President University,33
+2026-01-29 03:53:15,Terminal Cikarang,45
+2026-01-29 03:53:15,Sentra Grosir Cikarang,33
+2026-01-29 03:53:15,Stasiun Cikarang,28
+2026-01-29 03:53:15,Lippo Mall Cikarang,29
+2026-01-29 03:53:15,President University,33
+2026-01-29 03:54:20,Terminal Cikarang,45
+2026-01-29 03:54:20,Sentra Grosir Cikarang,33
+2026-01-29 03:54:20,Stasiun Cikarang,28
+2026-01-29 03:54:20,Lippo Mall Cikarang,29
+2026-01-29 03:54:20,President University,33
+2026-01-29 03:55:25,Terminal Cikarang,45
+2026-01-29 03:55:25,Sentra Grosir Cikarang,33
+2026-01-29 03:55:25,Stasiun Cikarang,28
+2026-01-29 03:55:25,Lippo Mall Cikarang,29
+2026-01-29 03:55:25,President University,33
+2026-01-29 03:56:31,Terminal Cikarang,45
+2026-01-29 03:56:31,Sentra Grosir Cikarang,33
+2026-01-29 03:56:31,Stasiun Cikarang,28
+2026-01-29 03:56:31,Lippo Mall Cikarang,29
+2026-01-29 03:56:31,President University,33
+2026-01-29 03:57:36,Terminal Cikarang,45
+2026-01-29 03:57:36,Sentra Grosir Cikarang,33
+2026-01-29 03:57:36,Stasiun Cikarang,28
+2026-01-29 03:57:36,Lippo Mall Cikarang,29
+2026-01-29 03:57:36,President University,33
+2026-01-29 03:58:41,Terminal Cikarang,45
+2026-01-29 03:58:41,Sentra Grosir Cikarang,33
+2026-01-29 03:58:41,Stasiun Cikarang,28
+2026-01-29 03:58:41,Lippo Mall Cikarang,29
+2026-01-29 03:58:41,President University,33
+2026-01-29 03:59:45,Terminal Cikarang,45
+2026-01-29 03:59:45,Sentra Grosir Cikarang,33
+2026-01-29 03:59:45,Lippo Mall Cikarang,29
+2026-01-29 03:59:45,President University,33
+2026-01-29 04:00:56,Terminal Cikarang,45
+2026-01-29 04:00:56,Sentra Grosir Cikarang,33
+2026-01-29 04:00:56,Stasiun Cikarang,28
+2026-01-29 04:00:56,Lippo Mall Cikarang,29
+2026-01-29 04:00:56,President University,33
+2026-01-29 04:02:01,Terminal Cikarang,45
+2026-01-29 04:02:01,Sentra Grosir Cikarang,33
+2026-01-29 04:02:01,Stasiun Cikarang,28
+2026-01-29 04:02:01,Lippo Mall Cikarang,29
+2026-01-29 04:02:01,President University,33
+2026-01-29 04:03:07,Terminal Cikarang,45
+2026-01-29 04:03:07,Sentra Grosir Cikarang,33
+2026-01-29 04:03:07,Stasiun Cikarang,28
+2026-01-29 04:03:07,Lippo Mall Cikarang,29
+2026-01-29 04:03:07,President University,33
+2026-01-29 04:04:12,Terminal Cikarang,45
+2026-01-29 04:04:12,Sentra Grosir Cikarang,33
+2026-01-29 04:04:12,Stasiun Cikarang,28
+2026-01-29 04:04:12,Lippo Mall Cikarang,29
+2026-01-29 04:04:12,President University,33
+2026-01-29 04:05:17,Terminal Cikarang,45
+2026-01-29 04:05:17,Sentra Grosir Cikarang,33
+2026-01-29 04:05:17,Stasiun Cikarang,28
+2026-01-29 04:05:17,Lippo Mall Cikarang,29
+2026-01-29 04:05:17,President University,33
+2026-01-29 04:06:22,Terminal Cikarang,45
+2026-01-29 04:06:22,Sentra Grosir Cikarang,33
+2026-01-29 04:06:22,Stasiun Cikarang,28
+2026-01-29 04:06:22,Lippo Mall Cikarang,29
+2026-01-29 04:06:22,President University,33
+2026-01-29 04:07:27,Terminal Cikarang,45
+2026-01-29 04:07:27,Sentra Grosir Cikarang,33
+2026-01-29 04:07:27,Stasiun Cikarang,28
+2026-01-29 04:07:27,Lippo Mall Cikarang,29
+2026-01-29 04:07:27,President University,33
+2026-01-29 04:08:32,Terminal Cikarang,45
+2026-01-29 04:08:32,Sentra Grosir Cikarang,33
+2026-01-29 04:08:32,Stasiun Cikarang,28
+2026-01-29 04:08:32,Lippo Mall Cikarang,29
+2026-01-29 04:08:32,President University,33
+2026-01-29 04:09:37,Terminal Cikarang,45
+2026-01-29 04:09:37,Sentra Grosir Cikarang,33
+2026-01-29 04:09:37,Stasiun Cikarang,28
+2026-01-29 04:09:37,Lippo Mall Cikarang,29
+2026-01-29 04:09:37,President University,33
+2026-01-29 04:10:42,Terminal Cikarang,45
+2026-01-29 04:10:42,Sentra Grosir Cikarang,33
+2026-01-29 04:10:42,Stasiun Cikarang,28
+2026-01-29 04:10:42,Lippo Mall Cikarang,24
+2026-01-29 04:10:42,President University,33
+2026-01-29 04:11:47,Terminal Cikarang,45
+2026-01-29 04:11:47,Sentra Grosir Cikarang,33
+2026-01-29 04:11:47,Stasiun Cikarang,28
+2026-01-29 04:11:47,Lippo Mall Cikarang,24
+2026-01-29 04:11:47,President University,33
+2026-01-29 04:12:52,Terminal Cikarang,45
+2026-01-29 04:12:52,Sentra Grosir Cikarang,33
+2026-01-29 04:12:52,Stasiun Cikarang,28
+2026-01-29 04:12:52,Lippo Mall Cikarang,24
+2026-01-29 04:12:52,President University,33
+2026-01-29 04:13:56,Terminal Cikarang,45
+2026-01-29 04:13:56,Sentra Grosir Cikarang,33
+2026-01-29 04:13:56,Stasiun Cikarang,28
+2026-01-29 04:13:56,Lippo Mall Cikarang,24
+2026-01-29 04:13:56,President University,33
+2026-01-29 04:15:01,Terminal Cikarang,45
+2026-01-29 04:15:01,Sentra Grosir Cikarang,33
+2026-01-29 04:15:01,Stasiun Cikarang,21
+2026-01-29 04:15:01,Lippo Mall Cikarang,24
+2026-01-29 04:15:01,President University,33
+2026-01-29 04:16:08,Terminal Cikarang,45
+2026-01-29 04:16:08,Sentra Grosir Cikarang,33
+2026-01-29 04:16:08,Stasiun Cikarang,19
+2026-01-29 04:16:08,Lippo Mall Cikarang,24
+2026-01-29 04:16:08,President University,33
+2026-01-29 04:17:14,Terminal Cikarang,45
+2026-01-29 04:17:14,Sentra Grosir Cikarang,33
+2026-01-29 04:17:14,Stasiun Cikarang,19
+2026-01-29 04:17:14,Lippo Mall Cikarang,24
+2026-01-29 04:17:14,President University,33
+2026-01-29 04:18:23,Terminal Cikarang,45
+2026-01-29 04:18:23,Sentra Grosir Cikarang,33
+2026-01-29 04:18:23,Stasiun Cikarang,19
+2026-01-29 04:18:23,Lippo Mall Cikarang,29
+2026-01-29 04:18:23,President University,33
+2026-01-29 04:19:28,Terminal Cikarang,45
+2026-01-29 04:19:28,Sentra Grosir Cikarang,33
+2026-01-29 04:19:28,Stasiun Cikarang,19
+2026-01-29 04:19:28,Lippo Mall Cikarang,29
+2026-01-29 04:19:28,President University,33
+2026-01-29 04:20:34,Terminal Cikarang,45
+2026-01-29 04:20:34,Sentra Grosir Cikarang,33
+2026-01-29 04:20:34,Stasiun Cikarang,19
+2026-01-29 04:20:34,Lippo Mall Cikarang,29
+2026-01-29 04:20:34,President University,33
+2026-01-29 04:21:39,Terminal Cikarang,45
+2026-01-29 04:21:39,Sentra Grosir Cikarang,33
+2026-01-29 04:21:39,Stasiun Cikarang,20
+2026-01-29 04:21:39,Lippo Mall Cikarang,29
+2026-01-29 04:21:39,President University,33
+2026-01-29 04:22:44,Terminal Cikarang,45
+2026-01-29 04:22:44,Sentra Grosir Cikarang,33
+2026-01-29 04:22:44,Stasiun Cikarang,28
+2026-01-29 04:22:44,Lippo Mall Cikarang,29
+2026-01-29 04:22:44,President University,33
+2026-01-29 04:23:49,Terminal Cikarang,45
+2026-01-29 04:23:49,Sentra Grosir Cikarang,33
+2026-01-29 04:23:49,Stasiun Cikarang,28
+2026-01-29 04:23:49,Lippo Mall Cikarang,29
+2026-01-29 04:23:49,President University,33
+2026-01-29 04:24:54,Terminal Cikarang,45
+2026-01-29 04:24:54,Sentra Grosir Cikarang,33
+2026-01-29 04:24:54,Stasiun Cikarang,28
+2026-01-29 04:24:54,Lippo Mall Cikarang,29
+2026-01-29 04:24:54,President University,33
+2026-01-29 04:25:59,Terminal Cikarang,45
+2026-01-29 04:25:59,Sentra Grosir Cikarang,33
+2026-01-29 04:25:59,Stasiun Cikarang,28
+2026-01-29 04:25:59,Lippo Mall Cikarang,29
+2026-01-29 04:25:59,President University,33
+2026-01-29 04:27:03,Terminal Cikarang,37
+2026-01-29 04:27:03,Sentra Grosir Cikarang,33
+2026-01-29 04:27:03,Lippo Mall Cikarang,29
+2026-01-29 04:27:03,President University,33
+2026-01-29 04:29:38,Terminal Cikarang,33
+2026-01-29 04:29:38,Sentra Grosir Cikarang,33
+2026-01-29 04:29:38,Stasiun Cikarang,28
+2026-01-29 04:29:38,Lippo Mall Cikarang,29
+2026-01-29 04:29:38,President University,33
+2026-01-29 04:30:50,Terminal Cikarang,33
+2026-01-29 04:30:50,Sentra Grosir Cikarang,33
+2026-01-29 04:30:50,Stasiun Cikarang,28
+2026-01-29 04:30:50,Lippo Mall Cikarang,29
+2026-01-29 04:30:50,President University,33
+2026-01-29 04:32:07,Terminal Cikarang,31
+2026-01-29 04:32:07,Sentra Grosir Cikarang,33
+2026-01-29 04:32:07,Stasiun Cikarang,28
+2026-01-29 04:32:07,Lippo Mall Cikarang,29
+2026-01-29 04:32:07,President University,33
+2026-01-29 04:33:38,Terminal Cikarang,32
+2026-01-29 04:33:38,Sentra Grosir Cikarang,33
+2026-01-29 04:33:38,Lippo Mall Cikarang,29
+2026-01-29 04:33:38,President University,33
+2026-01-29 04:35:11,Terminal Cikarang,45
+2026-01-29 04:36:58,Terminal Cikarang,45
+2026-01-29 04:36:58,Sentra Grosir Cikarang,33
+2026-01-29 04:36:58,Stasiun Cikarang,28
+2026-01-29 04:36:58,Lippo Mall Cikarang,29
+2026-01-29 04:36:58,President University,33
+2026-01-29 04:40:15,Terminal Cikarang,45
+2026-01-29 04:40:15,Sentra Grosir Cikarang,33
+2026-01-29 04:40:15,Stasiun Cikarang,28
+2026-01-29 04:40:15,Lippo Mall Cikarang,29
+2026-01-29 04:40:15,President University,33
+2026-01-29 04:41:21,Terminal Cikarang,45
+2026-01-29 04:41:21,Sentra Grosir Cikarang,33
+2026-01-29 04:41:21,Stasiun Cikarang,28
+2026-01-29 04:41:21,Lippo Mall Cikarang,29
+2026-01-29 04:41:21,President University,33
+2026-01-29 04:42:29,Terminal Cikarang,45
+2026-01-29 04:42:29,Sentra Grosir Cikarang,33
+2026-01-29 04:42:29,Stasiun Cikarang,28
+2026-01-29 04:42:29,Lippo Mall Cikarang,29
+2026-01-29 04:42:29,President University,33
+2026-01-29 04:43:34,Terminal Cikarang,45
+2026-01-29 04:43:34,Sentra Grosir Cikarang,33
+2026-01-29 04:43:34,Stasiun Cikarang,28
+2026-01-29 04:43:34,Lippo Mall Cikarang,29
+2026-01-29 04:43:34,President University,33
+2026-01-29 04:44:42,Sentra Grosir Cikarang,33
+2026-01-29 04:44:42,Stasiun Cikarang,28
+2026-01-29 04:44:42,Lippo Mall Cikarang,29
+2026-01-29 04:44:42,President University,33
+2026-01-29 04:45:54,Terminal Cikarang,45
+2026-01-29 04:45:54,Sentra Grosir Cikarang,33
+2026-01-29 04:45:54,Stasiun Cikarang,28
+2026-01-29 04:45:54,Lippo Mall Cikarang,29
+2026-01-29 04:45:54,President University,33
+2026-01-29 04:47:01,Terminal Cikarang,45
+2026-01-29 04:47:01,Sentra Grosir Cikarang,33
+2026-01-29 04:47:01,Stasiun Cikarang,28
+2026-01-29 04:47:01,Lippo Mall Cikarang,29
+2026-01-29 04:47:01,President University,33
+2026-01-29 04:48:12,Terminal Cikarang,45
+2026-01-29 04:48:12,Sentra Grosir Cikarang,33
+2026-01-29 04:48:12,Stasiun Cikarang,28
+2026-01-29 04:48:12,Lippo Mall Cikarang,29
+2026-01-29 04:48:12,President University,33
+2026-01-29 04:49:30,Terminal Cikarang,45
+2026-01-29 04:49:30,Sentra Grosir Cikarang,33
+2026-01-29 04:49:30,Stasiun Cikarang,28
+2026-01-29 04:49:30,Lippo Mall Cikarang,29
+2026-01-29 04:49:30,President University,33
+2026-01-29 04:50:37,Terminal Cikarang,45
+2026-01-29 04:50:37,Sentra Grosir Cikarang,33
+2026-01-29 04:50:37,Stasiun Cikarang,28
+2026-01-29 04:50:37,Lippo Mall Cikarang,29
+2026-01-29 04:50:37,President University,33
+2026-01-29 04:51:46,Terminal Cikarang,45
+2026-01-29 04:51:46,Sentra Grosir Cikarang,33
+2026-01-29 04:51:46,Stasiun Cikarang,28
+2026-01-29 04:51:46,Lippo Mall Cikarang,29
+2026-01-29 04:51:46,President University,33
+2026-01-29 04:52:53,Terminal Cikarang,45
+2026-01-29 04:52:53,Sentra Grosir Cikarang,33
+2026-01-29 04:52:53,Stasiun Cikarang,28
+2026-01-29 04:52:53,Lippo Mall Cikarang,29
+2026-01-29 04:52:53,President University,33
+2026-01-29 04:54:09,Terminal Cikarang,45
+2026-01-29 04:54:09,Sentra Grosir Cikarang,33
+2026-01-29 04:54:09,Stasiun Cikarang,28
+2026-01-29 04:54:09,Lippo Mall Cikarang,29
+2026-01-29 04:54:09,President University,33
+2026-01-29 04:55:15,Terminal Cikarang,45
+2026-01-29 04:55:15,Sentra Grosir Cikarang,33
+2026-01-29 04:55:15,Stasiun Cikarang,28
+2026-01-29 04:55:15,Lippo Mall Cikarang,29
+2026-01-29 04:55:15,President University,33
+2026-01-29 04:56:25,Terminal Cikarang,45
+2026-01-29 04:56:25,Sentra Grosir Cikarang,33
+2026-01-29 04:56:25,Stasiun Cikarang,28
+2026-01-29 04:56:25,Lippo Mall Cikarang,29
+2026-01-29 04:56:25,President University,33
+2026-01-29 04:57:30,Terminal Cikarang,45
+2026-01-29 04:57:30,Sentra Grosir Cikarang,33
+2026-01-29 04:57:30,Stasiun Cikarang,28
+2026-01-29 04:57:30,Lippo Mall Cikarang,29
+2026-01-29 04:57:30,President University,33
+2026-01-29 04:58:41,Terminal Cikarang,45
+2026-01-29 04:58:41,Sentra Grosir Cikarang,33
+2026-01-29 04:58:41,Stasiun Cikarang,28
+2026-01-29 04:58:41,Lippo Mall Cikarang,29
+2026-01-29 04:58:41,President University,33
+2026-01-29 04:59:47,Terminal Cikarang,45
+2026-01-29 04:59:47,Sentra Grosir Cikarang,33
+2026-01-29 04:59:47,Stasiun Cikarang,28
+2026-01-29 04:59:47,Lippo Mall Cikarang,29
+2026-01-29 04:59:47,President University,33
+2026-01-29 05:00:52,Terminal Cikarang,45
+2026-01-29 05:00:52,Sentra Grosir Cikarang,33
+2026-01-29 05:00:52,Stasiun Cikarang,28
+2026-01-29 05:00:52,Lippo Mall Cikarang,29
+2026-01-29 05:00:52,President University,33
+2026-01-29 05:01:57,Terminal Cikarang,45
+2026-01-29 05:01:57,Sentra Grosir Cikarang,33
+2026-01-29 05:01:57,Stasiun Cikarang,28
+2026-01-29 05:01:57,Lippo Mall Cikarang,29
+2026-01-29 05:01:57,President University,33
+2026-01-29 05:03:01,Terminal Cikarang,45
+2026-01-29 05:03:01,Sentra Grosir Cikarang,33
+2026-01-29 05:03:01,Stasiun Cikarang,28
+2026-01-29 05:03:01,Lippo Mall Cikarang,29
+2026-01-29 05:03:01,President University,33
+2026-01-29 05:04:16,Terminal Cikarang,45
+2026-01-29 05:04:16,Sentra Grosir Cikarang,33
+2026-01-29 05:04:16,Stasiun Cikarang,21
+2026-01-29 05:04:16,Lippo Mall Cikarang,29
+2026-01-29 05:04:16,President University,33
+2026-01-29 05:05:21,Terminal Cikarang,45
+2026-01-29 05:05:21,Sentra Grosir Cikarang,33
+2026-01-29 05:05:21,Stasiun Cikarang,21
+2026-01-29 05:05:21,Lippo Mall Cikarang,29
+2026-01-29 05:05:21,President University,33
+2026-01-29 05:06:25,Terminal Cikarang,45
+2026-01-29 05:06:25,Sentra Grosir Cikarang,33
+2026-01-29 05:06:25,Stasiun Cikarang,20
+2026-01-29 05:06:25,Lippo Mall Cikarang,29
+2026-01-29 05:06:25,President University,33
+2026-01-29 05:07:30,Terminal Cikarang,45
+2026-01-29 05:07:30,Sentra Grosir Cikarang,33
+2026-01-29 05:07:30,Stasiun Cikarang,20
+2026-01-29 05:07:30,Lippo Mall Cikarang,29
+2026-01-29 05:07:30,President University,33
+2026-01-29 05:08:35,Terminal Cikarang,45
+2026-01-29 05:08:35,Sentra Grosir Cikarang,33
+2026-01-29 05:08:35,Stasiun Cikarang,20
+2026-01-29 05:08:35,Lippo Mall Cikarang,29
+2026-01-29 05:08:35,President University,33
+2026-01-29 05:09:40,Terminal Cikarang,45
+2026-01-29 05:09:40,Sentra Grosir Cikarang,33
+2026-01-29 05:09:40,Stasiun Cikarang,20
+2026-01-29 05:09:40,Lippo Mall Cikarang,29
+2026-01-29 05:09:40,President University,33
+2026-01-29 05:10:45,Terminal Cikarang,45
+2026-01-29 05:10:45,Sentra Grosir Cikarang,33
+2026-01-29 05:10:45,Stasiun Cikarang,20
+2026-01-29 05:10:45,Lippo Mall Cikarang,29
+2026-01-29 05:10:45,President University,33
+2026-01-29 05:11:52,Terminal Cikarang,45
+2026-01-29 05:11:52,Sentra Grosir Cikarang,33
+2026-01-29 05:11:52,Stasiun Cikarang,20
+2026-01-29 05:11:52,Lippo Mall Cikarang,29
+2026-01-29 05:11:52,President University,33
+2026-01-29 05:12:57,Terminal Cikarang,45
+2026-01-29 05:12:57,Sentra Grosir Cikarang,33
+2026-01-29 05:12:57,Stasiun Cikarang,20
+2026-01-29 05:12:57,Lippo Mall Cikarang,29
+2026-01-29 05:12:57,President University,33
+2026-01-29 05:14:02,Terminal Cikarang,45
+2026-01-29 05:14:02,Sentra Grosir Cikarang,33
+2026-01-29 05:14:02,Stasiun Cikarang,20
+2026-01-29 05:14:02,Lippo Mall Cikarang,29
+2026-01-29 05:14:02,President University,33
+2026-01-29 05:15:06,Terminal Cikarang,45
+2026-01-29 05:15:06,Sentra Grosir Cikarang,33
+2026-01-29 05:15:06,Stasiun Cikarang,20
+2026-01-29 05:15:06,Lippo Mall Cikarang,29
+2026-01-29 05:15:06,President University,33
+2026-01-29 05:16:11,Terminal Cikarang,45
+2026-01-29 05:16:11,Sentra Grosir Cikarang,33
+2026-01-29 05:16:11,Stasiun Cikarang,20
+2026-01-29 05:16:11,Lippo Mall Cikarang,29
+2026-01-29 05:16:11,President University,33
+2026-01-29 05:17:16,Terminal Cikarang,45
+2026-01-29 05:17:16,Sentra Grosir Cikarang,33
+2026-01-29 05:17:16,Stasiun Cikarang,20
+2026-01-29 05:17:16,Lippo Mall Cikarang,29
+2026-01-29 05:17:16,President University,33
+2026-01-29 05:18:21,Terminal Cikarang,45
+2026-01-29 05:18:21,Sentra Grosir Cikarang,33
+2026-01-29 05:18:21,Stasiun Cikarang,20
+2026-01-29 05:18:21,Lippo Mall Cikarang,29
+2026-01-29 05:18:21,President University,33
+2026-01-29 05:19:25,Terminal Cikarang,45
+2026-01-29 05:19:25,Sentra Grosir Cikarang,29
+2026-01-29 05:19:25,Stasiun Cikarang,21
+2026-01-29 05:19:25,Lippo Mall Cikarang,29
+2026-01-29 05:19:25,President University,33
+2026-01-29 05:20:30,Terminal Cikarang,45
+2026-01-29 05:20:30,Sentra Grosir Cikarang,28
+2026-01-29 05:20:30,Stasiun Cikarang,21
+2026-01-29 05:20:30,Lippo Mall Cikarang,29
+2026-01-29 05:20:30,President University,33
+2026-01-29 05:21:36,Terminal Cikarang,45
+2026-01-29 05:21:36,Sentra Grosir Cikarang,28
+2026-01-29 05:21:36,Stasiun Cikarang,20
+2026-01-29 05:21:36,Lippo Mall Cikarang,29
+2026-01-29 05:21:36,President University,33
+2026-01-29 05:22:41,Terminal Cikarang,45
+2026-01-29 05:22:41,Sentra Grosir Cikarang,28
+2026-01-29 05:22:41,Stasiun Cikarang,21
+2026-01-29 05:22:41,Lippo Mall Cikarang,29
+2026-01-29 05:22:41,President University,33
+2026-01-29 05:23:47,Terminal Cikarang,45
+2026-01-29 05:23:47,Sentra Grosir Cikarang,28
+2026-01-29 05:23:47,Stasiun Cikarang,21
+2026-01-29 05:23:47,Lippo Mall Cikarang,29
+2026-01-29 05:23:47,President University,33
+2026-01-29 05:24:54,Terminal Cikarang,45
+2026-01-29 05:24:54,Sentra Grosir Cikarang,28
+2026-01-29 05:24:54,Stasiun Cikarang,21
+2026-01-29 05:24:54,Lippo Mall Cikarang,29
+2026-01-29 05:24:54,President University,33
+2026-01-29 05:25:59,Sentra Grosir Cikarang,27
+2026-01-29 05:25:59,Stasiun Cikarang,21
+2026-01-29 05:25:59,Lippo Mall Cikarang,29
+2026-01-29 05:25:59,President University,33
+2026-01-29 05:27:12,Terminal Cikarang,45
+2026-01-29 05:27:12,Sentra Grosir Cikarang,27
+2026-01-29 05:27:12,Stasiun Cikarang,21
+2026-01-29 05:27:12,Lippo Mall Cikarang,29
+2026-01-29 05:27:12,President University,33
+2026-01-29 05:28:17,Terminal Cikarang,45
+2026-01-29 05:28:17,Sentra Grosir Cikarang,27
+2026-01-29 05:28:17,Stasiun Cikarang,21
+2026-01-29 05:28:17,Lippo Mall Cikarang,29
+2026-01-29 05:28:17,President University,33
+2026-01-29 05:29:23,Terminal Cikarang,45
+2026-01-29 05:29:23,Sentra Grosir Cikarang,27
+2026-01-29 05:29:23,Stasiun Cikarang,21
+2026-01-29 05:29:23,Lippo Mall Cikarang,29
+2026-01-29 05:29:23,President University,33
+2026-01-29 05:30:28,Terminal Cikarang,45
+2026-01-29 05:30:28,Sentra Grosir Cikarang,27
+2026-01-29 05:30:28,Stasiun Cikarang,21
+2026-01-29 05:30:28,Lippo Mall Cikarang,29
+2026-01-29 05:30:28,President University,33
+2026-01-29 05:31:33,Terminal Cikarang,45
+2026-01-29 05:31:33,Sentra Grosir Cikarang,27
+2026-01-29 05:31:33,Stasiun Cikarang,28
+2026-01-29 05:31:33,Lippo Mall Cikarang,29
+2026-01-29 05:31:33,President University,33
+2026-01-29 05:32:42,Terminal Cikarang,45
+2026-01-29 05:32:42,Sentra Grosir Cikarang,27
+2026-01-29 05:32:42,Stasiun Cikarang,28
+2026-01-29 05:32:42,Lippo Mall Cikarang,29
+2026-01-29 05:32:42,President University,33
+2026-01-29 05:33:47,Terminal Cikarang,45
+2026-01-29 05:33:47,Sentra Grosir Cikarang,27
+2026-01-29 05:33:47,Stasiun Cikarang,28
+2026-01-29 05:33:47,Lippo Mall Cikarang,29
+2026-01-29 05:33:47,President University,33
+2026-01-29 05:34:52,Terminal Cikarang,45
+2026-01-29 05:34:52,Sentra Grosir Cikarang,27
+2026-01-29 05:34:52,Stasiun Cikarang,28
+2026-01-29 05:34:52,Lippo Mall Cikarang,29
+2026-01-29 05:34:52,President University,33
+2026-01-29 05:35:57,Terminal Cikarang,45
+2026-01-29 05:35:57,Sentra Grosir Cikarang,27
+2026-01-29 05:35:57,Stasiun Cikarang,28
+2026-01-29 05:35:57,Lippo Mall Cikarang,29
+2026-01-29 05:35:57,President University,33
+2026-01-29 05:37:02,Terminal Cikarang,45
+2026-01-29 05:37:02,Sentra Grosir Cikarang,27
+2026-01-29 05:37:02,Stasiun Cikarang,28
+2026-01-29 05:37:02,Lippo Mall Cikarang,29
+2026-01-29 05:37:02,President University,33
+2026-01-29 05:38:07,Terminal Cikarang,45
+2026-01-29 05:38:07,Sentra Grosir Cikarang,27
+2026-01-29 05:38:07,Stasiun Cikarang,28
+2026-01-29 05:38:07,Lippo Mall Cikarang,29
+2026-01-29 05:38:07,President University,33
+2026-01-29 05:39:12,Terminal Cikarang,45
+2026-01-29 05:39:12,Sentra Grosir Cikarang,25
+2026-01-29 05:39:12,Stasiun Cikarang,28
+2026-01-29 05:39:12,Lippo Mall Cikarang,29
+2026-01-29 05:39:12,President University,33
+2026-01-29 05:40:30,Terminal Cikarang,45
+2026-01-29 05:40:30,Sentra Grosir Cikarang,25
+2026-01-29 05:40:30,Stasiun Cikarang,28
+2026-01-29 05:40:30,Lippo Mall Cikarang,29
+2026-01-29 05:40:30,President University,33
+2026-01-29 05:41:36,Terminal Cikarang,45
+2026-01-29 05:41:36,Sentra Grosir Cikarang,24
+2026-01-29 05:41:36,Stasiun Cikarang,28
+2026-01-29 05:41:36,Lippo Mall Cikarang,29
+2026-01-29 05:41:36,President University,33
+2026-01-29 05:42:43,Terminal Cikarang,45
+2026-01-29 05:42:43,Sentra Grosir Cikarang,24
+2026-01-29 05:42:43,Stasiun Cikarang,28
+2026-01-29 05:42:43,Lippo Mall Cikarang,29
+2026-01-29 05:42:43,President University,33
+2026-01-29 05:43:48,Terminal Cikarang,45
+2026-01-29 05:43:48,Sentra Grosir Cikarang,24
+2026-01-29 05:43:48,Stasiun Cikarang,28
+2026-01-29 05:43:48,Lippo Mall Cikarang,29
+2026-01-29 05:43:48,President University,33
+2026-01-29 05:44:53,Terminal Cikarang,45
+2026-01-29 05:44:53,Sentra Grosir Cikarang,24
+2026-01-29 05:44:53,Stasiun Cikarang,28
+2026-01-29 05:44:53,Lippo Mall Cikarang,29
+2026-01-29 05:44:53,President University,33
+2026-01-29 05:45:58,Terminal Cikarang,45
+2026-01-29 05:45:58,Sentra Grosir Cikarang,21
+2026-01-29 05:45:58,Stasiun Cikarang,22
+2026-01-29 05:45:58,Lippo Mall Cikarang,29
+2026-01-29 05:45:58,President University,33
+2026-01-29 05:47:03,Terminal Cikarang,45
+2026-01-29 05:47:03,Sentra Grosir Cikarang,21
+2026-01-29 05:47:03,Stasiun Cikarang,22
+2026-01-29 05:47:03,Lippo Mall Cikarang,29
+2026-01-29 05:47:03,President University,33
+2026-01-29 05:48:08,Terminal Cikarang,45
+2026-01-29 05:48:08,Sentra Grosir Cikarang,21
+2026-01-29 05:48:08,Stasiun Cikarang,20
+2026-01-29 05:48:08,Lippo Mall Cikarang,29
+2026-01-29 05:48:08,President University,33
+2026-01-29 05:49:12,Terminal Cikarang,45
+2026-01-29 05:49:12,Sentra Grosir Cikarang,24
+2026-01-29 05:49:12,Stasiun Cikarang,21
+2026-01-29 05:49:12,Lippo Mall Cikarang,29
+2026-01-29 05:49:12,President University,33
+2026-01-29 05:50:17,Terminal Cikarang,45
+2026-01-29 05:50:17,Sentra Grosir Cikarang,23
+2026-01-29 05:50:17,Stasiun Cikarang,18
+2026-01-29 05:50:17,Lippo Mall Cikarang,29
+2026-01-29 05:50:17,President University,33
+2026-01-29 05:51:22,Terminal Cikarang,45
+2026-01-29 05:51:22,Sentra Grosir Cikarang,23
+2026-01-29 05:51:22,Stasiun Cikarang,18
+2026-01-29 05:51:22,Lippo Mall Cikarang,29
+2026-01-29 05:51:22,President University,33
+2026-01-29 05:52:26,Terminal Cikarang,45
+2026-01-29 05:52:26,Sentra Grosir Cikarang,23
+2026-01-29 05:52:26,Stasiun Cikarang,18
+2026-01-29 05:52:26,Lippo Mall Cikarang,29
+2026-01-29 05:52:26,President University,33
+2026-01-29 05:53:31,Terminal Cikarang,45
+2026-01-29 05:53:31,Sentra Grosir Cikarang,23
+2026-01-29 05:53:31,Stasiun Cikarang,18
+2026-01-29 05:53:31,Lippo Mall Cikarang,29
+2026-01-29 05:53:31,President University,33
+2026-01-29 05:54:35,Terminal Cikarang,45
+2026-01-29 05:54:35,Sentra Grosir Cikarang,23
+2026-01-29 05:54:35,Stasiun Cikarang,18
+2026-01-29 05:54:35,Lippo Mall Cikarang,29
+2026-01-29 05:54:35,President University,33
+2026-01-29 05:55:40,Terminal Cikarang,45
+2026-01-29 05:55:40,Sentra Grosir Cikarang,23
+2026-01-29 05:55:40,Stasiun Cikarang,16
+2026-01-29 05:55:40,Lippo Mall Cikarang,29
+2026-01-29 05:55:40,President University,33
+2026-01-29 05:56:45,Terminal Cikarang,36
+2026-01-29 05:56:45,Sentra Grosir Cikarang,23
+2026-01-29 05:56:45,Stasiun Cikarang,14
+2026-01-29 05:56:45,Lippo Mall Cikarang,29
+2026-01-29 05:56:45,President University,33
+2026-01-29 05:57:50,Terminal Cikarang,35
+2026-01-29 05:57:50,Sentra Grosir Cikarang,23
+2026-01-29 05:57:50,Stasiun Cikarang,13
+2026-01-29 05:57:50,Lippo Mall Cikarang,29
+2026-01-29 05:57:50,President University,33
+2026-01-29 05:58:54,Terminal Cikarang,35
+2026-01-29 05:58:54,Sentra Grosir Cikarang,23
+2026-01-29 05:58:54,Stasiun Cikarang,14
+2026-01-29 05:58:54,Lippo Mall Cikarang,29
+2026-01-29 05:58:54,President University,33
+2026-01-29 05:59:59,Terminal Cikarang,35
+2026-01-29 05:59:59,Sentra Grosir Cikarang,23
+2026-01-29 05:59:59,Stasiun Cikarang,14
+2026-01-29 05:59:59,Lippo Mall Cikarang,29
+2026-01-29 05:59:59,President University,33
+2026-01-29 06:01:03,Terminal Cikarang,35
+2026-01-29 06:01:03,Sentra Grosir Cikarang,23
+2026-01-29 06:01:03,Stasiun Cikarang,14
+2026-01-29 06:01:03,Lippo Mall Cikarang,29
+2026-01-29 06:01:03,President University,33
+2026-01-29 06:02:07,Terminal Cikarang,35
+2026-01-29 06:02:07,Sentra Grosir Cikarang,22
+2026-01-29 06:02:07,Stasiun Cikarang,14
+2026-01-29 06:02:07,Lippo Mall Cikarang,29
+2026-01-29 06:02:07,President University,33
+2026-01-29 06:03:12,Terminal Cikarang,35
+2026-01-29 06:03:12,Sentra Grosir Cikarang,20
+2026-01-29 06:03:12,Stasiun Cikarang,14
+2026-01-29 06:03:12,Lippo Mall Cikarang,29
+2026-01-29 06:03:12,President University,33
+2026-01-29 06:04:16,Terminal Cikarang,35
+2026-01-29 06:04:16,Sentra Grosir Cikarang,20
+2026-01-29 06:04:16,Stasiun Cikarang,14
+2026-01-29 06:04:16,Lippo Mall Cikarang,29
+2026-01-29 06:04:16,President University,33
+2026-01-29 06:05:21,Terminal Cikarang,35
+2026-01-29 06:05:21,Sentra Grosir Cikarang,20
+2026-01-29 06:05:21,Stasiun Cikarang,14
+2026-01-29 06:05:21,Lippo Mall Cikarang,29
+2026-01-29 06:05:21,President University,33
+2026-01-29 06:06:25,Terminal Cikarang,35
+2026-01-29 06:06:25,Sentra Grosir Cikarang,20
+2026-01-29 06:06:25,Stasiun Cikarang,14
+2026-01-29 06:06:25,Lippo Mall Cikarang,29
+2026-01-29 06:06:25,President University,33
+2026-01-29 06:07:31,Terminal Cikarang,35
+2026-01-29 06:07:31,Sentra Grosir Cikarang,20
+2026-01-29 06:07:31,Stasiun Cikarang,14
+2026-01-29 06:07:31,Lippo Mall Cikarang,29
+2026-01-29 06:07:31,President University,33
+2026-01-29 06:08:35,Terminal Cikarang,36
+2026-01-29 06:08:35,Sentra Grosir Cikarang,20
+2026-01-29 06:08:35,Stasiun Cikarang,14
+2026-01-29 06:08:35,Lippo Mall Cikarang,29
+2026-01-29 06:08:35,President University,33
+2026-01-29 06:09:40,Terminal Cikarang,35
+2026-01-29 06:09:40,Sentra Grosir Cikarang,20
+2026-01-29 06:09:40,Stasiun Cikarang,14
+2026-01-29 06:09:40,Lippo Mall Cikarang,29
+2026-01-29 06:09:40,President University,33
+2026-01-29 06:10:44,Terminal Cikarang,36
+2026-01-29 06:10:44,Sentra Grosir Cikarang,20
+2026-01-29 06:10:44,Stasiun Cikarang,14
+2026-01-29 06:10:44,Lippo Mall Cikarang,29
+2026-01-29 06:10:44,President University,33
+2026-01-29 06:11:48,Terminal Cikarang,36
+2026-01-29 06:11:48,Sentra Grosir Cikarang,18
+2026-01-29 06:11:48,Stasiun Cikarang,14
+2026-01-29 06:11:48,Lippo Mall Cikarang,29
+2026-01-29 06:11:48,President University,33
+2026-01-29 06:12:53,Terminal Cikarang,45
+2026-01-29 06:12:53,Sentra Grosir Cikarang,18
+2026-01-29 06:12:53,Stasiun Cikarang,14
+2026-01-29 06:12:53,Lippo Mall Cikarang,29
+2026-01-29 06:12:53,President University,33
+2026-01-29 06:13:58,Terminal Cikarang,45
+2026-01-29 06:13:58,Sentra Grosir Cikarang,18
+2026-01-29 06:13:58,Stasiun Cikarang,14
+2026-01-29 06:13:58,Lippo Mall Cikarang,29
+2026-01-29 06:13:58,President University,33
+2026-01-29 06:15:03,Terminal Cikarang,45
+2026-01-29 06:15:03,Sentra Grosir Cikarang,18
+2026-01-29 06:15:03,Stasiun Cikarang,14
+2026-01-29 06:15:03,Lippo Mall Cikarang,23
+2026-01-29 06:15:03,President University,33
+2026-01-29 06:16:07,Terminal Cikarang,45
+2026-01-29 06:16:07,Sentra Grosir Cikarang,15
+2026-01-29 06:16:07,Stasiun Cikarang,14
+2026-01-29 06:16:07,Lippo Mall Cikarang,29
+2026-01-29 06:16:07,President University,33
+2026-01-29 06:17:12,Terminal Cikarang,45
+2026-01-29 06:17:12,Sentra Grosir Cikarang,14
+2026-01-29 06:17:12,Stasiun Cikarang,14
+2026-01-29 06:17:12,Lippo Mall Cikarang,29
+2026-01-29 06:17:12,President University,33
+2026-01-29 06:18:16,Terminal Cikarang,45
+2026-01-29 06:18:16,Sentra Grosir Cikarang,13
+2026-01-29 06:18:16,Stasiun Cikarang,14
+2026-01-29 06:18:16,Lippo Mall Cikarang,23
+2026-01-29 06:18:16,President University,33
+2026-01-29 06:19:21,Terminal Cikarang,45
+2026-01-29 06:19:21,Sentra Grosir Cikarang,13
+2026-01-29 06:19:21,Stasiun Cikarang,14
+2026-01-29 06:19:21,Lippo Mall Cikarang,23
+2026-01-29 06:19:21,President University,33
+2026-01-29 06:20:26,Terminal Cikarang,45
+2026-01-29 06:20:26,Sentra Grosir Cikarang,13
+2026-01-29 06:20:26,Stasiun Cikarang,14
+2026-01-29 06:20:26,Lippo Mall Cikarang,23
+2026-01-29 06:20:26,President University,33
+2026-01-29 06:21:30,Terminal Cikarang,45
+2026-01-29 06:21:30,Sentra Grosir Cikarang,13
+2026-01-29 06:21:30,Stasiun Cikarang,14
+2026-01-29 06:21:30,Lippo Mall Cikarang,23
+2026-01-29 06:21:30,President University,33
+2026-01-29 06:22:35,Terminal Cikarang,45
+2026-01-29 06:22:35,Sentra Grosir Cikarang,13
+2026-01-29 06:22:35,Stasiun Cikarang,15
+2026-01-29 06:22:35,Lippo Mall Cikarang,23
+2026-01-29 06:22:35,President University,33
+2026-01-29 06:23:39,Terminal Cikarang,45
+2026-01-29 06:23:39,Sentra Grosir Cikarang,14
+2026-01-29 06:23:39,Stasiun Cikarang,16
+2026-01-29 06:23:39,Lippo Mall Cikarang,23
+2026-01-29 06:23:39,President University,33
+2026-01-29 06:24:44,Terminal Cikarang,45
+2026-01-29 06:24:44,Sentra Grosir Cikarang,14
+2026-01-29 06:24:44,Stasiun Cikarang,16
+2026-01-29 06:24:44,Lippo Mall Cikarang,23
+2026-01-29 06:24:44,President University,33
+2026-01-29 06:25:50,Terminal Cikarang,45
+2026-01-29 06:25:50,Sentra Grosir Cikarang,20
+2026-01-29 06:25:50,Stasiun Cikarang,16
+2026-01-29 06:25:50,Lippo Mall Cikarang,23
+2026-01-29 06:25:50,President University,33
+2026-01-29 06:26:55,Terminal Cikarang,45
+2026-01-29 06:26:55,Sentra Grosir Cikarang,20
+2026-01-29 06:26:55,Stasiun Cikarang,16
+2026-01-29 06:26:55,Lippo Mall Cikarang,24
+2026-01-29 06:26:55,President University,33
+2026-01-29 06:28:00,Terminal Cikarang,45
+2026-01-29 06:28:00,Sentra Grosir Cikarang,12
+2026-01-29 06:28:00,Stasiun Cikarang,17
+2026-01-29 06:28:00,Lippo Mall Cikarang,29
+2026-01-29 06:28:00,President University,33
+2026-01-29 06:29:04,Terminal Cikarang,45
+2026-01-29 06:29:04,Sentra Grosir Cikarang,16
+2026-01-29 06:29:04,Stasiun Cikarang,18
+2026-01-29 06:29:04,Lippo Mall Cikarang,29
+2026-01-29 06:29:04,President University,33
+2026-01-29 06:30:09,Terminal Cikarang,45
+2026-01-29 06:30:09,Sentra Grosir Cikarang,16
+2026-01-29 06:30:09,Stasiun Cikarang,19
+2026-01-29 06:30:09,Lippo Mall Cikarang,29
+2026-01-29 06:30:09,President University,33
+2026-01-29 06:31:14,Terminal Cikarang,45
+2026-01-29 06:31:14,Sentra Grosir Cikarang,17
+2026-01-29 06:31:14,Stasiun Cikarang,21
+2026-01-29 06:31:14,Lippo Mall Cikarang,29
+2026-01-29 06:31:14,President University,33
+2026-01-29 06:32:23,Terminal Cikarang,45
+2026-01-29 06:32:23,Sentra Grosir Cikarang,17
+2026-01-29 06:32:23,Stasiun Cikarang,21
+2026-01-29 06:32:23,Lippo Mall Cikarang,29
+2026-01-29 06:32:23,President University,33
+2026-01-29 06:33:27,Terminal Cikarang,45
+2026-01-29 06:33:27,Sentra Grosir Cikarang,17
+2026-01-29 06:33:27,Stasiun Cikarang,22
+2026-01-29 06:33:27,Lippo Mall Cikarang,23
+2026-01-29 06:33:27,President University,33
+2026-01-29 06:34:33,Terminal Cikarang,45
+2026-01-29 06:34:33,Sentra Grosir Cikarang,14
+2026-01-29 06:34:33,Stasiun Cikarang,22
+2026-01-29 06:34:33,Lippo Mall Cikarang,23
+2026-01-29 06:34:33,President University,33
+2026-01-29 06:35:40,Terminal Cikarang,45
+2026-01-29 06:35:40,Sentra Grosir Cikarang,13
+2026-01-29 06:35:40,Stasiun Cikarang,22
+2026-01-29 06:35:40,Lippo Mall Cikarang,22
+2026-01-29 06:35:40,President University,33
+2026-01-29 06:36:46,Terminal Cikarang,45
+2026-01-29 06:36:46,Sentra Grosir Cikarang,13
+2026-01-29 06:36:46,Stasiun Cikarang,22
+2026-01-29 06:36:46,Lippo Mall Cikarang,22
+2026-01-29 06:36:46,President University,33
+2026-01-29 06:37:54,Terminal Cikarang,45
+2026-01-29 06:37:54,Sentra Grosir Cikarang,13
+2026-01-29 06:37:54,Stasiun Cikarang,28
+2026-01-29 06:37:54,Lippo Mall Cikarang,23
+2026-01-29 06:37:54,President University,23
+2026-01-29 06:38:58,Terminal Cikarang,45
+2026-01-29 06:38:58,Sentra Grosir Cikarang,14
+2026-01-29 06:38:58,Stasiun Cikarang,28
+2026-01-29 06:38:58,Lippo Mall Cikarang,22
+2026-01-29 06:38:58,President University,25
+2026-01-29 06:40:03,Terminal Cikarang,45
+2026-01-29 06:40:03,Sentra Grosir Cikarang,14
+2026-01-29 06:40:03,Stasiun Cikarang,28
+2026-01-29 06:40:03,Lippo Mall Cikarang,23
+2026-01-29 06:40:03,President University,26
+2026-01-29 06:41:08,Terminal Cikarang,45
+2026-01-29 06:41:08,Sentra Grosir Cikarang,14
+2026-01-29 06:41:08,Stasiun Cikarang,28
+2026-01-29 06:41:08,Lippo Mall Cikarang,24
+2026-01-29 06:42:24,Terminal Cikarang,45
+2026-01-29 06:42:24,Sentra Grosir Cikarang,14
+2026-01-29 06:42:24,Stasiun Cikarang,28
+2026-01-29 06:42:24,Lippo Mall Cikarang,23
+2026-01-29 06:42:24,President University,25
+2026-01-29 06:43:29,Terminal Cikarang,45
+2026-01-29 06:43:29,Sentra Grosir Cikarang,14
+2026-01-29 06:43:29,Stasiun Cikarang,28
+2026-01-29 06:43:29,Lippo Mall Cikarang,23
+2026-01-29 06:43:29,President University,25
+2026-01-29 06:44:34,Terminal Cikarang,45
+2026-01-29 06:44:34,Sentra Grosir Cikarang,14
+2026-01-29 06:44:34,Stasiun Cikarang,28
+2026-01-29 06:44:34,Lippo Mall Cikarang,29
+2026-01-29 06:44:34,President University,25
+2026-01-29 06:45:39,Terminal Cikarang,45
+2026-01-29 06:45:39,Sentra Grosir Cikarang,14
+2026-01-29 06:45:39,Stasiun Cikarang,21
+2026-01-29 06:45:39,Lippo Mall Cikarang,23
+2026-01-29 06:45:39,President University,25
+2026-01-29 06:46:43,Terminal Cikarang,45
+2026-01-29 06:46:43,Sentra Grosir Cikarang,14
+2026-01-29 06:46:43,Stasiun Cikarang,21
+2026-01-29 06:46:43,Lippo Mall Cikarang,23
+2026-01-29 06:46:43,President University,24
+2026-01-29 06:47:49,Terminal Cikarang,45
+2026-01-29 06:47:49,Sentra Grosir Cikarang,15
+2026-01-29 06:47:49,Stasiun Cikarang,21
+2026-01-29 06:47:49,Lippo Mall Cikarang,23
+2026-01-29 06:47:49,President University,24
+2026-01-29 06:48:54,Terminal Cikarang,34
+2026-01-29 06:48:54,Sentra Grosir Cikarang,15
+2026-01-29 06:48:54,Stasiun Cikarang,21
+2026-01-29 06:48:54,Lippo Mall Cikarang,23
+2026-01-29 06:48:54,President University,24
+2026-01-29 06:49:58,Terminal Cikarang,33
+2026-01-29 06:49:58,Sentra Grosir Cikarang,15
+2026-01-29 06:49:58,Stasiun Cikarang,21
+2026-01-29 06:49:58,Lippo Mall Cikarang,29
+2026-01-29 06:49:58,President University,24
+2026-01-29 06:51:03,Terminal Cikarang,34
+2026-01-29 06:51:03,Sentra Grosir Cikarang,15
+2026-01-29 06:51:03,Stasiun Cikarang,28
+2026-01-29 06:51:03,Lippo Mall Cikarang,29
+2026-01-29 06:51:03,President University,23
+2026-01-29 06:52:08,Terminal Cikarang,34
+2026-01-29 06:52:08,Sentra Grosir Cikarang,15
+2026-01-29 06:52:08,Stasiun Cikarang,28
+2026-01-29 06:52:08,Lippo Mall Cikarang,23
+2026-01-29 06:52:08,President University,22
+2026-01-29 06:53:13,Terminal Cikarang,34
+2026-01-29 06:53:13,Sentra Grosir Cikarang,15
+2026-01-29 06:53:13,Stasiun Cikarang,28
+2026-01-29 06:53:13,Lippo Mall Cikarang,23
+2026-01-29 06:53:13,President University,22
+2026-01-29 06:54:18,Terminal Cikarang,34
+2026-01-29 06:54:18,Sentra Grosir Cikarang,15
+2026-01-29 06:54:18,Stasiun Cikarang,22
+2026-01-29 06:54:18,Lippo Mall Cikarang,23
+2026-01-29 06:54:18,President University,23
+2026-01-29 06:55:25,Terminal Cikarang,34
+2026-01-29 06:55:25,Sentra Grosir Cikarang,15
+2026-01-29 06:55:25,Stasiun Cikarang,22
+2026-01-29 06:55:25,Lippo Mall Cikarang,22
+2026-01-29 06:55:25,President University,25
+2026-01-29 06:56:35,Terminal Cikarang,34
+2026-01-29 06:56:35,Sentra Grosir Cikarang,15
+2026-01-29 06:56:35,Stasiun Cikarang,21
+2026-01-29 06:56:35,Lippo Mall Cikarang,22
+2026-01-29 06:56:35,President University,23
+2026-01-29 06:57:51,Terminal Cikarang,35
+2026-01-29 06:57:51,Sentra Grosir Cikarang,15
+2026-01-29 06:57:51,Stasiun Cikarang,22
+2026-01-29 06:57:51,Lippo Mall Cikarang,17
+2026-01-29 06:57:51,President University,24
+2026-01-29 06:58:59,Terminal Cikarang,45
+2026-01-29 06:58:59,Sentra Grosir Cikarang,14
+2026-01-29 06:58:59,Stasiun Cikarang,22
+2026-01-29 06:58:59,Lippo Mall Cikarang,17
+2026-01-29 06:58:59,President University,24
+2026-01-29 07:00:04,Terminal Cikarang,45
+2026-01-29 07:00:04,Sentra Grosir Cikarang,14
+2026-01-29 07:00:04,Stasiun Cikarang,22
+2026-01-29 07:00:04,Lippo Mall Cikarang,20
+2026-01-29 07:00:04,President University,24
+2026-01-29 07:01:09,Terminal Cikarang,45
+2026-01-29 07:01:09,Sentra Grosir Cikarang,13
+2026-01-29 07:01:09,Stasiun Cikarang,22
+2026-01-29 07:01:09,Lippo Mall Cikarang,20
+2026-01-29 07:01:09,President University,23
+2026-01-29 07:02:15,Terminal Cikarang,36
+2026-01-29 07:02:15,Sentra Grosir Cikarang,15
+2026-01-29 07:02:15,Stasiun Cikarang,22
+2026-01-29 07:02:15,Lippo Mall Cikarang,20
+2026-01-29 07:02:15,President University,22
+2026-01-29 07:03:20,Terminal Cikarang,36
+2026-01-29 07:03:20,Sentra Grosir Cikarang,16
+2026-01-29 07:03:20,Stasiun Cikarang,21
+2026-01-29 07:03:20,Lippo Mall Cikarang,20
+2026-01-29 07:03:20,President University,23
+2026-01-29 07:04:30,Terminal Cikarang,35
+2026-01-29 07:04:30,Sentra Grosir Cikarang,16
+2026-01-29 07:04:30,Stasiun Cikarang,21
+2026-01-29 07:04:30,Lippo Mall Cikarang,20
+2026-01-29 07:04:30,President University,21
+2026-01-29 07:05:35,Terminal Cikarang,35
+2026-01-29 07:05:35,Sentra Grosir Cikarang,19
+2026-01-29 07:05:35,Stasiun Cikarang,21
+2026-01-29 07:05:35,Lippo Mall Cikarang,21
+2026-01-29 07:05:35,President University,20
+2026-01-29 07:06:40,Terminal Cikarang,35
+2026-01-29 07:06:40,Sentra Grosir Cikarang,17
+2026-01-29 07:06:40,Stasiun Cikarang,21
+2026-01-29 07:06:40,Lippo Mall Cikarang,21
+2026-01-29 07:06:40,President University,21
+2026-01-29 07:07:50,Terminal Cikarang,35
+2026-01-29 07:07:50,Sentra Grosir Cikarang,17
+2026-01-29 07:07:50,Stasiun Cikarang,21
+2026-01-29 07:07:50,Lippo Mall Cikarang,21
+2026-01-29 07:07:50,President University,20
+2026-01-29 07:09:06,Terminal Cikarang,35
+2026-01-29 07:09:06,Sentra Grosir Cikarang,17
+2026-01-29 07:09:06,Stasiun Cikarang,21
+2026-01-29 07:09:06,Lippo Mall Cikarang,20
+2026-01-29 07:09:06,President University,20
+2026-01-29 07:10:16,Terminal Cikarang,35
+2026-01-29 07:10:16,Sentra Grosir Cikarang,17
+2026-01-29 07:10:16,Stasiun Cikarang,20
+2026-01-29 07:10:16,Lippo Mall Cikarang,20
+2026-01-29 07:10:16,President University,18
+2026-01-29 07:11:28,Terminal Cikarang,35
+2026-01-29 07:11:28,Sentra Grosir Cikarang,17
+2026-01-29 07:11:28,Stasiun Cikarang,19
+2026-01-29 07:11:28,Lippo Mall Cikarang,20
+2026-01-29 07:11:28,President University,18
+2026-01-29 07:12:42,Terminal Cikarang,45
+2026-01-29 07:12:42,Sentra Grosir Cikarang,17
+2026-01-29 07:12:42,Stasiun Cikarang,18
+2026-01-29 07:12:42,Lippo Mall Cikarang,19
+2026-01-29 07:12:42,President University,17
+2026-01-29 07:13:49,Terminal Cikarang,45
+2026-01-29 07:13:49,Sentra Grosir Cikarang,17
+2026-01-29 07:13:49,Stasiun Cikarang,18
+2026-01-29 07:13:49,Lippo Mall Cikarang,20
+2026-01-29 07:13:49,President University,17
+2026-01-29 07:14:56,Terminal Cikarang,45
+2026-01-29 07:14:56,Sentra Grosir Cikarang,17
+2026-01-29 07:14:56,Stasiun Cikarang,18
+2026-01-29 07:14:56,Lippo Mall Cikarang,22
+2026-01-29 07:14:56,President University,17
+2026-01-29 07:16:02,Terminal Cikarang,45
+2026-01-29 07:16:02,Sentra Grosir Cikarang,19
+2026-01-29 07:16:02,Stasiun Cikarang,18
+2026-01-29 07:16:02,Lippo Mall Cikarang,22
+2026-01-29 07:16:02,President University,17
+2026-01-29 07:17:06,Terminal Cikarang,45
+2026-01-29 07:17:06,Sentra Grosir Cikarang,19
+2026-01-29 07:17:06,Stasiun Cikarang,18
+2026-01-29 07:17:06,Lippo Mall Cikarang,22
+2026-01-29 07:17:06,President University,17
+2026-01-29 07:18:12,Terminal Cikarang,45
+2026-01-29 07:18:12,Sentra Grosir Cikarang,19
+2026-01-29 07:18:12,Stasiun Cikarang,18
+2026-01-29 07:18:12,Lippo Mall Cikarang,22
+2026-01-29 07:18:12,President University,17
+2026-01-29 07:19:17,Terminal Cikarang,45
+2026-01-29 07:19:17,Sentra Grosir Cikarang,19
+2026-01-29 07:19:17,Stasiun Cikarang,18
+2026-01-29 07:19:17,Lippo Mall Cikarang,21
+2026-01-29 07:19:17,President University,17
+2026-01-29 07:20:21,Terminal Cikarang,45
+2026-01-29 07:20:21,Sentra Grosir Cikarang,19
+2026-01-29 07:20:21,Stasiun Cikarang,18
+2026-01-29 07:20:21,Lippo Mall Cikarang,21
+2026-01-29 07:20:21,President University,18
+2026-01-29 07:21:26,Terminal Cikarang,36
+2026-01-29 07:21:26,Sentra Grosir Cikarang,19
+2026-01-29 07:21:26,Stasiun Cikarang,18
+2026-01-29 07:21:26,Lippo Mall Cikarang,21
+2026-01-29 07:21:26,President University,18
+2026-01-29 07:22:31,Terminal Cikarang,35
+2026-01-29 07:22:31,Sentra Grosir Cikarang,16
+2026-01-29 07:22:31,Stasiun Cikarang,18
+2026-01-29 07:22:31,Lippo Mall Cikarang,22
+2026-01-29 07:22:31,President University,18
+2026-01-29 07:23:37,Terminal Cikarang,35
+2026-01-29 07:23:37,Sentra Grosir Cikarang,16
+2026-01-29 07:23:37,Stasiun Cikarang,18
+2026-01-29 07:23:37,Lippo Mall Cikarang,23
+2026-01-29 07:23:37,President University,17
+2026-01-29 07:24:42,Terminal Cikarang,34
+2026-01-29 07:24:42,Sentra Grosir Cikarang,12
+2026-01-29 07:24:42,Stasiun Cikarang,17
+2026-01-29 07:24:42,Lippo Mall Cikarang,22
+2026-01-29 07:24:42,President University,17
+2026-01-29 07:25:48,Terminal Cikarang,34
+2026-01-29 07:25:48,Sentra Grosir Cikarang,12
+2026-01-29 07:25:48,Stasiun Cikarang,17
+2026-01-29 07:25:48,Lippo Mall Cikarang,22
+2026-01-29 07:25:48,President University,16
+2026-01-29 07:26:53,Terminal Cikarang,34
+2026-01-29 07:26:53,Sentra Grosir Cikarang,10
+2026-01-29 07:26:53,Stasiun Cikarang,15
+2026-01-29 07:26:53,Lippo Mall Cikarang,23
+2026-01-29 07:26:53,President University,17
+2026-01-29 07:27:57,Terminal Cikarang,34
+2026-01-29 07:27:57,Sentra Grosir Cikarang,10
+2026-01-29 07:27:57,Stasiun Cikarang,15
+2026-01-29 07:27:57,Lippo Mall Cikarang,23
+2026-01-29 07:27:57,President University,18
+2026-01-29 07:29:02,Terminal Cikarang,34
+2026-01-29 07:29:02,Sentra Grosir Cikarang,11
+2026-01-29 07:29:02,Stasiun Cikarang,15
+2026-01-29 07:29:02,Lippo Mall Cikarang,22
+2026-01-29 07:29:02,President University,18
+2026-01-29 07:30:07,Terminal Cikarang,33
+2026-01-29 07:30:07,Sentra Grosir Cikarang,10
+2026-01-29 07:30:07,Stasiun Cikarang,15
+2026-01-29 07:30:07,Lippo Mall Cikarang,22
+2026-01-29 07:30:07,President University,17
+2026-01-29 07:31:16,Terminal Cikarang,33
+2026-01-29 07:31:16,Sentra Grosir Cikarang,11
+2026-01-29 07:31:16,Stasiun Cikarang,15
+2026-01-29 07:31:16,Lippo Mall Cikarang,22
+2026-01-29 07:31:16,President University,16
+2026-01-29 07:32:21,Terminal Cikarang,33
+2026-01-29 07:32:21,Sentra Grosir Cikarang,24
+2026-01-29 07:32:21,Stasiun Cikarang,16
+2026-01-29 07:32:21,Lippo Mall Cikarang,22
+2026-01-29 07:32:21,President University,16
+2026-01-29 07:33:26,Terminal Cikarang,33
+2026-01-29 07:33:26,Sentra Grosir Cikarang,23
+2026-01-29 07:33:26,Stasiun Cikarang,17
+2026-01-29 07:33:26,Lippo Mall Cikarang,22
+2026-01-29 07:33:26,President University,16
+2026-01-29 07:34:31,Terminal Cikarang,33
+2026-01-29 07:34:31,Sentra Grosir Cikarang,24
+2026-01-29 07:34:31,Stasiun Cikarang,17
+2026-01-29 07:34:31,Lippo Mall Cikarang,29
+2026-01-29 07:34:31,President University,16
+2026-01-29 07:35:36,Terminal Cikarang,33
+2026-01-29 07:35:36,Sentra Grosir Cikarang,24
+2026-01-29 07:35:36,Stasiun Cikarang,17
+2026-01-29 07:35:36,Lippo Mall Cikarang,23
+2026-01-29 07:35:36,President University,17
+2026-01-29 07:36:41,Terminal Cikarang,30
+2026-01-29 07:36:41,Sentra Grosir Cikarang,24
+2026-01-29 07:36:41,Stasiun Cikarang,17
+2026-01-29 07:36:41,Lippo Mall Cikarang,23
+2026-01-29 07:36:41,President University,16
+2026-01-29 07:37:46,Terminal Cikarang,30
+2026-01-29 07:37:46,Sentra Grosir Cikarang,24
+2026-01-29 07:37:46,Stasiun Cikarang,17
+2026-01-29 07:37:46,Lippo Mall Cikarang,23
+2026-01-29 07:37:46,President University,15
+2026-01-29 07:38:51,Terminal Cikarang,30
+2026-01-29 07:38:51,Sentra Grosir Cikarang,26
+2026-01-29 07:38:51,Stasiun Cikarang,17
+2026-01-29 07:38:51,Lippo Mall Cikarang,23
+2026-01-29 07:38:51,President University,15
+2026-01-29 07:39:58,Terminal Cikarang,30
+2026-01-29 07:39:58,Sentra Grosir Cikarang,26
+2026-01-29 07:39:58,Stasiun Cikarang,17
+2026-01-29 07:39:58,Lippo Mall Cikarang,22
+2026-01-29 07:39:58,President University,16
+2026-01-29 07:41:02,Terminal Cikarang,30
+2026-01-29 07:41:02,Sentra Grosir Cikarang,26
+2026-01-29 07:41:02,Stasiun Cikarang,17
+2026-01-29 07:41:02,Lippo Mall Cikarang,21
+2026-01-29 07:41:02,President University,16
+2026-01-29 07:42:09,Terminal Cikarang,30
+2026-01-29 07:42:09,Sentra Grosir Cikarang,26
+2026-01-29 07:42:09,Stasiun Cikarang,17
+2026-01-29 07:42:09,Lippo Mall Cikarang,21
+2026-01-29 07:42:09,President University,15
+2026-01-29 07:43:17,Terminal Cikarang,30
+2026-01-29 07:43:17,Sentra Grosir Cikarang,26
+2026-01-29 07:43:17,Stasiun Cikarang,17
+2026-01-29 07:43:17,Lippo Mall Cikarang,21
+2026-01-29 07:43:17,President University,15
+2026-01-29 07:44:23,Terminal Cikarang,30
+2026-01-29 07:44:23,Sentra Grosir Cikarang,24
+2026-01-29 07:44:23,Stasiun Cikarang,17
+2026-01-29 07:44:23,Lippo Mall Cikarang,21
+2026-01-29 07:44:23,President University,16
+2026-01-29 07:45:30,Terminal Cikarang,30
+2026-01-29 07:45:30,Sentra Grosir Cikarang,24
+2026-01-29 07:45:30,Stasiun Cikarang,17
+2026-01-29 07:45:30,Lippo Mall Cikarang,20
+2026-01-29 07:45:30,President University,16
+2026-01-29 07:46:39,Terminal Cikarang,30
+2026-01-29 07:46:39,Sentra Grosir Cikarang,24
+2026-01-29 07:46:39,Stasiun Cikarang,16
+2026-01-29 07:46:39,Lippo Mall Cikarang,21
+2026-01-29 07:46:39,President University,16
+2026-01-29 07:47:45,Terminal Cikarang,30
+2026-01-29 07:47:45,Sentra Grosir Cikarang,24
+2026-01-29 07:47:45,Stasiun Cikarang,16
+2026-01-29 07:47:45,Lippo Mall Cikarang,20
+2026-01-29 07:47:45,President University,16
+2026-01-29 07:48:52,Terminal Cikarang,30
+2026-01-29 07:48:52,Sentra Grosir Cikarang,24
+2026-01-29 07:48:52,Stasiun Cikarang,17
+2026-01-29 07:48:52,Lippo Mall Cikarang,21
+2026-01-29 07:48:52,President University,17
+2026-01-29 07:50:01,Terminal Cikarang,30
+2026-01-29 07:50:01,Sentra Grosir Cikarang,12
+2026-01-29 07:50:01,Stasiun Cikarang,17
+2026-01-29 07:50:01,Lippo Mall Cikarang,22
+2026-01-29 07:50:01,President University,15
+2026-01-29 07:51:08,Terminal Cikarang,30
+2026-01-29 07:51:08,Sentra Grosir Cikarang,12
+2026-01-29 07:51:08,Stasiun Cikarang,17
+2026-01-29 07:51:08,Lippo Mall Cikarang,23
+2026-01-29 07:51:08,President University,13
+2026-01-29 07:52:19,Terminal Cikarang,30
+2026-01-29 07:52:19,Sentra Grosir Cikarang,14
+2026-01-29 07:52:19,Stasiun Cikarang,17
+2026-01-29 07:52:19,Lippo Mall Cikarang,22
+2026-01-29 07:52:19,President University,14
+2026-01-29 07:53:25,Terminal Cikarang,30
+2026-01-29 07:53:25,Sentra Grosir Cikarang,14
+2026-01-29 07:53:25,Stasiun Cikarang,17
+2026-01-29 07:53:25,Lippo Mall Cikarang,22
+2026-01-29 07:53:25,President University,12
+2026-01-29 07:54:30,Terminal Cikarang,30
+2026-01-29 07:54:30,Sentra Grosir Cikarang,14
+2026-01-29 07:54:30,Stasiun Cikarang,17
+2026-01-29 07:54:30,Lippo Mall Cikarang,22
+2026-01-29 07:54:30,President University,13
+2026-01-29 07:55:34,Terminal Cikarang,30
+2026-01-29 07:55:34,Sentra Grosir Cikarang,14
+2026-01-29 07:55:34,Stasiun Cikarang,17
+2026-01-29 07:55:34,Lippo Mall Cikarang,21
+2026-01-29 07:55:34,President University,15
+2026-01-29 07:56:39,Terminal Cikarang,31
+2026-01-29 07:56:39,Sentra Grosir Cikarang,14
+2026-01-29 07:56:39,Stasiun Cikarang,18
+2026-01-29 07:56:39,Lippo Mall Cikarang,21
+2026-01-29 07:56:39,President University,15
+2026-01-29 07:57:44,Terminal Cikarang,32
+2026-01-29 07:57:44,Sentra Grosir Cikarang,15
+2026-01-29 07:57:44,Stasiun Cikarang,19
+2026-01-29 07:57:44,Lippo Mall Cikarang,21
+2026-01-29 07:57:44,President University,18
+2026-01-29 07:58:49,Terminal Cikarang,33
+2026-01-29 07:58:49,Sentra Grosir Cikarang,15
+2026-01-29 07:58:49,Stasiun Cikarang,19
+2026-01-29 07:58:49,Lippo Mall Cikarang,19
+2026-01-29 07:58:49,President University,18
+2026-01-29 07:59:54,Terminal Cikarang,35
+2026-01-29 07:59:54,Sentra Grosir Cikarang,15
+2026-01-29 07:59:54,Stasiun Cikarang,19
+2026-01-29 07:59:54,Lippo Mall Cikarang,19
+2026-01-29 07:59:54,President University,18
+2026-01-29 08:01:01,Terminal Cikarang,35
+2026-01-29 08:01:01,Sentra Grosir Cikarang,13
+2026-01-29 08:01:01,Stasiun Cikarang,19
+2026-01-29 08:01:01,Lippo Mall Cikarang,18
+2026-01-29 08:01:01,President University,18
+2026-01-29 08:02:05,Terminal Cikarang,36
+2026-01-29 08:02:05,Sentra Grosir Cikarang,15
+2026-01-29 08:02:05,Stasiun Cikarang,19
+2026-01-29 08:02:05,Lippo Mall Cikarang,16
+2026-01-29 08:02:05,President University,18
+2026-01-29 08:03:11,Terminal Cikarang,34
+2026-01-29 08:03:11,Sentra Grosir Cikarang,14
+2026-01-29 08:03:11,Stasiun Cikarang,19
+2026-01-29 08:03:11,Lippo Mall Cikarang,18
+2026-01-29 08:03:11,President University,18
+2026-01-29 08:04:17,Terminal Cikarang,32
+2026-01-29 08:04:17,Sentra Grosir Cikarang,17
+2026-01-29 08:04:17,Stasiun Cikarang,19
+2026-01-29 08:04:17,Lippo Mall Cikarang,20
+2026-01-29 08:04:17,President University,18
+2026-01-29 08:05:22,Terminal Cikarang,32
+2026-01-29 08:05:22,Sentra Grosir Cikarang,17
+2026-01-29 08:05:22,Stasiun Cikarang,21
+2026-01-29 08:05:22,Lippo Mall Cikarang,21
+2026-01-29 08:05:22,President University,20
+2026-01-29 08:06:26,Terminal Cikarang,32
+2026-01-29 08:06:26,Sentra Grosir Cikarang,14
+2026-01-29 08:06:26,Stasiun Cikarang,20
+2026-01-29 08:06:26,Lippo Mall Cikarang,21
+2026-01-29 08:06:26,President University,23
+2026-01-29 08:07:31,Terminal Cikarang,28
+2026-01-29 08:07:31,Sentra Grosir Cikarang,13
+2026-01-29 08:07:31,Stasiun Cikarang,22
+2026-01-29 08:07:31,Lippo Mall Cikarang,22
+2026-01-29 08:07:31,President University,23
+2026-01-29 08:08:36,Terminal Cikarang,25
+2026-01-29 08:08:36,Sentra Grosir Cikarang,18
+2026-01-29 08:08:36,Stasiun Cikarang,20
+2026-01-29 08:08:36,Lippo Mall Cikarang,22
+2026-01-29 08:08:36,President University,23
+2026-01-29 08:09:41,Terminal Cikarang,25
+2026-01-29 08:09:41,Sentra Grosir Cikarang,19
+2026-01-29 08:09:41,Stasiun Cikarang,20
+2026-01-29 08:09:41,Lippo Mall Cikarang,22
+2026-01-29 08:09:41,President University,23
+2026-01-29 08:10:45,Terminal Cikarang,25
+2026-01-29 08:10:45,Sentra Grosir Cikarang,20
+2026-01-29 08:10:45,Stasiun Cikarang,20
+2026-01-29 08:10:45,Lippo Mall Cikarang,23
+2026-01-29 08:10:45,President University,22
+2026-01-29 08:11:50,Terminal Cikarang,26
+2026-01-29 08:11:50,Sentra Grosir Cikarang,17
+2026-01-29 08:11:50,Stasiun Cikarang,20
+2026-01-29 08:11:50,Lippo Mall Cikarang,23
+2026-01-29 08:11:50,President University,24
+2026-01-29 08:12:55,Terminal Cikarang,26
+2026-01-29 08:12:55,Sentra Grosir Cikarang,16
+2026-01-29 08:12:55,Stasiun Cikarang,20
+2026-01-29 08:12:55,Lippo Mall Cikarang,23
+2026-01-29 08:12:55,President University,24
+2026-01-29 08:14:02,Terminal Cikarang,27
+2026-01-29 08:14:02,Sentra Grosir Cikarang,16
+2026-01-29 08:14:02,Stasiun Cikarang,20
+2026-01-29 08:14:02,Lippo Mall Cikarang,23
+2026-01-29 08:14:02,President University,25
+2026-01-29 08:15:07,Terminal Cikarang,27
+2026-01-29 08:15:07,Sentra Grosir Cikarang,16
+2026-01-29 08:15:07,Stasiun Cikarang,20
+2026-01-29 08:15:07,Lippo Mall Cikarang,22
+2026-01-29 08:15:07,President University,33
+2026-01-29 08:16:13,Terminal Cikarang,27
+2026-01-29 08:16:13,Sentra Grosir Cikarang,16
+2026-01-29 08:16:13,Stasiun Cikarang,20
+2026-01-29 08:16:13,Lippo Mall Cikarang,22
+2026-01-29 08:16:13,President University,26
+2026-01-29 08:17:19,Terminal Cikarang,29
+2026-01-29 08:17:19,Sentra Grosir Cikarang,19
+2026-01-29 08:17:19,Stasiun Cikarang,18
+2026-01-29 08:17:19,Lippo Mall Cikarang,22
+2026-01-29 08:17:19,President University,23
+2026-01-29 08:18:24,Terminal Cikarang,29
+2026-01-29 08:18:24,Sentra Grosir Cikarang,19
+2026-01-29 08:18:24,Stasiun Cikarang,18
+2026-01-29 08:18:24,Lippo Mall Cikarang,22
+2026-01-29 08:18:24,President University,25
+2026-01-29 08:19:28,Terminal Cikarang,29
+2026-01-29 08:19:28,Sentra Grosir Cikarang,20
+2026-01-29 08:19:28,Stasiun Cikarang,18
+2026-01-29 08:19:28,Lippo Mall Cikarang,22
+2026-01-29 08:19:28,President University,26
+2026-01-29 08:20:33,Terminal Cikarang,29
+2026-01-29 08:20:33,Sentra Grosir Cikarang,20
+2026-01-29 08:20:33,Stasiun Cikarang,18
+2026-01-29 08:20:33,Lippo Mall Cikarang,22
+2026-01-29 08:20:33,President University,22
+2026-01-29 08:21:38,Terminal Cikarang,29
+2026-01-29 08:21:38,Sentra Grosir Cikarang,23
+2026-01-29 08:21:38,Stasiun Cikarang,18
+2026-01-29 08:21:38,Lippo Mall Cikarang,22
+2026-01-29 08:21:38,President University,23
+2026-01-29 08:22:43,Terminal Cikarang,30
+2026-01-29 08:22:43,Sentra Grosir Cikarang,23
+2026-01-29 08:22:43,Stasiun Cikarang,18
+2026-01-29 08:22:43,Lippo Mall Cikarang,23
+2026-01-29 08:22:43,President University,23
+2026-01-29 08:23:48,Terminal Cikarang,30
+2026-01-29 08:23:48,Sentra Grosir Cikarang,23
+2026-01-29 08:23:48,Stasiun Cikarang,18
+2026-01-29 08:23:48,Lippo Mall Cikarang,22
+2026-01-29 08:23:48,President University,21
+2026-01-29 08:24:53,Terminal Cikarang,27
+2026-01-29 08:24:53,Sentra Grosir Cikarang,23
+2026-01-29 08:24:53,Stasiun Cikarang,18
+2026-01-29 08:24:53,Lippo Mall Cikarang,22
+2026-01-29 08:24:53,President University,21
+2026-01-29 08:25:58,Terminal Cikarang,27
+2026-01-29 08:25:58,Sentra Grosir Cikarang,23
+2026-01-29 08:25:58,Stasiun Cikarang,18
+2026-01-29 08:25:58,Lippo Mall Cikarang,22
+2026-01-29 08:25:58,President University,21
+2026-01-29 08:27:03,Terminal Cikarang,30
+2026-01-29 08:27:03,Sentra Grosir Cikarang,24
+2026-01-29 08:27:03,Stasiun Cikarang,18
+2026-01-29 08:27:03,Lippo Mall Cikarang,22
+2026-01-29 08:27:03,President University,23
+2026-01-29 08:28:11,Terminal Cikarang,30
+2026-01-29 08:28:11,Sentra Grosir Cikarang,24
+2026-01-29 08:28:11,Stasiun Cikarang,18
+2026-01-29 08:28:11,Lippo Mall Cikarang,23
+2026-01-29 08:28:11,President University,23
+2026-01-29 08:29:25,Terminal Cikarang,29
+2026-01-29 08:29:25,Sentra Grosir Cikarang,24
+2026-01-29 08:29:25,Stasiun Cikarang,18
+2026-01-29 08:29:25,Lippo Mall Cikarang,23
+2026-01-29 08:29:25,President University,23
+2026-01-29 08:30:30,Terminal Cikarang,27
+2026-01-29 08:30:30,Sentra Grosir Cikarang,24
+2026-01-29 08:30:30,Stasiun Cikarang,18
+2026-01-29 08:30:30,Lippo Mall Cikarang,22
+2026-01-29 08:30:30,President University,23
+2026-01-29 08:31:37,Terminal Cikarang,27
+2026-01-29 08:31:37,Sentra Grosir Cikarang,24
+2026-01-29 08:31:37,Stasiun Cikarang,18
+2026-01-29 08:31:37,Lippo Mall Cikarang,22
+2026-01-29 08:31:37,President University,23
+2026-02-01 09:12:32,Terminal Cikarang,45
+2026-02-01 09:12:32,Sentra Grosir Cikarang,23
+2026-02-01 09:12:32,Stasiun Cikarang,19
+2026-02-01 09:12:32,Lippo Mall Cikarang,29
+2026-02-01 09:12:32,President University,33
+2026-02-01 09:13:36,Terminal Cikarang,45
+2026-02-01 09:13:36,Sentra Grosir Cikarang,22
+2026-02-01 09:13:36,Stasiun Cikarang,20
+2026-02-01 09:13:36,Lippo Mall Cikarang,29
+2026-02-01 09:13:36,President University,33
+2026-02-01 09:14:40,Terminal Cikarang,45
+2026-02-01 09:14:40,Sentra Grosir Cikarang,22
+2026-02-01 09:14:40,Stasiun Cikarang,19
+2026-02-01 09:14:40,Lippo Mall Cikarang,29
+2026-02-01 09:14:40,President University,33
+2026-02-01 09:15:44,Terminal Cikarang,45
+2026-02-01 09:15:44,Sentra Grosir Cikarang,21
+2026-02-01 09:15:44,Stasiun Cikarang,18
+2026-02-01 09:15:44,Lippo Mall Cikarang,29
+2026-02-01 09:15:44,President University,33
+2026-02-01 09:15:54,Terminal Cikarang,45
+2026-02-01 09:15:54,Sentra Grosir Cikarang,21
+2026-02-01 09:15:54,Stasiun Cikarang,18
+2026-02-01 09:15:54,Lippo Mall Cikarang,29
+2026-02-01 09:15:54,President University,33
+2026-02-01 09:16:58,Terminal Cikarang,45
+2026-02-01 09:16:58,Sentra Grosir Cikarang,22
+2026-02-01 09:16:58,Stasiun Cikarang,18
+2026-02-01 09:16:58,Lippo Mall Cikarang,29
+2026-02-01 09:16:58,President University,33
+2026-02-01 09:18:02,Terminal Cikarang,45
+2026-02-01 09:18:02,Sentra Grosir Cikarang,22
+2026-02-01 09:18:02,Stasiun Cikarang,18
+2026-02-01 09:18:02,Lippo Mall Cikarang,29
+2026-02-01 09:18:02,President University,33
+2026-02-01 09:19:06,Terminal Cikarang,45
+2026-02-01 09:19:06,Sentra Grosir Cikarang,22
+2026-02-01 09:19:06,Stasiun Cikarang,18
+2026-02-01 09:19:06,Lippo Mall Cikarang,29
+2026-02-01 09:19:06,President University,33
+2026-02-01 09:20:11,Terminal Cikarang,45
+2026-02-01 09:20:11,Sentra Grosir Cikarang,22
+2026-02-01 09:20:11,Stasiun Cikarang,18
+2026-02-01 09:20:11,Lippo Mall Cikarang,29
+2026-02-01 09:20:11,President University,33
+2026-02-01 09:21:15,Terminal Cikarang,45
+2026-02-01 09:21:15,Sentra Grosir Cikarang,22
+2026-02-01 09:21:15,Stasiun Cikarang,18
+2026-02-01 09:21:15,Lippo Mall Cikarang,29
+2026-02-01 09:21:15,President University,33
+2026-02-01 09:38:24,Terminal Cikarang,45
+2026-02-01 09:38:24,Sentra Grosir Cikarang,23
+2026-02-01 09:38:24,Stasiun Cikarang,14
+2026-02-01 09:38:24,Lippo Mall Cikarang,29
+2026-02-01 09:38:24,President University,33
+2026-02-01 09:39:29,Terminal Cikarang,45
+2026-02-01 09:39:29,Sentra Grosir Cikarang,23
+2026-02-01 09:39:29,Stasiun Cikarang,17
+2026-02-01 09:39:29,Lippo Mall Cikarang,29
+2026-02-01 09:39:29,President University,33
+2026-02-01 09:40:33,Terminal Cikarang,45
+2026-02-01 09:40:33,Sentra Grosir Cikarang,23
+2026-02-01 09:40:33,Stasiun Cikarang,18
+2026-02-01 09:40:33,Lippo Mall Cikarang,29
+2026-02-01 09:40:33,President University,33
+2026-02-01 09:41:37,Terminal Cikarang,45
+2026-02-01 09:41:37,Sentra Grosir Cikarang,23
+2026-02-01 09:41:37,Stasiun Cikarang,20
+2026-02-01 09:41:37,Lippo Mall Cikarang,29
+2026-02-01 09:41:37,President University,33
+2026-02-01 09:42:41,Terminal Cikarang,45
+2026-02-01 09:42:41,Sentra Grosir Cikarang,24
+2026-02-01 09:42:41,Stasiun Cikarang,20
+2026-02-01 09:42:41,Lippo Mall Cikarang,29
+2026-02-01 09:42:41,President University,33
+2026-02-01 09:43:45,Terminal Cikarang,45
+2026-02-01 09:43:45,Sentra Grosir Cikarang,24
+2026-02-01 09:43:45,Stasiun Cikarang,20
+2026-02-01 09:43:45,Lippo Mall Cikarang,29
+2026-02-01 09:43:45,President University,33
+2026-02-01 09:44:50,Terminal Cikarang,45
+2026-02-01 09:44:50,Sentra Grosir Cikarang,25
+2026-02-01 09:44:50,Stasiun Cikarang,21
+2026-02-01 09:44:50,Lippo Mall Cikarang,29
+2026-02-01 09:44:50,President University,33
+2026-02-01 09:45:54,Terminal Cikarang,45
+2026-02-01 09:45:54,Sentra Grosir Cikarang,25
+2026-02-01 09:45:54,Stasiun Cikarang,21
+2026-02-01 09:45:54,Lippo Mall Cikarang,29
+2026-02-01 09:45:54,President University,33
+2026-02-01 09:46:58,Terminal Cikarang,45
+2026-02-01 09:46:58,Sentra Grosir Cikarang,25
+2026-02-01 09:46:58,Stasiun Cikarang,21
+2026-02-01 09:46:58,Lippo Mall Cikarang,29
+2026-02-01 09:46:58,President University,33
+2026-02-01 09:48:02,Terminal Cikarang,45
+2026-02-01 09:48:02,Sentra Grosir Cikarang,25
+2026-02-01 09:48:02,Stasiun Cikarang,21
+2026-02-01 09:48:02,Lippo Mall Cikarang,29
+2026-02-01 09:48:02,President University,33
+2026-02-01 09:49:07,Terminal Cikarang,45
+2026-02-01 09:49:07,Sentra Grosir Cikarang,25
+2026-02-01 09:49:07,Stasiun Cikarang,22
+2026-02-01 09:49:07,Lippo Mall Cikarang,29
+2026-02-01 09:49:07,President University,33
+2026-02-01 09:50:11,Terminal Cikarang,45
+2026-02-01 09:50:11,Sentra Grosir Cikarang,25
+2026-02-01 09:50:11,Stasiun Cikarang,22
+2026-02-01 09:50:11,Lippo Mall Cikarang,29
+2026-02-01 09:50:11,President University,33
+2026-02-01 09:51:15,Terminal Cikarang,45
+2026-02-01 09:51:15,Sentra Grosir Cikarang,25
+2026-02-01 09:51:15,Stasiun Cikarang,22
+2026-02-01 09:51:15,Lippo Mall Cikarang,29
+2026-02-01 09:51:15,President University,33
+2026-02-01 09:52:19,Terminal Cikarang,45
+2026-02-01 09:52:19,Sentra Grosir Cikarang,25
+2026-02-01 09:52:19,Stasiun Cikarang,22
+2026-02-01 09:52:19,Lippo Mall Cikarang,29
+2026-02-01 09:52:19,President University,33
+2026-02-01 09:53:24,Terminal Cikarang,45
+2026-02-01 09:53:24,Sentra Grosir Cikarang,25
+2026-02-01 09:53:24,Stasiun Cikarang,22
+2026-02-01 09:53:24,Lippo Mall Cikarang,29
+2026-02-01 09:53:24,President University,33
+2026-02-01 09:54:28,Terminal Cikarang,45
+2026-02-01 09:54:28,Sentra Grosir Cikarang,25
+2026-02-01 09:54:28,Stasiun Cikarang,22
+2026-02-01 09:54:28,Lippo Mall Cikarang,29
+2026-02-01 09:54:28,President University,33
+2026-02-01 09:55:32,Terminal Cikarang,45
+2026-02-01 09:55:32,Sentra Grosir Cikarang,25
+2026-02-01 09:55:32,Stasiun Cikarang,21
+2026-02-01 09:55:32,Lippo Mall Cikarang,29
+2026-02-01 09:55:32,President University,33
+2026-02-01 09:56:37,Terminal Cikarang,45
+2026-02-01 09:56:37,Sentra Grosir Cikarang,25
+2026-02-01 09:56:37,Stasiun Cikarang,18
+2026-02-01 09:56:37,Lippo Mall Cikarang,29
+2026-02-01 09:56:37,President University,33
+2026-02-01 09:57:41,Terminal Cikarang,45
+2026-02-01 09:57:41,Sentra Grosir Cikarang,25
+2026-02-01 09:57:41,Stasiun Cikarang,18
+2026-02-01 09:57:41,Lippo Mall Cikarang,29
+2026-02-01 09:57:41,President University,33
+2026-02-01 09:58:45,Terminal Cikarang,45
+2026-02-01 09:58:45,Sentra Grosir Cikarang,26
+2026-02-01 09:58:45,Stasiun Cikarang,19
+2026-02-01 09:58:45,Lippo Mall Cikarang,29
+2026-02-01 09:58:45,President University,33
+2026-02-01 09:59:49,Terminal Cikarang,45
+2026-02-01 09:59:49,Sentra Grosir Cikarang,26
+2026-02-01 09:59:49,Stasiun Cikarang,19
+2026-02-01 09:59:49,Lippo Mall Cikarang,29
+2026-02-01 09:59:49,President University,33
+2026-02-01 10:00:54,Terminal Cikarang,45
+2026-02-01 10:00:54,Sentra Grosir Cikarang,26
+2026-02-01 10:00:54,Stasiun Cikarang,19
+2026-02-01 10:00:54,Lippo Mall Cikarang,29
+2026-02-01 10:00:54,President University,33
+2026-02-01 10:01:58,Terminal Cikarang,35
+2026-02-01 10:01:58,Sentra Grosir Cikarang,26
+2026-02-01 10:01:58,Stasiun Cikarang,20
+2026-02-01 10:01:58,Lippo Mall Cikarang,29
+2026-02-01 10:01:58,President University,33
+2026-02-01 10:03:03,Terminal Cikarang,35
+2026-02-01 10:03:03,Sentra Grosir Cikarang,26
+2026-02-01 10:03:03,Stasiun Cikarang,20
+2026-02-01 10:03:03,Lippo Mall Cikarang,22
+2026-02-01 10:03:03,President University,33
+2026-02-01 10:04:07,Terminal Cikarang,35
+2026-02-01 10:04:07,Sentra Grosir Cikarang,25
+2026-02-01 10:04:07,Stasiun Cikarang,20
+2026-02-01 10:04:07,Lippo Mall Cikarang,23
+2026-02-01 10:04:07,President University,33
+2026-02-01 10:05:11,Terminal Cikarang,36
+2026-02-01 10:05:11,Sentra Grosir Cikarang,26
+2026-02-01 10:05:11,Stasiun Cikarang,20
+2026-02-01 10:05:11,Lippo Mall Cikarang,23
+2026-02-01 10:05:11,President University,33
+2026-02-01 10:06:15,Terminal Cikarang,36
+2026-02-01 10:06:15,Sentra Grosir Cikarang,26
+2026-02-01 10:06:15,Stasiun Cikarang,20
+2026-02-01 10:06:15,Lippo Mall Cikarang,23
+2026-02-01 10:06:15,President University,33
+2026-02-01 10:07:20,Terminal Cikarang,45
+2026-02-01 10:07:20,Sentra Grosir Cikarang,25
+2026-02-01 10:07:20,Stasiun Cikarang,20
+2026-02-01 10:07:20,Lippo Mall Cikarang,23
+2026-02-01 10:07:20,President University,33
+2026-02-01 10:08:24,Terminal Cikarang,45
+2026-02-01 10:08:24,Sentra Grosir Cikarang,25
+2026-02-01 10:08:24,Stasiun Cikarang,19
+2026-02-01 10:08:24,Lippo Mall Cikarang,23
+2026-02-01 10:08:24,President University,33
+2026-02-01 10:09:28,Terminal Cikarang,45
+2026-02-01 10:09:28,Sentra Grosir Cikarang,23
+2026-02-01 10:09:28,Stasiun Cikarang,19
+2026-02-01 10:09:28,Lippo Mall Cikarang,23
+2026-02-01 10:09:28,President University,33
+2026-02-01 10:10:32,Terminal Cikarang,45
+2026-02-01 10:10:32,Sentra Grosir Cikarang,23
+2026-02-01 10:10:32,Stasiun Cikarang,20
+2026-02-01 10:10:32,Lippo Mall Cikarang,24
+2026-02-01 10:10:32,President University,33
+2026-02-01 10:11:37,Terminal Cikarang,45
+2026-02-01 10:11:37,Sentra Grosir Cikarang,24
+2026-02-01 10:11:37,Stasiun Cikarang,20
+2026-02-01 10:11:37,Lippo Mall Cikarang,24
+2026-02-01 10:11:37,President University,33
+2026-02-01 10:12:42,Terminal Cikarang,45
+2026-02-01 10:12:42,Sentra Grosir Cikarang,23
+2026-02-01 10:12:42,Stasiun Cikarang,20
+2026-02-01 10:12:42,Lippo Mall Cikarang,29
+2026-02-01 10:12:42,President University,33
+2026-02-01 10:13:46,Terminal Cikarang,45
+2026-02-01 10:13:46,Sentra Grosir Cikarang,24
+2026-02-01 10:13:46,Stasiun Cikarang,21
+2026-02-01 10:13:46,Lippo Mall Cikarang,29
+2026-02-01 10:13:46,President University,33
+2026-02-01 10:14:50,Terminal Cikarang,45
+2026-02-01 10:14:50,Sentra Grosir Cikarang,24
+2026-02-01 10:14:50,Stasiun Cikarang,21
+2026-02-01 10:14:50,Lippo Mall Cikarang,29
+2026-02-01 10:14:50,President University,33
+2026-02-01 10:15:54,Terminal Cikarang,45
+2026-02-01 10:15:54,Sentra Grosir Cikarang,24
+2026-02-01 10:15:54,Stasiun Cikarang,21
+2026-02-01 10:15:54,Lippo Mall Cikarang,29
+2026-02-01 10:15:54,President University,33
+2026-02-01 10:16:59,Terminal Cikarang,45
+2026-02-01 10:16:59,Sentra Grosir Cikarang,24
+2026-02-01 10:16:59,Stasiun Cikarang,20
+2026-02-01 10:16:59,Lippo Mall Cikarang,29
+2026-02-01 10:16:59,President University,33
+2026-02-01 10:18:03,Terminal Cikarang,45
+2026-02-01 10:18:03,Sentra Grosir Cikarang,24
+2026-02-01 10:18:03,Stasiun Cikarang,20
+2026-02-01 10:18:03,Lippo Mall Cikarang,29
+2026-02-01 10:18:03,President University,33
+2026-02-01 10:19:07,Terminal Cikarang,45
+2026-02-01 10:19:07,Sentra Grosir Cikarang,25
+2026-02-01 10:19:07,Stasiun Cikarang,20
+2026-02-01 10:19:07,Lippo Mall Cikarang,29
+2026-02-01 10:19:07,President University,33
+2026-02-01 10:20:12,Terminal Cikarang,45
+2026-02-01 10:20:12,Sentra Grosir Cikarang,27
+2026-02-01 10:20:12,Stasiun Cikarang,14
+2026-02-01 10:20:12,Lippo Mall Cikarang,29
+2026-02-01 10:20:12,President University,33
+2026-02-01 10:21:17,Terminal Cikarang,45
+2026-02-01 10:21:17,Sentra Grosir Cikarang,23
+2026-02-01 10:21:17,Stasiun Cikarang,14
+2026-02-01 10:21:17,Lippo Mall Cikarang,29
+2026-02-01 10:21:17,President University,33
+2026-02-01 10:22:21,Terminal Cikarang,45
+2026-02-01 10:22:21,Sentra Grosir Cikarang,23
+2026-02-01 10:22:21,Stasiun Cikarang,17
+2026-02-01 10:22:21,Lippo Mall Cikarang,29
+2026-02-01 10:22:21,President University,33
+2026-02-01 10:23:25,Terminal Cikarang,45
+2026-02-01 10:23:25,Sentra Grosir Cikarang,23
+2026-02-01 10:23:25,Stasiun Cikarang,17
+2026-02-01 10:23:25,Lippo Mall Cikarang,29
+2026-02-01 10:23:25,President University,33
+2026-02-01 10:24:29,Terminal Cikarang,45
+2026-02-01 10:24:29,Sentra Grosir Cikarang,23
+2026-02-01 10:24:29,Stasiun Cikarang,18
+2026-02-01 10:24:29,Lippo Mall Cikarang,29
+2026-02-01 10:24:29,President University,33
+2026-02-01 10:25:34,Terminal Cikarang,45
+2026-02-01 10:25:34,Sentra Grosir Cikarang,23
+2026-02-01 10:25:34,Stasiun Cikarang,18
+2026-02-01 10:25:34,Lippo Mall Cikarang,29
+2026-02-01 10:25:34,President University,33
+2026-02-01 10:26:38,Terminal Cikarang,45
+2026-02-01 10:26:38,Sentra Grosir Cikarang,23
+2026-02-01 10:26:38,Stasiun Cikarang,20
+2026-02-01 10:26:38,Lippo Mall Cikarang,29
+2026-02-01 10:26:38,President University,33
+2026-02-01 10:27:42,Terminal Cikarang,45
+2026-02-01 10:27:42,Sentra Grosir Cikarang,22
+2026-02-01 10:27:42,Stasiun Cikarang,20
+2026-02-01 10:27:42,Lippo Mall Cikarang,29
+2026-02-01 10:27:42,President University,33
+2026-02-01 10:28:46,Terminal Cikarang,45
+2026-02-01 10:28:46,Sentra Grosir Cikarang,22
+2026-02-01 10:28:46,Stasiun Cikarang,21
+2026-02-01 10:28:46,Lippo Mall Cikarang,29
+2026-02-01 10:28:46,President University,33
+2026-02-01 10:29:50,Terminal Cikarang,45
+2026-02-01 10:29:50,Sentra Grosir Cikarang,22
+2026-02-01 10:29:50,Stasiun Cikarang,20
+2026-02-01 10:29:50,Lippo Mall Cikarang,29
+2026-02-01 10:29:50,President University,33
+2026-02-01 10:30:54,Terminal Cikarang,45
+2026-02-01 10:30:54,Sentra Grosir Cikarang,22
+2026-02-01 10:30:54,Stasiun Cikarang,20
+2026-02-01 10:30:54,Lippo Mall Cikarang,25
+2026-02-01 10:30:54,President University,33
+2026-02-01 10:31:59,Terminal Cikarang,45
+2026-02-01 10:31:59,Sentra Grosir Cikarang,20
+2026-02-01 10:31:59,Stasiun Cikarang,20
+2026-02-01 10:31:59,Lippo Mall Cikarang,25
+2026-02-01 10:31:59,President University,33
+2026-02-01 10:33:03,Terminal Cikarang,36
+2026-02-01 10:33:03,Sentra Grosir Cikarang,22
+2026-02-01 10:33:03,Stasiun Cikarang,20
+2026-02-01 10:33:03,Lippo Mall Cikarang,29
+2026-02-01 10:33:03,President University,33
+2026-02-01 10:34:07,Terminal Cikarang,35
+2026-02-01 10:34:07,Sentra Grosir Cikarang,22
+2026-02-01 10:34:07,Stasiun Cikarang,20
+2026-02-01 10:34:07,Lippo Mall Cikarang,29
+2026-02-01 10:34:07,President University,33
+2026-02-01 10:35:11,Terminal Cikarang,35
+2026-02-01 10:35:11,Sentra Grosir Cikarang,22
+2026-02-01 10:35:11,Stasiun Cikarang,19
+2026-02-01 10:35:11,Lippo Mall Cikarang,29
+2026-02-01 10:35:11,President University,33
+2026-02-01 10:36:15,Terminal Cikarang,36
+2026-02-01 10:36:15,Sentra Grosir Cikarang,22
+2026-02-01 10:36:15,Stasiun Cikarang,19
+2026-02-01 10:36:15,Lippo Mall Cikarang,29
+2026-02-01 10:36:15,President University,33
+2026-02-01 10:37:20,Terminal Cikarang,36
+2026-02-01 10:37:20,Sentra Grosir Cikarang,22
+2026-02-01 10:37:20,Stasiun Cikarang,18
+2026-02-01 10:37:20,Lippo Mall Cikarang,29
+2026-02-01 10:37:20,President University,33
+2026-02-01 10:38:24,Terminal Cikarang,36
+2026-02-01 10:38:24,Sentra Grosir Cikarang,22
+2026-02-01 10:38:24,Stasiun Cikarang,18
+2026-02-01 10:38:24,Lippo Mall Cikarang,29
+2026-02-01 10:38:24,President University,33
+2026-02-01 10:39:28,Terminal Cikarang,36
+2026-02-01 10:39:28,Sentra Grosir Cikarang,20
+2026-02-01 10:39:28,Stasiun Cikarang,18
+2026-02-01 10:39:28,Lippo Mall Cikarang,29
+2026-02-01 10:39:28,President University,33
+2026-02-01 10:40:33,Terminal Cikarang,36
+2026-02-01 10:40:33,Sentra Grosir Cikarang,22
+2026-02-01 10:40:33,Stasiun Cikarang,18
+2026-02-01 10:40:33,Lippo Mall Cikarang,29
+2026-02-01 10:40:33,President University,33
+2026-02-01 10:41:37,Terminal Cikarang,36
+2026-02-01 10:41:37,Sentra Grosir Cikarang,22
+2026-02-01 10:41:37,Stasiun Cikarang,18
+2026-02-01 10:41:37,Lippo Mall Cikarang,29
+2026-02-01 10:41:37,President University,33
+2026-02-01 10:42:41,Terminal Cikarang,45
+2026-02-01 10:42:41,Sentra Grosir Cikarang,22
+2026-02-01 10:42:41,Stasiun Cikarang,19
+2026-02-01 10:42:41,Lippo Mall Cikarang,29
+2026-02-01 10:42:41,President University,33
+2026-02-01 10:43:45,Terminal Cikarang,36
+2026-02-01 10:43:45,Sentra Grosir Cikarang,21
+2026-02-01 10:43:45,Stasiun Cikarang,19
+2026-02-01 10:43:45,Lippo Mall Cikarang,29
+2026-02-01 10:43:45,President University,33
+2026-02-01 10:44:49,Terminal Cikarang,36
+2026-02-01 10:44:49,Sentra Grosir Cikarang,21
+2026-02-01 10:44:49,Stasiun Cikarang,19
+2026-02-01 10:44:49,Lippo Mall Cikarang,29
+2026-02-01 10:44:49,President University,33
+2026-02-01 10:45:54,Terminal Cikarang,34
+2026-02-01 10:45:54,Sentra Grosir Cikarang,21
+2026-02-01 10:45:54,Stasiun Cikarang,18
+2026-02-01 10:45:54,Lippo Mall Cikarang,29
+2026-02-01 10:45:54,President University,33
+2026-02-01 10:46:58,Terminal Cikarang,34
+2026-02-01 10:46:58,Sentra Grosir Cikarang,21
+2026-02-01 10:46:58,Stasiun Cikarang,19
+2026-02-01 10:46:58,Lippo Mall Cikarang,29
+2026-02-01 10:46:58,President University,33
+2026-02-01 10:48:03,Terminal Cikarang,35
+2026-02-01 10:48:03,Sentra Grosir Cikarang,19
+2026-02-01 10:48:03,Stasiun Cikarang,19
+2026-02-01 10:48:03,Lippo Mall Cikarang,29
+2026-02-01 10:48:03,President University,33
+2026-02-01 10:49:07,Terminal Cikarang,35
+2026-02-01 10:49:07,Sentra Grosir Cikarang,20
+2026-02-01 10:49:07,Stasiun Cikarang,18
+2026-02-01 10:49:07,Lippo Mall Cikarang,23
+2026-02-01 10:49:07,President University,33
+2026-02-01 10:50:12,Terminal Cikarang,35
+2026-02-01 10:50:12,Sentra Grosir Cikarang,20
+2026-02-01 10:50:12,Stasiun Cikarang,19
+2026-02-01 10:50:12,Lippo Mall Cikarang,23
+2026-02-01 10:50:12,President University,33
+2026-02-01 10:51:16,Terminal Cikarang,45
+2026-02-01 10:51:16,Sentra Grosir Cikarang,19
+2026-02-01 10:51:16,Stasiun Cikarang,19
+2026-02-01 10:51:16,Lippo Mall Cikarang,29
+2026-02-01 10:51:16,President University,33
+2026-02-01 14:56:07,Terminal Cikarang,45
+2026-02-01 14:56:07,Sentra Grosir Cikarang,18
+2026-02-01 14:56:07,Stasiun Cikarang,20
+2026-02-01 14:56:07,Lippo Mall Cikarang,23
+2026-02-01 14:56:07,President University,33
+2026-02-01 14:57:12,Terminal Cikarang,45
+2026-02-01 14:57:12,Sentra Grosir Cikarang,18
+2026-02-01 14:57:12,Stasiun Cikarang,19
+2026-02-01 14:57:12,Lippo Mall Cikarang,29
+2026-02-01 14:57:12,President University,33
+2026-02-01 14:58:16,Terminal Cikarang,45
+2026-02-01 14:58:16,Sentra Grosir Cikarang,18
+2026-02-01 14:58:16,Stasiun Cikarang,19
+2026-02-01 14:58:16,Lippo Mall Cikarang,29
+2026-02-01 14:58:16,President University,33
+2026-02-01 14:59:20,Terminal Cikarang,45
+2026-02-01 14:59:20,Sentra Grosir Cikarang,18
+2026-02-01 14:59:20,Stasiun Cikarang,19
+2026-02-01 14:59:20,Lippo Mall Cikarang,29
+2026-02-01 14:59:20,President University,33
+2026-02-01 15:00:24,Terminal Cikarang,45
+2026-02-01 15:00:24,Sentra Grosir Cikarang,19
+2026-02-01 15:00:24,Stasiun Cikarang,19
+2026-02-01 15:00:24,Lippo Mall Cikarang,29
+2026-02-01 15:00:24,President University,33
+2026-02-01 15:01:29,Terminal Cikarang,45
+2026-02-01 15:01:29,Sentra Grosir Cikarang,19
+2026-02-01 15:01:29,Stasiun Cikarang,19
+2026-02-01 15:01:29,Lippo Mall Cikarang,29
+2026-02-01 15:01:29,President University,33
+2026-02-01 15:02:33,Terminal Cikarang,45
+2026-02-01 15:02:33,Sentra Grosir Cikarang,21
+2026-02-01 15:02:33,Stasiun Cikarang,19
+2026-02-01 15:02:33,Lippo Mall Cikarang,29
+2026-02-01 15:02:33,President University,33
+2026-02-01 15:03:37,Terminal Cikarang,45
+2026-02-01 15:03:37,Sentra Grosir Cikarang,20
+2026-02-01 15:03:37,Stasiun Cikarang,19
+2026-02-01 15:03:37,Lippo Mall Cikarang,29
+2026-02-01 15:03:37,President University,33
+2026-02-01 15:04:41,Terminal Cikarang,45
+2026-02-01 15:04:41,Sentra Grosir Cikarang,24
+2026-02-01 15:04:41,Stasiun Cikarang,19
+2026-02-01 15:04:41,Lippo Mall Cikarang,29
+2026-02-01 15:04:41,President University,33

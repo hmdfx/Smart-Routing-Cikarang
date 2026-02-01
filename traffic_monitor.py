@@ -4,8 +4,8 @@ import time
 import os
 from datetime import datetime
 
-# ================= KONFIGURASI =================
-TOMTOM_API_KEY = "icrWu22nNRnduwbKTU1ClF2oiVWGZCYl"
+# ================= KONFIGURASI ================= 
+TOMTOM_API_KEY = "xxxxx"
 
 # Daftar 5 Lokasi Cikarang
 LOCATIONS = [
@@ -16,9 +16,13 @@ LOCATIONS = [
     {'nama': 'President University',   'lat': '-6.2850', 'lon': '107.1706'}
 ]
 
-# Agar File CSV tersimpan di folder yang sama dengan script (Anti Error)
+# Agar File CSV tersimpan di folder yang sama dengan script
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_FILENAME = os.path.join(SCRIPT_DIR, "traffic_data.csv")
+
+# --- PERUBAHAN DI SINI ---
+# Kita gunakan nama file yang TETAP (Statis) agar semua history masuk ke satu file ini.
+# Tidak menggunakan tanggal di nama file, agar data besok/lusa tetap masuk ke file yang sama.
+CSV_FILENAME = os.path.join(SCRIPT_DIR, "traffic_data_history.csv")
 
 def get_speed(lat, lon):
     """Hanya mengambil data kecepatan (km/h)"""
@@ -27,29 +31,36 @@ def get_speed(lat, lon):
         response = requests.get(url, timeout=5)
         if response.status_code == 200:
             data = response.json().get('flowSegmentData', {})
-            return data.get('currentSpeed') # Mengembalikan nilai integer, misal: 45
+            return data.get('currentSpeed')
     except Exception as e:
         print(f"Error koneksi: {e}")
     return None
 
 def main():
-    print("=== MONITORING SPEED CIKARANG (5 LOKASI) ===")
-    print(f"Menyimpan data ke: {CSV_FILENAME}")
+    print("=== MONITORING SPEED CIKARANG (PERSISTENT HISTORY) ===")
+    print(f"Menyimpan semua data ke: {CSV_FILENAME}")
     print("Tekan CTRL+C untuk berhenti.\n")
 
     headers = ['timestamp', 'location_name', 'speed_kmh']
 
-    # Cek file, jika belum ada buat header
+    # --- LOGIKA ANTI-HAPUS HISTORY ---
+    # 1. Cek apakah file SUDAH ADA?
     if not os.path.exists(CSV_FILENAME):
+        # Jika BELUM ADA, buat file baru dan tulis Header (Judul Kolom)
+        print("File belum ada, membuat file baru...")
         with open(CSV_FILENAME, 'w', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=headers)
             writer.writeheader()
+    else:
+        print("File sudah ada, melanjutkan history yang lama...")
 
     try:
         while True:
             timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             print(f"[{timestamp}] Mengambil data kecepatan...")
 
+            # 2. Gunakan mode 'a' (APPEND) untuk menambah data di baris bawah
+            # Mode 'a' tidak akan menghapus data lama.
             with open(CSV_FILENAME, 'a', newline='') as f:
                 writer = csv.DictWriter(f, fieldnames=headers)
                 
@@ -67,7 +78,7 @@ def main():
                         print(f"   > {loc['nama']}: Gagal mengambil data")
             
             print("   --- Jeda 1 menit ---\n")
-            time.sleep(60) # Ambil data setiap 60 detik
+            time.sleep(60)
 
     except KeyboardInterrupt:
         print("\nProgram dihentikan.")

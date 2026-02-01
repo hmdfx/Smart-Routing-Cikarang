@@ -1,7 +1,8 @@
 import requests
 import pandas as pd
 from datetime import datetime
-import pytz # Library untuk zona waktu (pip install pytz)
+import pytz 
+import os # Tambahan import os
 
 # ==========================================
 # 1. KONFIGURASI 5 LOKASI
@@ -14,27 +15,28 @@ LOCATIONS = {
     "Lippo Mall Cikarang":    {"lat": -6.334081, "lon": 107.136950}
 }
 
+# Nama file statis (agar history terkumpul di satu file)
+CSV_FILENAME = "weather_data_history.csv"
+
 # ==========================================
 # 2. FUNGSI AMBIL DATA HARIAN (FULL DAY)
 # ==========================================
 def fetch_today_history(nama_lokasi, lat, lon):
     print(f"   ⏳ Mengambil data: {nama_lokasi}...", end=" ")
     
-    # URL untuk meminta data per jam (Hourly)
     url = "https://api.open-meteo.com/v1/forecast"
     params = {
         "latitude": lat,
         "longitude": lon,
         "hourly": "temperature_2m,weathercode,windspeed_10m,winddirection_10m",
-        "timezone": "Asia/Jakarta", # Pastikan pakai WIB
-        "forecast_days": 1 # Hanya minta data hari ini
+        "timezone": "Asia/Jakarta",
+        "forecast_days": 1 
     }
 
     try:
         response = requests.get(url, params=params)
         data = response.json()
         
-        # Data dari API berupa list panjang (00:00 - 23:00)
         hourly = data['hourly']
         timestamps = hourly['time']
         temps = hourly['temperature_2m']
@@ -42,7 +44,6 @@ def fetch_today_history(nama_lokasi, lat, lon):
         winds = hourly['windspeed_10m']
         dirs = hourly['winddirection_10m']
 
-        # Kita harus filter: Ambil hanya yang waktunya <= Sekarang
         current_time_str = datetime.now(pytz.timezone('Asia/Jakarta')).strftime("%Y-%m-%dT%H:%M")
         
         hasil_filter = []
@@ -50,11 +51,10 @@ def fetch_today_history(nama_lokasi, lat, lon):
         for i in range(len(timestamps)):
             waktu_data = timestamps[i]
             
-            # LOGIKA UTAMA: Stop jika waktu data sudah melewati waktu sekarang
+            # Stop jika waktu data sudah melewati waktu sekarang
             if waktu_data > current_time_str:
                 break 
                 
-            # Masukkan ke list
             hasil_filter.append({
                 "nama_lokasi": nama_lokasi,
                 "waktu": waktu_data,
@@ -75,22 +75,48 @@ def fetch_today_history(nama_lokasi, lat, lon):
 # 3. PROGRAM UTAMA
 # ==========================================
 if __name__ == "__main__":
-    print("--- 📅 DAILY WEATHER SNAPSHOT (00:00 - NOW) 📅 ---")
-    today_str = datetime.now().strftime("%Y-%m-%d")
-    output_file = f"weather_data.csv"
+    print(f"--- 📅 DAILY WEATHER HISTORY MANAGER 📅 ---")
+    print(f"Target File: {CSV_FILENAME}")
     
-    all_data = []
+    # 1. Cek data lama untuk MENCEGAH DUPLIKAT
+    # Karena API mengambil data dari jam 00:00, kita harus tahu data mana yang sudah punya.
+    existing_records = set()
+    
+    if os.path.exists(CSV_FILENAME):
+        try:
+            df_existing = pd.read_csv(CSV_FILENAME)
+            # Kita buat 'kunci unik' gabungan Lokasi + Waktu
+            for index, row in df_existing.iterrows():
+                key = f"{row['nama_lokasi']}_{row['waktu']}"
+                existing_records.add(key)
+            print(f"📄 File ditemukan. Memuat {len(existing_records)} data history lama.")
+        except Exception as e:
+            print(f"⚠️ Gagal membaca file lama: {e}")
+    else:
+        print("✨ File belum ada. Akan membuat file baru.")
 
-    # Loop 5 Lokasi
+    # 2. Ambil Data Baru
+    all_new_data = []
+    print("\n--- Mulai Mengambil Data Baru ---")
     for nama, coords in LOCATIONS.items():
         lokasi_data = fetch_today_history(nama, coords['lat'], coords['lon'])
-        all_data.extend(lokasi_data)
+        
+        # Filter: Hanya masukkan jika data tersebut BELUM ADA di file lama
+        for item in lokasi_data:
+            key = f"{item['nama_lokasi']}_{item['waktu']}"
+            if key not in existing_records:
+                all_new_data.append(item)
 
-    # Simpan ke CSV
-    if all_data:
-        df = pd.DataFrame(all_data)
-        df.to_csv(output_file, index=False)
-        print(f"\n🎉 SUKSES! {len(all_data)} data tersimpan di '{output_file}'")
-        print("Silakan buka file CSV untuk melihat data dari jam 00:00 sampai sekarang.")
+    # 3. Simpan (Append) ke CSV
+    if all_new_data:
+        df_new = pd.DataFrame(all_new_data)
+        
+        # Jika file belum ada, tulis header. Jika sudah ada, jangan tulis header.
+        header_mode = not os.path.exists(CSV_FILENAME)
+        
+        # Mode 'a' = Append (Menambahkan ke bawah)
+        df_new.to_csv(CSV_FILENAME, mode='a', header=header_mode, index=False)
+        
+        print(f"\n🎉 SUKSES! {len(all_new_data)} data BARU ditambahkan ke '{CSV_FILENAME}'")
     else:
-        print("\n⚠️ Tidak ada data yang tersimpan.")
+        print("\n✅ Data sudah up-to-date. Tidak ada data baru untuk ditambahkan.")
