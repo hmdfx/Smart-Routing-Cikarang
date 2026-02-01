@@ -1,4 +1,5 @@
 // ================= KONFIGURASI =================
+// Ganti dengan API Key TomTom kamu jika belum ada
 const TOMTOM_KEY = 'xxxxx'; 
 
 const COORDS = {
@@ -16,8 +17,9 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 var routeLayer = null;
-var startMarker = null; // Variabel untuk Marker Asal
-var endMarker = null;   // Variabel untuk Marker Tujuan
+var startMarker = null;
+var endMarker = null;
+let trafficChart = null; // [BARU] Variabel untuk Grafik Chart.js
 
 // ================= HELPER: TERJEMAHKAN KODE CUACA =================
 function getWeatherDesc(code) {
@@ -45,23 +47,26 @@ async function calculateSmartETA() {
     }
 
     // --- 1. UPDATE MARKER DI PETA ---
-    // Hapus marker lama jika ada
     if (startMarker) map.removeLayer(startMarker);
     if (endMarker) map.removeLayer(endMarker);
 
-    // Parse Koordinat string "-6.xxx,107.xxx" menjadi array [-6.xxx, 107.xxx] untuk Leaflet
     var startLatLong = COORDS[startName].split(',');
     var endLatLong = COORDS[endName].split(',');
 
-    // Tambah Marker Baru
     startMarker = L.marker(startLatLong).addTo(map)
         .bindPopup("📍 " + startName).openPopup();
 
     endMarker = L.marker(endLatLong).addTo(map)
         .bindPopup("🏁" + endName);
 
+    // ============================================================
+    // [BARU] STEP 3: PANGGIL FUNGSI ANALYTICS (TAMPILKAN GRAFIK)
+    // ============================================================
+    // Kita load analitik untuk lokasi ASAL agar user tau kondisi start point
+    loadAnalytics(startName);
 
-    // --- 2. AMBIL KONDISI DARI BACKEND ---
+
+    // --- 2. AMBIL KONDISI REAL-TIME DARI BACKEND ---
     let conditions = null;
     try {
         let res = await fetch(`/api/get_conditions/${startName}/${endName}`);
@@ -85,7 +90,7 @@ async function calculateSmartETA() {
     } catch (e) { console.error("Gagal ambil kondisi:", e); }
 
 
-    // --- 3. LOGIKA WEATHER IMPACT ---
+    // --- 3. LOGIKA WEATHER IMPACT (SMART ETA) ---
     let avgRain = 0;
     if (conditions) {
         avgRain = (conditions.start.rain + conditions.end.rain) / 2;
@@ -141,7 +146,6 @@ async function calculateSmartETA() {
             
             routeLayer = L.polyline(points, {color: lineColor, weight: 6, opacity: 0.8}).addTo(map);
             
-            // Zoom peta agar memuat rute DAN marker
             var group = new L.featureGroup([startMarker, endMarker, routeLayer]);
             map.fitBounds(group.getBounds(), {padding: [50, 50]});
         }
@@ -149,4 +153,71 @@ async function calculateSmartETA() {
         alert("Gagal koneksi ke TomTom: " + e); 
         console.error(e);
     }
+}
+
+// ============================================================
+// [BARU] FUNGSI STEP 3: LOGIKA CHART.JS & ANALYTICS
+// ============================================================
+
+async function loadAnalytics(locationName) {
+    try {
+        let res = await fetch(`/api/analytics/${locationName}`);
+        let data = await res.json();
+
+        if (data.error) return;
+
+        document.getElementById('analyticsCard').style.display = 'block';
+        
+        // Tampilkan 2 Baris Status: Volatilitas & Dampak Hujan
+        let statusHTML = `
+            <div style="margin-bottom:5px;">🚦 <b>${data.status}</b> (Volatilitas: ${data.volatility})</div>
+            <div style="font-size:13px; color:#d63384;">🌧️ <b>${data.rain_impact}</b></div>
+        `;
+        
+        document.getElementById('algoStatus').innerHTML = statusHTML;
+
+        renderChart(data.hours, data.speeds);
+
+    } catch (e) {
+        console.error("Gagal load analytics:", e);
+    }
+}
+
+function renderChart(labels, dataPoints) {
+    const ctx = document.getElementById('predictionChart').getContext('2d');
+
+    // Hapus chart lama jika ada (agar tidak menumpuk)
+    if (trafficChart) {
+        trafficChart.destroy();
+    }
+
+    // Buat Chart Baru
+    trafficChart = new Chart(ctx, {
+        type: 'line', // Grafik Garis
+        data: {
+            labels: labels.map(h => `${h}:00`), // Label Sumbu X (Jam)
+            datasets: [{
+                label: 'Kecepatan Rata-rata (km/h)',
+                data: dataPoints,
+                borderColor: '#007bff', // Warna Garis Biru
+                backgroundColor: 'rgba(0, 123, 255, 0.1)', // Warna Arsiran Bawah
+                borderWidth: 2,
+                tension: 0.4, // Membuat garis melengkung halus (Spline)
+                pointRadius: 2,
+                fill: true
+            }]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    title: { display: true, text: 'Kecepatan (km/h)' }
+                }
+            },
+            plugins: {
+                legend: { display: false } // Sembunyikan legenda agar rapi
+            }
+        }
+    });
 }

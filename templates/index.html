@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Smart Routing Cikarang</title>
-    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
@@ -30,6 +30,18 @@
 
         <button id="btnCalculate">🔍 Hitung Rute & Analisis</button>
 
+        <div id="analyticsCard" class="card" style="display:none; margin-top: 20px;">
+            <h4>📊 Tren Historis (AI Prediction)</h4>
+            <p style="font-size: 12px; color: #666;">Analisis dari 4.000+ data lalu lintas.</p>
+        
+            <div style="margin-bottom: 10px;">
+                <small>Status Jalan:</small><br>
+                <b id="algoStatus" style="color: #007bff;">-</b>
+            </div>
+        
+            <canvas id="predictionChart" width="280" height="200"></canvas>
+        </div>
+        
         <div id="resultCard" class="card" style="display:none;">
             <h4>Analisis Perjalanan</h4>
             <div class="stat-row"><span>📏 Jarak:</span> <span id="distVal" class="val">-</span></div>
